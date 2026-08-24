@@ -1,0 +1,11 @@
+.absolute {
+  position: absolute;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  background: oklch(0.13 0 0);
+}
