@@ -1,0 +1,2 @@
+date,current_rate,forecast_p10,forecast_p50,forecast_p90,expected_change,uncertainty_pct,recommendation,confidence,reason
+2025-11-16,29.18,27.721696116029605,28.155069584801574,28.745772145689145,1.0249304151984262,3.5,WAIT,High,Model predicts $1.02/t drop (P50=$28.16 vs current $29.18).

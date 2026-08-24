@@ -1,0 +1,16 @@
+======================================================================
+FREIGHT FORECASTING PIPELINE -- COMBINED MODEL REPORT
+======================================================================
+
+Training data: 743 rows | 2023-07-31 to 2025-08-11
+Test data:     90 rows | 2025-08-12 to 2025-11-09
+Features:      56
+
+Naive MAE: 0.572 | XGB P50 MAE: 0.454
+Improvement: 20.7%
+Coverage: 77.8% | Directional: 76.7%
+
+Strategy: Naive=$2675.53, Engine=$2653.27, AlwaysWait=$2665.50
+Savings vs naive: $22.26 ($0.247/t, 0.83%)
+WAIT precision: 37/45 = 82%
+BUY precision:  29/45 = 64%
