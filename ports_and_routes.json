@@ -1,0 +1,536 @@
+{
+  "indian_ports": {
+    "IN_PRT": {
+      "id": "IN_PRT",
+      "name": "Paradip Port (PPT)",
+      "state": "Odisha",
+      "lat": 20.2644,
+      "lon": 86.6897,
+      "max_draft_m": 16.0,
+      "max_dwt": 125000,
+      "mechanized_discharge_rate_tpd": 45000,
+      "manual_discharge_rate_tpd": 18000,
+      "avg_waiting_days": 2.8,
+      "demurrage_usd_per_day": 24000,
+      "port_dues_usd_per_ton": 3.85,
+      "primary_cargoes": [
+        "Thermal Coal",
+        "Coking Coal",
+        "Iron Ore Pellets",
+        "Limestone"
+      ],
+      "key_plants_served": [
+        "NTPC Talcher",
+        "SAIL Rourkela",
+        "Tata Steel Kalinganagar",
+        "JSPIL Angul"
+      ],
+      "monsoon_risk_index": 7.2
+    },
+    "IN_VTZ": {
+      "id": "IN_VTZ",
+      "name": "Visakhapatnam Port (VPT)",
+      "state": "Andhra Pradesh",
+      "lat": 17.6868,
+      "lon": 83.2185,
+      "max_draft_m": 18.1,
+      "max_dwt": 200000,
+      "mechanized_discharge_rate_tpd": 55000,
+      "manual_discharge_rate_tpd": 22000,
+      "avg_waiting_days": 1.9,
+      "demurrage_usd_per_day": 26000,
+      "port_dues_usd_per_ton": 4.1,
+      "primary_cargoes": [
+        "Coking Coal",
+        "Thermal Coal",
+        "Manganese Ore",
+        "Petcoke",
+        "Crude Oil"
+      ],
+      "key_plants_served": [
+        "RINL Vizag Steel",
+        "NTPC Simhadri",
+        "NMDC Steel Nagarnar"
+      ],
+      "monsoon_risk_index": 6.5
+    },
+    "IN_DHM": {
+      "id": "IN_DHM",
+      "name": "Dhamra Port (DPCL)",
+      "state": "Odisha",
+      "lat": 20.8037,
+      "lon": 86.9664,
+      "max_draft_m": 18.5,
+      "max_dwt": 200000,
+      "mechanized_discharge_rate_tpd": 60000,
+      "manual_discharge_rate_tpd": 25000,
+      "avg_waiting_days": 1.4,
+      "demurrage_usd_per_day": 28000,
+      "port_dues_usd_per_ton": 4.3,
+      "primary_cargoes": [
+        "Coking Coal",
+        "Thermal Coal",
+        "Limestone"
+      ],
+      "key_plants_served": [
+        "Tata Steel Jamshedpur",
+        "Tata Steel Kalinganagar",
+        "SAIL Bokaro"
+      ],
+      "monsoon_risk_index": 6.8
+    },
+    "IN_HAL": {
+      "id": "IN_HAL",
+      "name": "Haldia Dock Complex (HDC)",
+      "state": "West Bengal",
+      "lat": 22.0232,
+      "lon": 88.0645,
+      "max_draft_m": 8.0,
+      "max_dwt": 45000,
+      "mechanized_discharge_rate_tpd": 20000,
+      "manual_discharge_rate_tpd": 12000,
+      "avg_waiting_days": 4.5,
+      "demurrage_usd_per_day": 18000,
+      "port_dues_usd_per_ton": 5.2,
+      "primary_cargoes": [
+        "Coking Coal",
+        "Thermal Coal",
+        "Rock Phosphate",
+        "LPG/LNG"
+      ],
+      "key_plants_served": [
+        "SAIL Durgapur",
+        "SAIL Burnpur IISCO",
+        "WBPDCL Kolaghat"
+      ],
+      "monsoon_risk_index": 8.1
+    },
+    "IN_KRP": {
+      "id": "IN_KRP",
+      "name": "Krishnapatnam Port (KPCL)",
+      "state": "Andhra Pradesh",
+      "lat": 14.2547,
+      "lon": 80.1293,
+      "max_draft_m": 18.0,
+      "max_dwt": 200000,
+      "mechanized_discharge_rate_tpd": 50000,
+      "manual_discharge_rate_tpd": 20000,
+      "avg_waiting_days": 1.6,
+      "demurrage_usd_per_day": 25000,
+      "port_dues_usd_per_ton": 3.95,
+      "primary_cargoes": [
+        "Thermal Coal",
+        "Coking Coal",
+        "Fertilizers",
+        "Edible Oil"
+      ],
+      "key_plants_served": [
+        "APGENCO Sri Damodaram Sanjeevaiah",
+        "JSW Steel Bellary",
+        "NTPC Ramagundam"
+      ],
+      "monsoon_risk_index": 5.4
+    },
+    "IN_ENR": {
+      "id": "IN_ENR",
+      "name": "Kamarajar Port (Ennore)",
+      "state": "Tamil Nadu",
+      "lat": 13.2562,
+      "lon": 80.3347,
+      "max_draft_m": 16.0,
+      "max_dwt": 150000,
+      "mechanized_discharge_rate_tpd": 42000,
+      "manual_discharge_rate_tpd": 18000,
+      "avg_waiting_days": 2.1,
+      "demurrage_usd_per_day": 22000,
+      "port_dues_usd_per_ton": 3.7,
+      "primary_cargoes": [
+        "Thermal Coal",
+        "Automobiles",
+        "LPG",
+        "Iron Ore"
+      ],
+      "key_plants_served": [
+        "TANGEDCO North Chennai Thermal",
+        "NTPC Vallur"
+      ],
+      "monsoon_risk_index": 6.0
+    },
+    "IN_TUT": {
+      "id": "IN_TUT",
+      "name": "V.O. Chidambaranar Port (Tuticorin)",
+      "state": "Tamil Nadu",
+      "lat": 8.7495,
+      "lon": 78.1963,
+      "max_draft_m": 14.2,
+      "max_dwt": 85000,
+      "mechanized_discharge_rate_tpd": 30000,
+      "manual_discharge_rate_tpd": 15000,
+      "avg_waiting_days": 2.3,
+      "demurrage_usd_per_day": 20000,
+      "port_dues_usd_per_ton": 3.6,
+      "primary_cargoes": [
+        "Thermal Coal",
+        "Rock Phosphate",
+        "Copper Concentrate",
+        "Timber"
+      ],
+      "key_plants_served": [
+        "Tuticorin Thermal Power Station (TTPS)",
+        "NTPL Tuticorin"
+      ],
+      "monsoon_risk_index": 4.8
+    }
+  },
+  "overseas_ports": {
+    "AU_GLA": {
+      "id": "AU_GLA",
+      "name": "Gladstone Port / Hay Point",
+      "country": "Australia",
+      "lat": -23.8378,
+      "lon": 151.2564,
+      "primary_cargo": "Coking Coal",
+      "fob_price_base_usd": 245.0,
+      "loading_rate_tpd": 75000,
+      "region": "Australia"
+    },
+    "AU_NEW": {
+      "id": "AU_NEW",
+      "name": "Port of Newcastle",
+      "country": "Australia",
+      "lat": -32.9193,
+      "lon": 151.7828,
+      "primary_cargo": "High-CV Thermal Coal",
+      "fob_price_base_usd": 138.0,
+      "loading_rate_tpd": 80000,
+      "region": "Australia"
+    },
+    "AU_HED": {
+      "id": "AU_HED",
+      "name": "Port Hedland / Dampier",
+      "country": "Australia",
+      "lat": -20.3167,
+      "lon": 118.576,
+      "primary_cargo": "Iron Ore",
+      "fob_price_base_usd": 108.0,
+      "loading_rate_tpd": 110000,
+      "region": "Australia"
+    },
+    "ID_SAM": {
+      "id": "ID_SAM",
+      "name": "Samarinda / Tanjung Bara",
+      "country": "Indonesia",
+      "lat": 0.5014,
+      "lon": 117.1265,
+      "primary_cargo": "Thermal Coal",
+      "fob_price_base_usd": 56.5,
+      "loading_rate_tpd": 35000,
+      "region": "Indonesia"
+    },
+    "ZA_RCB": {
+      "id": "ZA_RCB",
+      "name": "Richards Bay (RBCT)",
+      "country": "South Africa",
+      "lat": -28.7997,
+      "lon": 32.0383,
+      "primary_cargo": "Thermal Coal",
+      "fob_price_base_usd": 112.0,
+      "loading_rate_tpd": 65000,
+      "region": "South Africa"
+    },
+    "SA_RTN": {
+      "id": "SA_RTN",
+      "name": "Ras Tanura",
+      "country": "Saudi Arabia",
+      "lat": 26.6385,
+      "lon": 50.1585,
+      "primary_cargo": "Petcoke / Liquid Bulk",
+      "fob_price_base_usd": 78.0,
+      "loading_rate_tpd": 90000,
+      "region": "Middle East"
+    }
+  },
+  "routes": [
+    {
+      "route_id": "AU_GLA_TO_IN_PRT",
+      "name": "Gladstone (AU) -> Paradip (IN)",
+      "origin_id": "AU_GLA",
+      "destination_id": "IN_PRT",
+      "distance_nm": 4950,
+      "standard_transit_days_12kn": 17.2,
+      "cargo_type": "Coking Coal",
+      "suitable_vessels": [
+        "CAPESIZE",
+        "PANAMAX"
+      ],
+      "base_freight_usd_ton": 15.8,
+      "waypoints": [
+        [
+          -23.83,
+          151.25
+        ],
+        [
+          -10.5,
+          142.2
+        ],
+        [
+          -8.5,
+          115.5
+        ],
+        [
+          5.8,
+          95.2
+        ],
+        [
+          12.0,
+          88.0
+        ],
+        [
+          20.26,
+          86.68
+        ]
+      ]
+    },
+    {
+      "route_id": "AU_NEW_TO_IN_VTZ",
+      "name": "Newcastle (AU) -> Visakhapatnam (IN)",
+      "origin_id": "AU_NEW",
+      "destination_id": "IN_VTZ",
+      "distance_nm": 5320,
+      "standard_transit_days_12kn": 18.5,
+      "cargo_type": "Thermal Coal",
+      "suitable_vessels": [
+        "CAPESIZE",
+        "PANAMAX"
+      ],
+      "base_freight_usd_ton": 16.9,
+      "waypoints": [
+        [
+          -32.92,
+          151.78
+        ],
+        [
+          -38.5,
+          146.0
+        ],
+        [
+          -34.0,
+          115.0
+        ],
+        [
+          -10.0,
+          95.0
+        ],
+        [
+          5.8,
+          85.0
+        ],
+        [
+          17.68,
+          83.21
+        ]
+      ]
+    },
+    {
+      "route_id": "ID_SAM_TO_IN_PRT",
+      "name": "Samarinda (ID) -> Paradip (IN)",
+      "origin_id": "ID_SAM",
+      "destination_id": "IN_PRT",
+      "distance_nm": 2350,
+      "standard_transit_days_12kn": 8.2,
+      "cargo_type": "Thermal Coal",
+      "suitable_vessels": [
+        "PANAMAX",
+        "SUPRAMAX"
+      ],
+      "base_freight_usd_ton": 9.4,
+      "waypoints": [
+        [
+          0.5,
+          117.12
+        ],
+        [
+          1.25,
+          104.0
+        ],
+        [
+          3.5,
+          100.0
+        ],
+        [
+          6.0,
+          94.5
+        ],
+        [
+          15.0,
+          88.0
+        ],
+        [
+          20.26,
+          86.68
+        ]
+      ]
+    },
+    {
+      "route_id": "ID_SAM_TO_IN_KRP",
+      "name": "Samarinda (ID) -> Krishnapatnam (IN)",
+      "origin_id": "ID_SAM",
+      "destination_id": "IN_KRP",
+      "distance_nm": 2180,
+      "standard_transit_days_12kn": 7.6,
+      "cargo_type": "Thermal Coal",
+      "suitable_vessels": [
+        "CAPESIZE",
+        "PANAMAX",
+        "SUPRAMAX"
+      ],
+      "base_freight_usd_ton": 8.75,
+      "waypoints": [
+        [
+          0.5,
+          117.12
+        ],
+        [
+          1.25,
+          104.0
+        ],
+        [
+          3.5,
+          100.0
+        ],
+        [
+          6.0,
+          93.0
+        ],
+        [
+          14.25,
+          80.12
+        ]
+      ]
+    },
+    {
+      "route_id": "ZA_RCB_TO_IN_DHM",
+      "name": "Richards Bay (ZA) -> Dhamra (IN)",
+      "origin_id": "ZA_RCB",
+      "destination_id": "IN_DHM",
+      "distance_nm": 4680,
+      "standard_transit_days_12kn": 16.2,
+      "cargo_type": "Thermal Coal",
+      "suitable_vessels": [
+        "CAPESIZE",
+        "PANAMAX"
+      ],
+      "base_freight_usd_ton": 14.5,
+      "waypoints": [
+        [
+          -28.8,
+          32.04
+        ],
+        [
+          -20.0,
+          40.0
+        ],
+        [
+          -5.0,
+          60.0
+        ],
+        [
+          5.8,
+          80.5
+        ],
+        [
+          15.0,
+          85.0
+        ],
+        [
+          20.8,
+          86.96
+        ]
+      ]
+    },
+    {
+      "route_id": "ZA_RCB_TO_IN_HAL",
+      "name": "Richards Bay (ZA) -> Haldia (IN)",
+      "origin_id": "ZA_RCB",
+      "destination_id": "IN_HAL",
+      "distance_nm": 4820,
+      "standard_transit_days_12kn": 16.7,
+      "cargo_type": "Thermal Coal",
+      "suitable_vessels": [
+        "SUPRAMAX",
+        "HANDYMAX"
+      ],
+      "base_freight_usd_ton": 18.2,
+      "waypoints": [
+        [
+          -28.8,
+          32.04
+        ],
+        [
+          -15.0,
+          45.0
+        ],
+        [
+          0.0,
+          75.0
+        ],
+        [
+          6.0,
+          81.0
+        ],
+        [
+          21.0,
+          88.0
+        ],
+        [
+          22.02,
+          88.06
+        ]
+      ]
+    },
+    {
+      "route_id": "SA_RTN_TO_IN_PRT",
+      "name": "Ras Tanura (SA) -> Paradip (IN)",
+      "origin_id": "SA_RTN",
+      "destination_id": "IN_PRT",
+      "distance_nm": 3150,
+      "standard_transit_days_12kn": 10.9,
+      "cargo_type": "Petcoke",
+      "suitable_vessels": [
+        "PANAMAX",
+        "SUPRAMAX"
+      ],
+      "base_freight_usd_ton": 11.2,
+      "waypoints": [
+        [
+          26.64,
+          50.16
+        ],
+        [
+          26.3,
+          56.5
+        ],
+        [
+          22.5,
+          60.0
+        ],
+        [
+          12.0,
+          72.0
+        ],
+        [
+          5.8,
+          80.5
+        ],
+        [
+          16.0,
+          85.0
+        ],
+        [
+          20.26,
+          86.68
+        ]
+      ]
+    }
+  ]
+}
