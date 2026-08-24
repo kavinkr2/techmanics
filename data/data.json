@@ -1,0 +1,142 @@
+{
+  "vessels": [
+    {
+      "vessel_id": "PANAMAX_01",
+      "class": "Panamax",
+      "dwt": 80000,
+      "capacity": 76000,
+      "draft": 13.5,
+      "loa": 225,
+      "beam": 32.2,
+      "charter_cost_per_tonne": 8.5,
+      "allowed_port_ids": ["PARADIP", "VIZAG", "ENNORE"],
+      "excluded_port_ids": ["HALDIA"]
+    },
+    {
+      "vessel_id": "PANAMAX_02",
+      "class": "Panamax",
+      "dwt": 78000,
+      "capacity": 74000,
+      "draft": 13.2,
+      "loa": 220,
+      "beam": 32.0,
+      "charter_cost_per_tonne": 8.3,
+      "allowed_port_ids": ["PARADIP", "VIZAG", "ENNORE"],
+      "excluded_port_ids": ["HALDIA"]
+    },
+    {
+      "vessel_id": "CAPESIZE_01",
+      "class": "Capesize",
+      "dwt": 180000,
+      "capacity": 172000,
+      "draft": 17.5,
+      "loa": 290,
+      "beam": 45.0,
+      "charter_cost_per_tonne": 6.8,
+      "allowed_port_ids": ["PARADIP", "VIZAG"],
+      "excluded_port_ids": ["HALDIA", "ENNORE"]
+    },
+    {
+      "vessel_id": "CAPESIZE_02",
+      "class": "Capesize",
+      "dwt": 175000,
+      "capacity": 168000,
+      "draft": 17.2,
+      "loa": 285,
+      "beam": 44.0,
+      "charter_cost_per_tonne": 6.9,
+      "allowed_port_ids": ["PARADIP", "VIZAG"],
+      "excluded_port_ids": ["HALDIA", "ENNORE"]
+    },
+    {
+      "vessel_id": "SUPRAMAX_01",
+      "class": "Supramax",
+      "dwt": 58000,
+      "capacity": 55000,
+      "draft": 12.8,
+      "loa": 190,
+      "beam": 30.0,
+      "charter_cost_per_tonne": 9.2,
+      "allowed_port_ids": ["PARADIP", "VIZAG", "HALDIA", "ENNORE"]
+    },
+    {
+      "vessel_id": "SUPRAMAX_02",
+      "class": "Supramax",
+      "dwt": 56000,
+      "capacity": 53000,
+      "draft": 12.5,
+      "loa": 185,
+      "beam": 29.8,
+      "charter_cost_per_tonne": 9.0,
+      "allowed_port_ids": ["PARADIP", "VIZAG", "HALDIA", "ENNORE"]
+    }
+  ],
+  "ports": [
+    {
+      "port_id": "PARADIP",
+      "name": "Paradip Port",
+      "draft_limit": 14.5,
+      "loa_limit": 300,
+      "beam_limit": 50.0,
+      "port_cost_per_tonne": 2.1,
+      "allowed_vessel_classes": ["Panamax", "Supramax", "Capesize"],
+      "berths": 5,
+      "berths_available": 3
+    },
+    {
+      "port_id": "VIZAG",
+      "name": "Visakhapatnam Port",
+      "draft_limit": 13.0,
+      "loa_limit": 250,
+      "beam_limit": 45.0,
+      "port_cost_per_tonne": 2.4,
+      "allowed_vessel_classes": ["Panamax", "Supramax", "Capesize"],
+      "berths": 4,
+      "berths_available": 2
+    },
+    {
+      "port_id": "HALDIA",
+      "name": "Haldia Dock Complex",
+      "draft_limit": 10.5,
+      "loa_limit": 220,
+      "beam_limit": 32.5,
+      "port_cost_per_tonne": 2.8,
+      "allowed_vessel_classes": ["Panamax", "Supramax"],
+      "berths": 3,
+      "berths_available": 1
+    },
+    {
+      "port_id": "ENNORE",
+      "name": "Kamarajar Port (Ennore)",
+      "draft_limit": 14.0,
+      "loa_limit": 280,
+      "beam_limit": 45.0,
+      "port_cost_per_tonne": 2.2,
+      "allowed_vessel_classes": ["Panamax", "Supramax"],
+      "berths": 3,
+      "berths_available": 2
+    }
+  ],
+  "cargo": {
+    "demand_tonnes": 150000,
+    "min_parcel_size": 25000,
+    "max_tranches": 4
+  },
+  "scenarios": [
+    {
+      "probability": 0.3,
+      "freight_rate": 12.5,
+      "fuel_cost": 1.8
+    },
+    {
+      "probability": 0.4,
+      "freight_rate": 15.0,
+      "fuel_cost": 2.0
+    },
+    {
+      "probability": 0.3,
+      "freight_rate": 18.5,
+      "fuel_cost": 2.3
+    }
+  ]
+}

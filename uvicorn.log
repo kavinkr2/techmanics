@@ -1,0 +1,31 @@
+INFO:     Started server process [27736]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     127.0.0.1:64529 - "GET /api/health HTTP/1.1" 200 OK
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `get_freight_forecast` with `{'days': 0}`
+
+
+[0m[36;1m[1;3m[{'route': 'Haldia', 'vessel': 'Panamax', 'predicted_rate': 23.8, 'p10': 20.8, 'p90': 25.8, 'recommendation': 'WAIT'}, {'route': 'Haldia', 'vessel': 'Supramax', 'predicted_rate': 23.66, 'p10': 21.3, 'p90': 26.3, 'recommendation': 'WAIT'}, {'route': 'Haldia', 'vessel': 'Capesize', 'predicted_rate': 24.45, 'p10': 21.3, 'p90': 26.3, 'recommendation': 'WAIT'}, {'route': 'Paradip', 'vessel': 'Panamax', 'predicted_rate': 25.12, 'p10': 21.1, 'p90': 26.1, 'recommendation': 'WAIT'}, {'route': 'Paradip', 'vessel': 'Supramax', 'predicted_rate': 23.87, 'p10': 21.6, 'p90': 26.6, 'recommendation': 'BUY'}, {'route': 'Paradip', 'vessel': 'Capesize', 'predicted_rate': 23.87, 'p10': 21.6, 'p90': 26.6, 'recommendation': 'BUY'}, {'route': 'Vizag', 'vessel': 'Panamax', 'predicted_rate': 24.58, 'p10': 20.5, 'p90': 25.5, 'recommendation': 'WAIT'}, {'route': 'Vizag', 'vessel': 'Supramax', 'predicted_rate': 24.27, 'p10': 21.0, 'p90': 26.0, 'recommendation': 'WAIT'}, {'route': 'Vizag', 'vessel': 'Capesize', 'predicted_rate': 23.03, 'p10': 21.0, 'p90': 26.0, 'recommendation': 'WAIT'}][0m[32;1m[1;3mThe forecast for today is as follows:
+
+- Haldia: 
+  - Panamax: $23.8 per ton, with a 10% chance of being below $20.8 and a 90% chance of being below $25.8. Recommendation: WAIT.
+  - Supramax: $23.66 per ton, with a 10% chance of being below $21.3 and a 90% chance of being below $26.3. Recommendation: WAIT.
+  - Capesize: $24.45 per ton, with a 10% chance of being below $21.3 and a 90% chance of being below $26.3. Recommendation: WAIT.
+- Paradip: 
+  - Panamax: $25.12 per ton, with a 10% chance of being below $21.1 and a 90% chance of being below $26.1. Recommendation: WAIT.
+  - Supramax: $23.87 per ton, with a 10% chance of being below $21.6 and a 90% chance of being below $26.6. Recommendation: BUY.
+  - Capesize: $23.87 per ton, with a 10% chance of being below $21.6 and a 90% chance of being below $26.6. Recommendation: BUY.
+- Vizag: 
+  - Panamax: $24.58 per ton, with a 10% chance of being below $20.5 and a 90% chance of being below $25.5. Recommendation: WAIT.
+  - Supramax: $24.27 per ton, with a 10% chance of being below $21.0 and a 90% chance of being below $26.0. Recommendation: WAIT.
+  - Capesize: $23.03 per ton, with a 10% chance of being below $21.0 and a 90% chance of being below $26.0. Recommendation: WAIT.
+
+These predictions are based on the current market trends and are subject to change. It's always a good idea to consult with a logistics expert before making any decisions.[0m
+
+[1m> Finished chain.[0m
+INFO:     127.0.0.1:49294 - "POST /api/copilot/chat HTTP/1.1" 200 OK
