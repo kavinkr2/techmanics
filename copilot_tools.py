@@ -2,6 +2,7 @@
 LangChain Tools for Maritime Logistics Copilot.
 Provides access to real-time data, forecasting, optimization, and analytics.
 """
+import asyncio
 from langchain.tools import tool
 from typing import Optional
 
@@ -57,8 +58,22 @@ def _init_scrapers():
 _baltic_source, _clarksons_source, _marinetraffic_source, _noaa_source = _init_scrapers()
 
 
+def _run_async(coro):
+    """Run an async coroutine synchronously, creating a new event loop if needed."""
+    try:
+        loop = asyncio.get_event_loop()
+        if loop.is_running():
+            # We're in an async context; create a new loop in a thread
+            import concurrent.futures
+            with concurrent.futures.ThreadPoolExecutor() as pool:
+                return pool.submit(asyncio.run, coro).result()
+        return loop.run_until_complete(coro)
+    except RuntimeError:
+        return asyncio.run(coro)
+
+
 @tool
-async def get_freight_forecast(days: int = 30) -> str:
+def get_freight_forecast(days: int = 30) -> str:
     """Get the probabilistic freight rate forecast for the next N days with confidence intervals."""
     import json
     generate_forecast, get_model_status = _get_forecast_engine()
@@ -70,8 +85,8 @@ async def get_freight_forecast(days: int = 30) -> str:
 
 
 @tool
-async def run_vessel_optimizer(
-    cargo_tons: float, 
+def run_vessel_optimizer(
+    cargo_tons: float,
     shock_scenario: bool = False,
     origin_region: str = "Australia",
     destination_port: str = "Paradip",
@@ -91,49 +106,49 @@ async def run_vessel_optimizer(
 
 
 @tool
-async def get_baltic_indices() -> str:
+def get_baltic_indices() -> str:
     """Get latest Baltic Dry Index (BDI) and sub-indices (BCI, BPI, BSI, BHSI)."""
     import json
-    data = await _baltic_source.fetch_indices()
+    data = _run_async(_baltic_source.fetch_indices())
     return json.dumps(data, indent=2)
 
 
 @tool
-async def get_freight_rates() -> str:
+def get_freight_rates() -> str:
     """Get current freight rates for major shipping routes."""
     import json
-    data = await _clarksons_source.fetch_freight_rates()
+    data = _run_async(_clarksons_source.fetch_freight_rates())
     return json.dumps(data, indent=2)
 
 
 @tool
-async def get_port_congestion(ports: Optional[str] = None) -> str:
+def get_port_congestion(ports: Optional[str] = None) -> str:
     """Get port congestion data for major ports. Optionally filter by comma-separated port names."""
     import json
     port_list = [p.strip() for p in ports.split(",")] if ports else None
-    data = await _marinetraffic_source.fetch_port_congestion(port_list)
+    data = _run_async(_marinetraffic_source.fetch_port_congestion(port_list))
     return json.dumps(data, indent=2)
 
 
 @tool
-async def get_vessel_positions(mmsi: Optional[str] = None) -> str:
+def get_vessel_positions(mmsi: Optional[str] = None) -> str:
     """Get live vessel positions. Optionally filter by comma-separated MMSI list."""
     import json
     mmsi_list = [m.strip() for m in mmsi.split(",")] if mmsi else None
-    data = await _marinetraffic_source.fetch_vessel_positions(mmsi_list)
+    data = _run_async(_marinetraffic_source.fetch_vessel_positions(mmsi_list))
     return json.dumps(data, indent=2)
 
 
 @tool
-async def get_weather_alerts(region: str = "indian_ocean") -> str:
+def get_weather_alerts(region: str = "indian_ocean") -> str:
     """Get weather alerts affecting shipping routes."""
     import json
-    data = await _noaa_source.fetch_weather_alerts(region)
+    data = _run_async(_noaa_source.fetch_weather_alerts(region))
     return json.dumps(data, indent=2)
 
 
 @tool
-async def find_coal_options(
+def find_coal_options(
     quantity_tonnes: float,
     destination_port: str = "Paradip",
     shock_scenario: bool = False,
@@ -152,7 +167,7 @@ async def find_coal_options(
 
 
 @tool
-async def get_system_status() -> str:
+def get_system_status() -> str:
     """Get status of all forecasting models and optimizer configuration."""
     import json
     generate_forecast, get_model_status = _get_forecast_engine()
@@ -164,32 +179,27 @@ async def get_system_status() -> str:
 
 
 if __name__ == "__main__":
-    import asyncio
+    print("Testing tools...")
+    print("\n--- Freight Forecast ---")
+    print(get_freight_forecast(7))
     
-    async def test():
-        print("Testing tools...")
-        print("\n--- Freight Forecast ---")
-        print(await get_freight_forecast(7))
-        
-        print("\n--- Vessel Optimizer ---")
-        print(await run_vessel_optimizer(80000, False))
-        
-        print("\n--- Baltic Indices ---")
-        print(await get_baltic_indices())
-        
-        print("\n--- Freight Rates ---")
-        print(await get_freight_rates())
-        
-        print("\n--- Port Congestion ---")
-        print(await get_port_congestion("Paradip,Visakhapatnam"))
-        
-        print("\n--- Weather Alerts ---")
-        print(await get_weather_alerts())
-        
-        print("\n--- Coal Options ---")
-        print(await find_coal_options(50000))
-        
-        print("\n--- System Status ---")
-        print(await get_system_status())
+    print("\n--- Vessel Optimizer ---")
+    print(run_vessel_optimizer(80000, False))
     
-    asyncio.run(test())
+    print("\n--- Baltic Indices ---")
+    print(get_baltic_indices())
+    
+    print("\n--- Freight Rates ---")
+    print(get_freight_rates())
+    
+    print("\n--- Port Congestion ---")
+    print(get_port_congestion("Paradip,Visakhapatnam"))
+    
+    print("\n--- Weather Alerts ---")
+    print(get_weather_alerts())
+    
+    print("\n--- Coal Options ---")
+    print(find_coal_options(50000))
+    
+    print("\n--- System Status ---")
+    print(get_system_status())

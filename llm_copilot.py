@@ -101,7 +101,8 @@ def _init_agent():
         ]
         
         # Use LangGraph's create_react_agent which handles tool calling internally
-        _agent = create_react_agent(_llm, _tools, state_modifier=SYSTEM_PROMPT)
+        # Note: newer langgraph versions use `prompt` instead of `state_modifier`
+        _agent = create_react_agent(_llm, _tools, prompt=SYSTEM_PROMPT)
         print(f"[llm_copilot] Agent initialized successfully: {_agent is not None}")
     except Exception as e:
         print(f"[llm_copilot] Agent init failed: {e}")

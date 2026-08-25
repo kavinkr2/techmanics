@@ -2,6 +2,9 @@
 FastAPI integration for real-time maritime data endpoints.
 """
 from contextlib import asynccontextmanager
+import os
+from dotenv import load_dotenv
+load_dotenv()
 from datetime import datetime
 from typing import Any
 
