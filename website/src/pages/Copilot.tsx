@@ -71,6 +71,23 @@ export default function CopilotPage() {
           Ask about freight forecasts, port congestion, or vessel optimization.
         </p>
       </div>
+      <div className="flex justify-end">
+        <button
+          onClick={() =>
+            setMessages([
+              {
+                id: "welcome",
+                role: "assistant",
+                content:
+                  "Hello, I'm your maritime logistics copilot. I have access to freight forecasts and the vessel optimizer. How can I help you today?",
+              },
+            ])
+          }
+          className="text-xs text-text-secondary hover:text-text-primary underline"
+        >
+          Clear conversation
+        </button>
+      </div>
 
       <GlassCard className="flex h-[520px] flex-col">
         <div
@@ -120,6 +137,25 @@ export default function CopilotPage() {
         </div>
 
         <div className="border-t border-border/40 p-4">
+          <div className="mb-3 flex flex-wrap gap-2">
+            {[
+              "What's the current Baltic Dry Index?",
+              "Show me vessel positions near Paradip",
+              "Are there weather alerts in the Indian Ocean?",
+              "Predict freight rates for the next 30 days",
+              "How is port congestion affecting Paradip?",
+            ].map((suggestion) => (
+              <button
+                key={suggestion}
+                onClick={() => {
+                  setInput(suggestion);
+                }}
+                className="px-3 py-1.5 rounded-[8px] text-xs text-text-secondary hover:text-text-primary hover:bg-surface-2/50 transition-colors border border-border/30"
+              >
+                {suggestion}
+              </button>
+            ))}
+          </div>
           <form
             onSubmit={(e) => {
               e.preventDefault();

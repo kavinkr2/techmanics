@@ -17,22 +17,30 @@ import {
   ExternalLink,
   Calendar,
   Download,
+  RefreshCw,
+  Wind,
 } from "lucide-react";
 import Button from "@/components/Button";
 import {
   Area,
   AreaChart,
+  Bar,
+  BarChart,
   CartesianGrid,
   ResponsiveContainer,
   Tooltip,
   XAxis,
   YAxis,
+  Legend,
+  Cell,
+  Pie,
+  PieChart,
 } from "recharts";
 import StatCard from "@/components/StatCard";
 import QuickActions from "@/components/QuickActions";
 import Card from "@/components/Card";
 import Badge from "@/components/Badge";
-import { api, type HealthStatus, type ForecastResponse } from "@/lib/api";
+import { api, type HealthStatus, type ForecastResponse, type VesselPosition } from "@/lib/api";
 import { fmt, fmtInt } from "@/lib/utils";
 
 // Real-time types
@@ -99,6 +107,162 @@ function StatusDot({ status }: { status: "healthy" | "loading" | string }) {
       <span className={`h-2.5 w-2.5 rounded-full ${cls}`}></span>
       <span className="hidden sm:inline">{status === "loading" ? "Checking…" : status}</span>
     </div>
+  );
+}
+
+function FreightRateTrendChart({ data, loading }: { data: FreightRate[]; loading: boolean }) {
+  const grouped = useMemo(() => {
+    const byRoute = new Map<string, { route: string; rates: number[] }>();
+    data.forEach((r) => {
+      if (!byRoute.has(r.route)) byRoute.set(r.route, { route: r.route, rates: [] });
+      byRoute.get(r.route)!.rates.push(r.rate_usd_per_tonne);
+    });
+    return Array.from(byRoute.values()).map((g) => ({
+      route: g.route,
+      avg: g.rates.reduce((a, b) => a + b, 0) / (g.rates.length || 1),
+      latest: g.rates[g.rates.length - 1],
+    }));
+  }, [data]);
+
+  const chartData = grouped.slice(0, 8);
+  const colors = ["#3b82f6", "#f59e0b", "#10b981", "#ef4444", "#8b5cf6", "#f97316", "#06b6d4", "#4f46e5"];
+
+  if (loading) {
+    return (
+      <Card className="p-5">
+        <div className="flex items-center justify-center h-64 text-text-muted">
+          <Loader2 className="h-6 w-6 animate-spin" />
+        </div>
+      </Card>
+    );
+  }
+
+  if (!chartData.length) {
+    return (
+      <Card className="p-5">
+        <div className="flex items-center justify-center h-64 text-text-muted">
+          <p>No freight rate data available</p>
+        </div>
+      </Card>
+    );
+  }
+
+  return (
+    <Card className="p-5">
+      <div className="flex items-center justify-between mb-4">
+        <div>
+          <h3 className="text-lg font-medium text-text-primary">Freight Rate Trends</h3>
+          <p className="text-sm text-text-secondary/60">Average rate (USD/tonne) by route</p>
+        </div>
+        <Badge variant="default">{chartData.length} routes</Badge>
+      </div>
+      <div className="h-[280px]">
+        <ResponsiveContainer width="100%" height="100%">
+          <BarChart data={chartData} margin={{ top: 10, right: 24, left: 0, bottom: 0 }}>
+            <CartesianGrid strokeDasharray="3 3" stroke="oklch(0.9 0.005 260)" vertical={false} />
+            <XAxis
+              dataKey="route"
+              tick={{ fill: "oklch(0.45 0.01 260)", fontSize: 10 }}
+              tickLine={false}
+              axisLine={false}
+            />
+            <YAxis
+              tick={{ fill: "oklch(0.45 0.01 260)", fontSize: 11 }}
+              tickLine={false}
+              axisLine={false}
+              tickFormatter={(v) => `$${v}`}
+            />
+            <Tooltip
+              contentStyle={{
+                backgroundColor: "oklch(0.15 0.02 260 / 0.9)",
+                border: "1px solid oklch(0.9 0.005 260)",
+                borderRadius: "0.75rem",
+                color: "oklch(0.98 0 0)",
+              }}
+              formatter={(value: any) => [`$${value.toFixed(1)}/t`, "Rate"]}
+            />
+            <Bar dataKey="avg" radius={[4, 4, 0, 0]}>
+              {chartData.map((_, i) => (
+                <Cell key={`cell-${i}`} fill={colors[i % colors.length]} />
+              ))}
+            </Bar>
+          </BarChart>
+        </ResponsiveContainer>
+      </div>
+    </Card>
+  );
+}
+
+function VesselPositionsPanel({ data, loading }: { data: VesselPosition[]; loading: boolean }) {
+  const byType = useMemo(() => {
+    const m = new Map<string, number>();
+    data.forEach((v) => {
+      m.set(v.type, (m.get(v.type) ?? 0) + 1);
+    });
+    return Array.from(m.entries()).sort((a, b) => b[1] - a[1]);
+  }, [data]);
+
+  const total = byType.reduce((a, [, n]) => a + n, 0);
+
+  if (loading) {
+    return (
+      <Card className="p-5 mb-6">
+        <div className="flex items-center justify-center h-40 text-text-muted">
+          <Loader2 className="h-5 w-5 animate-spin" />
+        </div>
+      </Card>
+    );
+  }
+
+  return (
+    <Card className="p-5 mb-6">
+      <div className="flex items-center justify-between mb-4">
+        <div>
+          <h3 className="text-lg font-medium text-text-primary">Live Vessel Positions</h3>
+          <p className="text-sm text-text-secondary/60">{total} vessels tracked globally</p>
+        </div>
+        <Badge variant="default">{byType.length} types</Badge>
+      </div>
+      <div className="space-y-3">
+        {data.slice(0, 6).map((v) => (
+          <div key={v.mmsi} className="flex items-center gap-3 p-3 rounded-[10px] bg-surface-muted">
+            <div className="w-10 h-10 rounded-full bg-accent-light flex items-center justify-center shrink-0">
+              <Ship className="h-5 w-5 text-accent" />
+            </div>
+            <div className="flex-1 min-w-0">
+              <p className="font-medium text-text-primary">{v.name}</p>
+              <p className="text-xs text-text-secondary">{v.type} · {v.destination || "At sea"}</p>
+            </div>
+            <div className="text-right">
+              <p className="text-sm font-medium text-text-primary">{v.speed} kn</p>
+              <p className="text-xs text-text-secondary">ETA: {v.eta}</p>
+            </div>
+          </div>
+        ))}
+        {data.length === 0 && (
+          <p className="text-center text-text-muted py-6">No vessel data available</p>
+        )}
+      </div>
+      {total > 0 && (
+        <div className="mt-4 pt-4 border-t border-border/30">
+          <p className="text-xs text-text-secondary uppercase tracking-wider mb-2">By Vessel Type</p>
+          <div className="space-y-2">
+            {byType.slice(0, 5).map(([type, count]) => (
+              <div key={type} className="flex items-center gap-3">
+                <span className="w-24 text-xs text-text-secondary">{type}</span>
+                <div className="flex-1 h-2 bg-surface-2/40 rounded-full overflow-hidden">
+                  <div
+                    className="h-full bg-accent/50 rounded-full transition-all"
+                    style={{ width: `${(count / total) * 100}%` }}
+                  />
+                </div>
+                <span className="w-12 text-right text-xs font-mono text-text-primary">{count}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+    </Card>
   );
 }
 
@@ -272,54 +436,61 @@ export default function DashboardPage() {
   const [freightRates, setFreightRates] = useState<FreightRate[]>([]);
   const [portCongestion, setPortCongestion] = useState<PortCongestion[]>([]);
   const [weatherAlerts, setWeatherAlerts] = useState<WeatherAlert[]>([]);
+  const [vesselPositions, setVesselPositions] = useState<VesselPosition[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [chartDays, setChartDays] = useState<7 | 14 | 30 | 90>(30);
 
+  const load = async () => {
+    try {
+      setError(null);
+      const [
+        h,
+        f,
+        bdi,
+        rates,
+        congestion,
+        vessels,
+        alerts,
+      ] = await Promise.allSettled([
+        api.health(),
+        api.forecast(90),
+        api.realtime.balticIndices(),
+        api.realtime.freightRates(),
+        api.realtime.portCongestion(),
+        api.realtime.vesselPositions(),
+        api.realtime.weatherAlerts(),
+      ]);
+
+      setHealth(h.status === "fulfilled" ? h.value : null);
+      setForecast(f.status === "fulfilled" ? f.value : null);
+      setBaltic(bdi.status === "fulfilled" ? bdi.value : null);
+      setFreightRates(rates.status === "fulfilled" ? rates.value : []);
+      setPortCongestion(congestion.status === "fulfilled" ? congestion.value : []);
+      setVesselPositions(vessels.status === "fulfilled" ? vessels.value : []);
+      setWeatherAlerts(alerts.status === "fulfilled" ? alerts.value : []);
+
+      const errors = [h, f, bdi, rates, congestion, vessels, alerts]
+        .filter((r): r is PromiseRejectedResult => r.status === "rejected")
+        .map((r) => r.reason?.message);
+      if (errors.length > 0) {
+        setError(errors.join("; "));
+      }
+    } catch (e: any) {
+      setError(e?.message ?? "Failed to load dashboard");
+    } finally {
+      setLoading(false);
+    }
+  };
+
   useEffect(() => {
     let cancelled = false;
-    const load = async () => {
-      try {
-        setError(null);
-        const [
-          h,
-          f,
-          bdi,
-          rates,
-          congestion,
-          alerts,
-        ] = await Promise.allSettled([
-          api.health(),
-          api.forecast(90),
-          api.realtime.balticIndices(),
-          api.realtime.freightRates(),
-          api.realtime.portCongestion(),
-          api.realtime.weatherAlerts(),
-        ]);
-
-        if (cancelled) return;
-
-        if (h.status === "fulfilled") setHealth(h.value);
-        if (f.status === "fulfilled") setForecast(f.value);
-        if (bdi.status === "fulfilled") setBaltic(bdi.value);
-        if (rates.status === "fulfilled") setFreightRates(rates.value);
-        if (congestion.status === "fulfilled") setPortCongestion(congestion.value);
-        if (alerts.status === "fulfilled") setWeatherAlerts(alerts.value);
-
-        const errors = [h, f, bdi, rates, congestion, alerts]
-          .filter((r): r is PromiseRejectedResult => r.status === "rejected")
-          .map((r) => r.reason?.message);
-        if (errors.length > 0) {
-          setError(errors.join("; "));
-        }
-      } catch (e: any) {
-        if (!cancelled) setError(e?.message ?? "Failed to load dashboard");
-      } finally {
-        if (!cancelled) setLoading(false);
-      }
+    const tick = async () => {
+      await load();
+      if (cancelled) return;
     };
-    load();
-    const iv = setInterval(load, 60000);
+    tick();
+    const iv = setInterval(tick, 60000);
     return () => {
       cancelled = true;
       clearInterval(iv);
@@ -371,6 +542,16 @@ export default function DashboardPage() {
           </p>
         </div>
         <div className="flex items-center gap-3">
+          <button
+            onClick={() => {
+              setLoading(true);
+              load();
+            }}
+            className="p-2 rounded-[10px] bg-surface-2/40 hover:bg-accent/10 transition-colors"
+            title="Refresh data"
+          >
+            <RefreshCw className={`h-4 w-4 text-text-secondary ${loading ? "animate-spin" : ""}`} />
+          </button>
           <StatusDot status={health?.status ?? "unknown"} />
           <Badge variant={health?.status === "healthy" ? "success" : "danger"} className="hidden sm:inline-flex">
             {health?.status ?? "Unknown"}
@@ -426,6 +607,12 @@ export default function DashboardPage() {
         onDaysChange={setChartDays} 
         loading={loading} 
       />
+
+      {/* Freight Rate Trends (new) */}
+      <FreightRateTrendChart data={freightRates} loading={loading} />
+
+      {/* Vessel Positions (new) */}
+      <VesselPositionsPanel data={vesselPositions} loading={loading} />
 
       {/* Freight Rates Table */}
       <Card className="p-5">

@@ -24,11 +24,13 @@ from copilot_tools import (
 # ─── Configuration ───
 # Use OpenRouter (OpenAI-compatible API)
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY") or os.getenv("OPENAI_API_KEY")
-# Hardcoded fallback for the provided key
-if not OPENROUTER_API_KEY:
-    OPENROUTER_API_KEY = "«redacted:sk-…»"
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 DEFAULT_MODEL = "openai/gpt-4o"  # OpenRouter model format
+
+# Detect redacted/placeholder keys and treat them as unconfigured
+_INVALID_KEYS = {"***", "redacted", "", None}
+if OPENROUTER_API_KEY in _INVALID_KEYS or (OPENROUTER_API_KEY or "").startswith("«redacted"):
+    OPENROUTER_API_KEY = None
 
 
 # ─── System Prompt ───
