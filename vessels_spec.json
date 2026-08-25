@@ -1,0 +1,107 @@
+{
+  "CAPESIZE": {
+    "class_name": "Capesize Bulker",
+    "deadweight_tonnage": 180000,
+    "typical_capacity_mt": 165000,
+    "draft_laden_m": 18.2,
+    "loa_length_m": 292.0,
+    "beam_width_m": 45.0,
+    "service_speed_knots": 12.5,
+    "fuel_consumption_sea_mt_day": 38.0,
+    "fuel_consumption_port_mt_day": 3.5,
+    "fuel_type": "VLSFO (0.5% Sulfur)",
+    "daily_time_charter_rate_usd": 24500,
+    "daily_operating_cost_usd": 6800,
+    "co2_emission_factor_ton_per_ton_fuel": 3.114,
+    "cii_reference_rating": "B",
+    "required_ports": [
+      "IN_VTZ",
+      "IN_DHM",
+      "IN_KRP"
+    ],
+    "restricted_ports": [
+      "IN_HAL",
+      "IN_TUT"
+    ]
+  },
+  "PANAMAX": {
+    "class_name": "Panamax / Kamsarmax Bulker",
+    "deadweight_tonnage": 82000,
+    "typical_capacity_mt": 75000,
+    "draft_laden_m": 14.4,
+    "loa_length_m": 229.0,
+    "beam_width_m": 32.2,
+    "service_speed_knots": 13.0,
+    "fuel_consumption_sea_mt_day": 26.5,
+    "fuel_consumption_port_mt_day": 2.8,
+    "fuel_type": "VLSFO",
+    "daily_time_charter_rate_usd": 15200,
+    "daily_operating_cost_usd": 5400,
+    "co2_emission_factor_ton_per_ton_fuel": 3.114,
+    "cii_reference_rating": "A",
+    "required_ports": [
+      "IN_PRT",
+      "IN_VTZ",
+      "IN_DHM",
+      "IN_KRP",
+      "IN_ENR"
+    ],
+    "restricted_ports": [
+      "IN_HAL"
+    ]
+  },
+  "SUPRAMAX": {
+    "class_name": "Supramax / Ultramax (Geared)",
+    "deadweight_tonnage": 58000,
+    "typical_capacity_mt": 53000,
+    "draft_laden_m": 12.6,
+    "loa_length_m": 190.0,
+    "beam_width_m": 32.2,
+    "service_speed_knots": 13.5,
+    "fuel_consumption_sea_mt_day": 21.0,
+    "fuel_consumption_port_mt_day": 4.5,
+    "fuel_type": "VLSFO / LSMGO",
+    "daily_time_charter_rate_usd": 13400,
+    "daily_operating_cost_usd": 4800,
+    "co2_emission_factor_ton_per_ton_fuel": 3.114,
+    "cii_reference_rating": "B",
+    "has_self_discharge_cranes": true,
+    "required_ports": [
+      "IN_PRT",
+      "IN_VTZ",
+      "IN_DHM",
+      "IN_KRP",
+      "IN_ENR",
+      "IN_TUT",
+      "IN_HAL"
+    ],
+    "restricted_ports": []
+  },
+  "HANDYMAX": {
+    "class_name": "Handymax / Handysize",
+    "deadweight_tonnage": 38000,
+    "typical_capacity_mt": 35000,
+    "draft_laden_m": 10.1,
+    "loa_length_m": 180.0,
+    "beam_width_m": 28.0,
+    "service_speed_knots": 13.0,
+    "fuel_consumption_sea_mt_day": 16.5,
+    "fuel_consumption_port_mt_day": 3.0,
+    "fuel_type": "VLSFO",
+    "daily_time_charter_rate_usd": 10200,
+    "daily_operating_cost_usd": 4100,
+    "co2_emission_factor_ton_per_ton_fuel": 3.114,
+    "cii_reference_rating": "C",
+    "has_self_discharge_cranes": true,
+    "required_ports": [
+      "IN_PRT",
+      "IN_VTZ",
+      "IN_DHM",
+      "IN_KRP",
+      "IN_ENR",
+      "IN_TUT",
+      "IN_HAL"
+    ],
+    "restricted_ports": []
+  }
+}
