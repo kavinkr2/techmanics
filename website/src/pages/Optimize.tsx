@@ -41,7 +41,7 @@ export default function OptimizePage() {
 
   const originRegions = ["Australia", "Brazil", "South Africa", "Colombia", "USA", "Indonesia"];
   const destinationPorts = ["Paradip", "Visakhapatnam", "Mundra", "Krishnapatnam", "Kamarajar", "Chennai", "Kolkata", "Mumbai"];
-  const commodities = ["Iron Ore", "Coal", "Bauxite", "Manganese Ore", "Limestone", "Fertilizer"];
+  const commodities = ["Iron Ore", "Coal", "Coke", "Iron Ore", "Limestone", "Limestone"];
 
   return (
     <div className="space-y-6">

@@ -214,8 +214,23 @@ function RiskMetricsPanel({ result }: { result: OptimizeResult | null }) {
         <Shield className="h-5 w-5 text-amber-400" />
         Risk Metrics
       </h3>
+      {/* Market Risk */}
+      <h4 className="text-sm font-semibold text-text-secondary mb-2 mt-2">Market Risk</h4>
       <div className="grid grid-cols-2 gap-4">
-        {metrics.map((m, i) => (
+        {metrics.filter(m => ["Expected Cost","VaR (95%)","Cost Spread"].includes(m.label)).map((m, i) => (
+          <div key={i} className="p-4 rounded-xl bg-surface-2/40">
+            <div className="flex items-center gap-2 mb-2">
+              <m.icon className={`h-4 w-4 ${m.color}`} />
+              <span className="text-xs text-text-secondary uppercase tracking-wider">{m.label}</span>
+            </div>
+            <p className="text-xl font-bold text-text-primary">{m.value}</p>
+          </div>
+        ))}
+      </div>
+      {/* Operational Risk */}
+      <h4 className="text-sm font-semibold text-text-secondary mb-2 mt-4">Operational Risk</h4>
+      <div className="grid grid-cols-2 gap-4">
+        {metrics.filter(m => ["Worst Case","Best Case","Solver Status"].includes(m.label)).map((m, i) => (
           <div key={i} className="p-4 rounded-xl bg-surface-2/40">
             <div className="flex items-center gap-2 mb-2">
               <m.icon className={`h-4 w-4 ${m.color}`} />

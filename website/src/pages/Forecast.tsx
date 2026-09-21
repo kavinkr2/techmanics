@@ -97,7 +97,7 @@ export default function ForecastPage() {
               URL.revokeObjectURL(url);
             }}
           >
-            Export
+            Export Forecast Report
           </Button>
         </div>
       </div>

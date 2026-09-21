@@ -16,7 +16,7 @@
     },
     {
       "cargo_id": "C0003",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 195882,
       "min_parcel_size": 16846,
       "max_tranches": 4
@@ -58,21 +58,21 @@
     },
     {
       "cargo_id": "C0009",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 184835,
       "min_parcel_size": 6880,
       "max_tranches": 4
     },
     {
       "cargo_id": "C0010",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 38797,
       "min_parcel_size": 21543,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0011",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 151709,
       "min_parcel_size": 13472,
       "max_tranches": 4
@@ -121,7 +121,7 @@
     },
     {
       "cargo_id": "C0018",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 38582,
       "min_parcel_size": 7570,
       "max_tranches": 1
@@ -205,21 +205,21 @@
     },
     {
       "cargo_id": "C0030",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 33518,
       "min_parcel_size": 27422,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0031",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 164213,
       "min_parcel_size": 12531,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0032",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 144195,
       "min_parcel_size": 28435,
       "max_tranches": 4
@@ -254,7 +254,7 @@
     },
     {
       "cargo_id": "C0037",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 105789,
       "min_parcel_size": 25800,
       "max_tranches": 3
@@ -303,7 +303,7 @@
     },
     {
       "cargo_id": "C0044",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 101833,
       "min_parcel_size": 27082,
       "max_tranches": 4
@@ -317,7 +317,7 @@
     },
     {
       "cargo_id": "C0046",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 64468,
       "min_parcel_size": 27719,
       "max_tranches": 3
@@ -366,7 +366,7 @@
     },
     {
       "cargo_id": "C0053",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 182932,
       "min_parcel_size": 6988,
       "max_tranches": 1
@@ -415,7 +415,7 @@
     },
     {
       "cargo_id": "C0060",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 89036,
       "min_parcel_size": 9681,
       "max_tranches": 4
@@ -429,14 +429,14 @@
     },
     {
       "cargo_id": "C0062",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 64471,
       "min_parcel_size": 15218,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0063",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 39367,
       "min_parcel_size": 13662,
       "max_tranches": 2
@@ -492,28 +492,28 @@
     },
     {
       "cargo_id": "C0071",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 74666,
       "min_parcel_size": 22383,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0072",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 90291,
       "min_parcel_size": 24659,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0073",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 173481,
       "min_parcel_size": 5380,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0074",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 51114,
       "min_parcel_size": 12452,
       "max_tranches": 4
@@ -541,21 +541,21 @@
     },
     {
       "cargo_id": "C0078",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 61363,
       "min_parcel_size": 26383,
       "max_tranches": 2
     },
     {
       "cargo_id": "C0079",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 121298,
       "min_parcel_size": 18669,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0080",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 141605,
       "min_parcel_size": 22358,
       "max_tranches": 1
@@ -569,7 +569,7 @@
     },
     {
       "cargo_id": "C0082",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 62786,
       "min_parcel_size": 14545,
       "max_tranches": 5
@@ -590,14 +590,14 @@
     },
     {
       "cargo_id": "C0085",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 88682,
       "min_parcel_size": 6937,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0086",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 41477,
       "min_parcel_size": 28004,
       "max_tranches": 5
@@ -611,21 +611,21 @@
     },
     {
       "cargo_id": "C0088",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 39174,
       "min_parcel_size": 11625,
       "max_tranches": 4
     },
     {
       "cargo_id": "C0089",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 130174,
       "min_parcel_size": 20070,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0090",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 145125,
       "min_parcel_size": 7970,
       "max_tranches": 1
@@ -639,14 +639,14 @@
     },
     {
       "cargo_id": "C0092",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 69711,
       "min_parcel_size": 13196,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0093",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 138142,
       "min_parcel_size": 8727,
       "max_tranches": 4
@@ -688,7 +688,7 @@
     },
     {
       "cargo_id": "C0099",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 70412,
       "min_parcel_size": 15778,
       "max_tranches": 1
@@ -716,7 +716,7 @@
     },
     {
       "cargo_id": "C0103",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 199167,
       "min_parcel_size": 24629,
       "max_tranches": 3
@@ -737,7 +737,7 @@
     },
     {
       "cargo_id": "C0106",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 61513,
       "min_parcel_size": 25888,
       "max_tranches": 2
@@ -842,14 +842,14 @@
     },
     {
       "cargo_id": "C0121",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 161907,
       "min_parcel_size": 8375,
       "max_tranches": 4
     },
     {
       "cargo_id": "C0122",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 70826,
       "min_parcel_size": 16547,
       "max_tranches": 4
@@ -898,7 +898,7 @@
     },
     {
       "cargo_id": "C0129",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 99762,
       "min_parcel_size": 17944,
       "max_tranches": 5
@@ -919,7 +919,7 @@
     },
     {
       "cargo_id": "C0132",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 132726,
       "min_parcel_size": 6075,
       "max_tranches": 3
@@ -954,14 +954,14 @@
     },
     {
       "cargo_id": "C0137",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 54426,
       "min_parcel_size": 12776,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0138",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 157484,
       "min_parcel_size": 13992,
       "max_tranches": 3
@@ -982,21 +982,21 @@
     },
     {
       "cargo_id": "C0141",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 152570,
       "min_parcel_size": 19615,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0142",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 194257,
       "min_parcel_size": 21119,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0143",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 69920,
       "min_parcel_size": 26433,
       "max_tranches": 4
@@ -1024,28 +1024,28 @@
     },
     {
       "cargo_id": "C0147",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 190265,
       "min_parcel_size": 15551,
       "max_tranches": 2
     },
     {
       "cargo_id": "C0148",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 175028,
       "min_parcel_size": 27064,
       "max_tranches": 2
     },
     {
       "cargo_id": "C0149",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 161226,
       "min_parcel_size": 28521,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0150",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 56638,
       "min_parcel_size": 17710,
       "max_tranches": 2
@@ -1080,7 +1080,7 @@
     },
     {
       "cargo_id": "C0155",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 28672,
       "min_parcel_size": 17806,
       "max_tranches": 4
@@ -1101,7 +1101,7 @@
     },
     {
       "cargo_id": "C0158",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 47762,
       "min_parcel_size": 9811,
       "max_tranches": 1
@@ -1122,7 +1122,7 @@
     },
     {
       "cargo_id": "C0161",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 27031,
       "min_parcel_size": 6708,
       "max_tranches": 3
@@ -1136,7 +1136,7 @@
     },
     {
       "cargo_id": "C0163",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 101413,
       "min_parcel_size": 7266,
       "max_tranches": 3
@@ -1171,7 +1171,7 @@
     },
     {
       "cargo_id": "C0168",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 94196,
       "min_parcel_size": 17974,
       "max_tranches": 5
@@ -1220,7 +1220,7 @@
     },
     {
       "cargo_id": "C0175",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 29069,
       "min_parcel_size": 18631,
       "max_tranches": 2
@@ -1234,21 +1234,21 @@
     },
     {
       "cargo_id": "C0177",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 95830,
       "min_parcel_size": 13708,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0178",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 100417,
       "min_parcel_size": 6850,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0179",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 41364,
       "min_parcel_size": 5848,
       "max_tranches": 3
@@ -1276,7 +1276,7 @@
     },
     {
       "cargo_id": "C0183",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 158186,
       "min_parcel_size": 11271,
       "max_tranches": 3
@@ -1325,14 +1325,14 @@
     },
     {
       "cargo_id": "C0190",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 106577,
       "min_parcel_size": 11386,
       "max_tranches": 2
     },
     {
       "cargo_id": "C0191",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 21119,
       "min_parcel_size": 26286,
       "max_tranches": 2
@@ -1409,7 +1409,7 @@
     },
     {
       "cargo_id": "C0202",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 187469,
       "min_parcel_size": 7809,
       "max_tranches": 1
@@ -1437,14 +1437,14 @@
     },
     {
       "cargo_id": "C0206",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 191759,
       "min_parcel_size": 21121,
       "max_tranches": 4
     },
     {
       "cargo_id": "C0207",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 65365,
       "min_parcel_size": 25969,
       "max_tranches": 4
@@ -1465,21 +1465,21 @@
     },
     {
       "cargo_id": "C0210",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 172258,
       "min_parcel_size": 24140,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0211",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 180538,
       "min_parcel_size": 13437,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0212",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 135116,
       "min_parcel_size": 7205,
       "max_tranches": 3
@@ -1542,7 +1542,7 @@
     },
     {
       "cargo_id": "C0221",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 153694,
       "min_parcel_size": 8260,
       "max_tranches": 3
@@ -1570,7 +1570,7 @@
     },
     {
       "cargo_id": "C0225",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 194678,
       "min_parcel_size": 14348,
       "max_tranches": 1
@@ -1598,7 +1598,7 @@
     },
     {
       "cargo_id": "C0229",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 196648,
       "min_parcel_size": 9443,
       "max_tranches": 3
@@ -1647,7 +1647,7 @@
     },
     {
       "cargo_id": "C0236",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 84365,
       "min_parcel_size": 22225,
       "max_tranches": 3
@@ -1661,7 +1661,7 @@
     },
     {
       "cargo_id": "C0238",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 150136,
       "min_parcel_size": 10192,
       "max_tranches": 1
@@ -1675,7 +1675,7 @@
     },
     {
       "cargo_id": "C0240",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 40567,
       "min_parcel_size": 9494,
       "max_tranches": 2
@@ -1703,7 +1703,7 @@
     },
     {
       "cargo_id": "C0244",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 73772,
       "min_parcel_size": 15181,
       "max_tranches": 4
@@ -1745,14 +1745,14 @@
     },
     {
       "cargo_id": "C0250",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 20996,
       "min_parcel_size": 17959,
       "max_tranches": 2
     },
     {
       "cargo_id": "C0251",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 51689,
       "min_parcel_size": 24102,
       "max_tranches": 1
@@ -1766,28 +1766,28 @@
     },
     {
       "cargo_id": "C0253",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 118649,
       "min_parcel_size": 21833,
       "max_tranches": 2
     },
     {
       "cargo_id": "C0254",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 98798,
       "min_parcel_size": 20549,
       "max_tranches": 4
     },
     {
       "cargo_id": "C0255",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 94625,
       "min_parcel_size": 16849,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0256",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 75649,
       "min_parcel_size": 13720,
       "max_tranches": 4
@@ -1801,7 +1801,7 @@
     },
     {
       "cargo_id": "C0258",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 169111,
       "min_parcel_size": 25436,
       "max_tranches": 4
@@ -1815,14 +1815,14 @@
     },
     {
       "cargo_id": "C0260",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 73575,
       "min_parcel_size": 17306,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0261",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 120114,
       "min_parcel_size": 26476,
       "max_tranches": 5
@@ -1836,7 +1836,7 @@
     },
     {
       "cargo_id": "C0263",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 160807,
       "min_parcel_size": 15104,
       "max_tranches": 2
@@ -1864,7 +1864,7 @@
     },
     {
       "cargo_id": "C0267",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 82593,
       "min_parcel_size": 9929,
       "max_tranches": 2
@@ -1913,14 +1913,14 @@
     },
     {
       "cargo_id": "C0274",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 57905,
       "min_parcel_size": 18679,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0275",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 171400,
       "min_parcel_size": 14940,
       "max_tranches": 3
@@ -1934,7 +1934,7 @@
     },
     {
       "cargo_id": "C0277",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 64007,
       "min_parcel_size": 11852,
       "max_tranches": 5
@@ -1955,7 +1955,7 @@
     },
     {
       "cargo_id": "C0280",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 176097,
       "min_parcel_size": 7071,
       "max_tranches": 2
@@ -1969,21 +1969,21 @@
     },
     {
       "cargo_id": "C0282",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 191069,
       "min_parcel_size": 23894,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0283",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 198323,
       "min_parcel_size": 28644,
       "max_tranches": 2
     },
     {
       "cargo_id": "C0284",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 156644,
       "min_parcel_size": 7408,
       "max_tranches": 3
@@ -2018,14 +2018,14 @@
     },
     {
       "cargo_id": "C0289",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 190393,
       "min_parcel_size": 12839,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0290",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 31685,
       "min_parcel_size": 14718,
       "max_tranches": 2
@@ -2039,7 +2039,7 @@
     },
     {
       "cargo_id": "C0292",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 66175,
       "min_parcel_size": 18145,
       "max_tranches": 5
@@ -2081,14 +2081,14 @@
     },
     {
       "cargo_id": "C0298",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 98713,
       "min_parcel_size": 15877,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0299",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 195097,
       "min_parcel_size": 12849,
       "max_tranches": 3
@@ -2109,7 +2109,7 @@
     },
     {
       "cargo_id": "C0302",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 162915,
       "min_parcel_size": 28591,
       "max_tranches": 4
@@ -2144,14 +2144,14 @@
     },
     {
       "cargo_id": "C0307",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 180546,
       "min_parcel_size": 25089,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0308",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 46928,
       "min_parcel_size": 12871,
       "max_tranches": 5
@@ -2165,7 +2165,7 @@
     },
     {
       "cargo_id": "C0310",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 55371,
       "min_parcel_size": 25413,
       "max_tranches": 2
@@ -2179,7 +2179,7 @@
     },
     {
       "cargo_id": "C0312",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 47154,
       "min_parcel_size": 8914,
       "max_tranches": 2
@@ -2200,7 +2200,7 @@
     },
     {
       "cargo_id": "C0315",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 161714,
       "min_parcel_size": 20267,
       "max_tranches": 3
@@ -2221,7 +2221,7 @@
     },
     {
       "cargo_id": "C0318",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 91583,
       "min_parcel_size": 20764,
       "max_tranches": 3
@@ -2235,14 +2235,14 @@
     },
     {
       "cargo_id": "C0320",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 21564,
       "min_parcel_size": 16430,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0321",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 117807,
       "min_parcel_size": 12839,
       "max_tranches": 4
@@ -2291,21 +2291,21 @@
     },
     {
       "cargo_id": "C0328",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 36465,
       "min_parcel_size": 19051,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0329",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 60513,
       "min_parcel_size": 16629,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0330",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 151155,
       "min_parcel_size": 11978,
       "max_tranches": 4
@@ -2319,7 +2319,7 @@
     },
     {
       "cargo_id": "C0332",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 163942,
       "min_parcel_size": 9706,
       "max_tranches": 4
@@ -2347,7 +2347,7 @@
     },
     {
       "cargo_id": "C0336",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 193019,
       "min_parcel_size": 12420,
       "max_tranches": 5
@@ -2361,14 +2361,14 @@
     },
     {
       "cargo_id": "C0338",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 79004,
       "min_parcel_size": 24929,
       "max_tranches": 4
     },
     {
       "cargo_id": "C0339",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 182640,
       "min_parcel_size": 25408,
       "max_tranches": 5
@@ -2396,7 +2396,7 @@
     },
     {
       "cargo_id": "C0343",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 65721,
       "min_parcel_size": 28872,
       "max_tranches": 1
@@ -2417,7 +2417,7 @@
     },
     {
       "cargo_id": "C0346",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 199754,
       "min_parcel_size": 12423,
       "max_tranches": 2
@@ -2431,21 +2431,21 @@
     },
     {
       "cargo_id": "C0348",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 75836,
       "min_parcel_size": 18333,
       "max_tranches": 2
     },
     {
       "cargo_id": "C0349",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 159778,
       "min_parcel_size": 23919,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0350",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 70448,
       "min_parcel_size": 18981,
       "max_tranches": 1
@@ -2473,14 +2473,14 @@
     },
     {
       "cargo_id": "C0354",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 127402,
       "min_parcel_size": 20273,
       "max_tranches": 2
     },
     {
       "cargo_id": "C0355",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 162188,
       "min_parcel_size": 26801,
       "max_tranches": 3
@@ -2494,7 +2494,7 @@
     },
     {
       "cargo_id": "C0357",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 114554,
       "min_parcel_size": 15430,
       "max_tranches": 2
@@ -2613,7 +2613,7 @@
     },
     {
       "cargo_id": "C0374",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 62385,
       "min_parcel_size": 8177,
       "max_tranches": 1
@@ -2676,7 +2676,7 @@
     },
     {
       "cargo_id": "C0383",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 68559,
       "min_parcel_size": 14632,
       "max_tranches": 2
@@ -2816,14 +2816,14 @@
     },
     {
       "cargo_id": "C0403",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 184371,
       "min_parcel_size": 14925,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0404",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 116486,
       "min_parcel_size": 22588,
       "max_tranches": 1
@@ -2865,7 +2865,7 @@
     },
     {
       "cargo_id": "C0410",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 120658,
       "min_parcel_size": 21878,
       "max_tranches": 3
@@ -2886,7 +2886,7 @@
     },
     {
       "cargo_id": "C0413",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 185441,
       "min_parcel_size": 11375,
       "max_tranches": 3
@@ -2914,7 +2914,7 @@
     },
     {
       "cargo_id": "C0417",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 91940,
       "min_parcel_size": 22452,
       "max_tranches": 3
@@ -2963,7 +2963,7 @@
     },
     {
       "cargo_id": "C0424",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 155676,
       "min_parcel_size": 20890,
       "max_tranches": 1
@@ -2977,14 +2977,14 @@
     },
     {
       "cargo_id": "C0426",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 140589,
       "min_parcel_size": 24763,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0427",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 157749,
       "min_parcel_size": 6900,
       "max_tranches": 3
@@ -3005,7 +3005,7 @@
     },
     {
       "cargo_id": "C0430",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 134597,
       "min_parcel_size": 8962,
       "max_tranches": 5
@@ -3026,7 +3026,7 @@
     },
     {
       "cargo_id": "C0433",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 86995,
       "min_parcel_size": 10430,
       "max_tranches": 3
@@ -3040,7 +3040,7 @@
     },
     {
       "cargo_id": "C0435",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 115537,
       "min_parcel_size": 6988,
       "max_tranches": 4
@@ -3117,7 +3117,7 @@
     },
     {
       "cargo_id": "C0446",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 34798,
       "min_parcel_size": 26116,
       "max_tranches": 1
@@ -3159,7 +3159,7 @@
     },
     {
       "cargo_id": "C0452",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 121265,
       "min_parcel_size": 26885,
       "max_tranches": 1
@@ -3187,14 +3187,14 @@
     },
     {
       "cargo_id": "C0456",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 173760,
       "min_parcel_size": 25558,
       "max_tranches": 4
     },
     {
       "cargo_id": "C0457",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 153468,
       "min_parcel_size": 7186,
       "max_tranches": 1
@@ -3215,7 +3215,7 @@
     },
     {
       "cargo_id": "C0460",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 90439,
       "min_parcel_size": 25420,
       "max_tranches": 2
@@ -3236,7 +3236,7 @@
     },
     {
       "cargo_id": "C0463",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 33340,
       "min_parcel_size": 29965,
       "max_tranches": 1
@@ -3250,7 +3250,7 @@
     },
     {
       "cargo_id": "C0465",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 141679,
       "min_parcel_size": 26920,
       "max_tranches": 5
@@ -3271,7 +3271,7 @@
     },
     {
       "cargo_id": "C0468",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 172078,
       "min_parcel_size": 8119,
       "max_tranches": 2
@@ -3299,7 +3299,7 @@
     },
     {
       "cargo_id": "C0472",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 65536,
       "min_parcel_size": 8308,
       "max_tranches": 5
@@ -3334,7 +3334,7 @@
     },
     {
       "cargo_id": "C0477",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 97991,
       "min_parcel_size": 6727,
       "max_tranches": 5
@@ -3348,7 +3348,7 @@
     },
     {
       "cargo_id": "C0479",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 133730,
       "min_parcel_size": 5105,
       "max_tranches": 5
@@ -3383,7 +3383,7 @@
     },
     {
       "cargo_id": "C0484",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 135636,
       "min_parcel_size": 8743,
       "max_tranches": 5
@@ -3404,7 +3404,7 @@
     },
     {
       "cargo_id": "C0487",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 71957,
       "min_parcel_size": 17325,
       "max_tranches": 4
@@ -3418,7 +3418,7 @@
     },
     {
       "cargo_id": "C0489",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 195713,
       "min_parcel_size": 29410,
       "max_tranches": 4
@@ -3495,7 +3495,7 @@
     },
     {
       "cargo_id": "C0500",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 164341,
       "min_parcel_size": 10225,
       "max_tranches": 2
@@ -3516,7 +3516,7 @@
     },
     {
       "cargo_id": "C0503",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 196891,
       "min_parcel_size": 5246,
       "max_tranches": 4
@@ -3558,7 +3558,7 @@
     },
     {
       "cargo_id": "C0509",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 101689,
       "min_parcel_size": 12042,
       "max_tranches": 5
@@ -3614,7 +3614,7 @@
     },
     {
       "cargo_id": "C0517",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 68205,
       "min_parcel_size": 9860,
       "max_tranches": 1
@@ -3656,7 +3656,7 @@
     },
     {
       "cargo_id": "C0523",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 90087,
       "min_parcel_size": 5787,
       "max_tranches": 1
@@ -3677,7 +3677,7 @@
     },
     {
       "cargo_id": "C0526",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 176385,
       "min_parcel_size": 6383,
       "max_tranches": 1
@@ -3698,7 +3698,7 @@
     },
     {
       "cargo_id": "C0529",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 114378,
       "min_parcel_size": 28971,
       "max_tranches": 5
@@ -3733,7 +3733,7 @@
     },
     {
       "cargo_id": "C0534",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 83898,
       "min_parcel_size": 6713,
       "max_tranches": 3
@@ -3747,7 +3747,7 @@
     },
     {
       "cargo_id": "C0536",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 150736,
       "min_parcel_size": 7718,
       "max_tranches": 3
@@ -3789,7 +3789,7 @@
     },
     {
       "cargo_id": "C0542",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 42550,
       "min_parcel_size": 28654,
       "max_tranches": 1
@@ -3817,7 +3817,7 @@
     },
     {
       "cargo_id": "C0546",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 107986,
       "min_parcel_size": 22081,
       "max_tranches": 3
@@ -3901,14 +3901,14 @@
     },
     {
       "cargo_id": "C0558",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 86104,
       "min_parcel_size": 14930,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0559",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 36012,
       "min_parcel_size": 10218,
       "max_tranches": 4
@@ -3929,14 +3929,14 @@
     },
     {
       "cargo_id": "C0562",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 160320,
       "min_parcel_size": 13049,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0563",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 28314,
       "min_parcel_size": 23183,
       "max_tranches": 3
@@ -3950,7 +3950,7 @@
     },
     {
       "cargo_id": "C0565",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 181871,
       "min_parcel_size": 20707,
       "max_tranches": 3
@@ -3964,14 +3964,14 @@
     },
     {
       "cargo_id": "C0567",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 76311,
       "min_parcel_size": 28172,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0568",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 77282,
       "min_parcel_size": 26252,
       "max_tranches": 4
@@ -4027,14 +4027,14 @@
     },
     {
       "cargo_id": "C0576",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 185311,
       "min_parcel_size": 14963,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0577",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 180782,
       "min_parcel_size": 13868,
       "max_tranches": 4
@@ -4048,7 +4048,7 @@
     },
     {
       "cargo_id": "C0579",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 66642,
       "min_parcel_size": 19645,
       "max_tranches": 1
@@ -4069,7 +4069,7 @@
     },
     {
       "cargo_id": "C0582",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 60177,
       "min_parcel_size": 6426,
       "max_tranches": 3
@@ -4125,7 +4125,7 @@
     },
     {
       "cargo_id": "C0590",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 199657,
       "min_parcel_size": 11358,
       "max_tranches": 5
@@ -4167,14 +4167,14 @@
     },
     {
       "cargo_id": "C0596",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 101835,
       "min_parcel_size": 6946,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0597",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 140414,
       "min_parcel_size": 10862,
       "max_tranches": 2
@@ -4237,7 +4237,7 @@
     },
     {
       "cargo_id": "C0606",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 170962,
       "min_parcel_size": 18298,
       "max_tranches": 1
@@ -4265,7 +4265,7 @@
     },
     {
       "cargo_id": "C0610",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 173006,
       "min_parcel_size": 16251,
       "max_tranches": 5
@@ -4279,7 +4279,7 @@
     },
     {
       "cargo_id": "C0612",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 74713,
       "min_parcel_size": 26710,
       "max_tranches": 5
@@ -4293,7 +4293,7 @@
     },
     {
       "cargo_id": "C0614",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 26021,
       "min_parcel_size": 6574,
       "max_tranches": 3
@@ -4307,7 +4307,7 @@
     },
     {
       "cargo_id": "C0616",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 127499,
       "min_parcel_size": 24338,
       "max_tranches": 5
@@ -4349,7 +4349,7 @@
     },
     {
       "cargo_id": "C0622",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 30955,
       "min_parcel_size": 13041,
       "max_tranches": 5
@@ -4370,7 +4370,7 @@
     },
     {
       "cargo_id": "C0625",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 132274,
       "min_parcel_size": 5363,
       "max_tranches": 4
@@ -4391,7 +4391,7 @@
     },
     {
       "cargo_id": "C0628",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 155565,
       "min_parcel_size": 18241,
       "max_tranches": 2
@@ -4405,14 +4405,14 @@
     },
     {
       "cargo_id": "C0630",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 148793,
       "min_parcel_size": 16909,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0631",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 110708,
       "min_parcel_size": 28637,
       "max_tranches": 5
@@ -4454,14 +4454,14 @@
     },
     {
       "cargo_id": "C0637",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 66309,
       "min_parcel_size": 22733,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0638",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 190742,
       "min_parcel_size": 14533,
       "max_tranches": 2
@@ -4482,7 +4482,7 @@
     },
     {
       "cargo_id": "C0641",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 112435,
       "min_parcel_size": 12892,
       "max_tranches": 1
@@ -4496,7 +4496,7 @@
     },
     {
       "cargo_id": "C0643",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 149324,
       "min_parcel_size": 7202,
       "max_tranches": 4
@@ -4517,7 +4517,7 @@
     },
     {
       "cargo_id": "C0646",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 165796,
       "min_parcel_size": 27439,
       "max_tranches": 2
@@ -4552,7 +4552,7 @@
     },
     {
       "cargo_id": "C0651",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 46427,
       "min_parcel_size": 28524,
       "max_tranches": 5
@@ -4615,7 +4615,7 @@
     },
     {
       "cargo_id": "C0660",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 139855,
       "min_parcel_size": 15037,
       "max_tranches": 1
@@ -4720,7 +4720,7 @@
     },
     {
       "cargo_id": "C0675",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 162804,
       "min_parcel_size": 21398,
       "max_tranches": 3
@@ -4790,7 +4790,7 @@
     },
     {
       "cargo_id": "C0685",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 153427,
       "min_parcel_size": 13100,
       "max_tranches": 4
@@ -4804,14 +4804,14 @@
     },
     {
       "cargo_id": "C0687",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 132300,
       "min_parcel_size": 20437,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0688",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 186315,
       "min_parcel_size": 16520,
       "max_tranches": 1
@@ -4832,7 +4832,7 @@
     },
     {
       "cargo_id": "C0691",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 106465,
       "min_parcel_size": 17094,
       "max_tranches": 4
@@ -4867,7 +4867,7 @@
     },
     {
       "cargo_id": "C0696",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 139727,
       "min_parcel_size": 15428,
       "max_tranches": 5
@@ -4881,7 +4881,7 @@
     },
     {
       "cargo_id": "C0698",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 120119,
       "min_parcel_size": 27493,
       "max_tranches": 2
@@ -4930,7 +4930,7 @@
     },
     {
       "cargo_id": "C0705",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 78573,
       "min_parcel_size": 25091,
       "max_tranches": 5
@@ -4972,14 +4972,14 @@
     },
     {
       "cargo_id": "C0711",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 84182,
       "min_parcel_size": 27709,
       "max_tranches": 4
     },
     {
       "cargo_id": "C0712",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 72599,
       "min_parcel_size": 29018,
       "max_tranches": 5
@@ -5000,7 +5000,7 @@
     },
     {
       "cargo_id": "C0715",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 174051,
       "min_parcel_size": 21185,
       "max_tranches": 4
@@ -5056,7 +5056,7 @@
     },
     {
       "cargo_id": "C0723",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 166656,
       "min_parcel_size": 21973,
       "max_tranches": 5
@@ -5126,7 +5126,7 @@
     },
     {
       "cargo_id": "C0733",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 136777,
       "min_parcel_size": 19840,
       "max_tranches": 2
@@ -5140,14 +5140,14 @@
     },
     {
       "cargo_id": "C0735",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 82149,
       "min_parcel_size": 7091,
       "max_tranches": 2
     },
     {
       "cargo_id": "C0736",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 35385,
       "min_parcel_size": 21568,
       "max_tranches": 5
@@ -5161,7 +5161,7 @@
     },
     {
       "cargo_id": "C0738",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 87627,
       "min_parcel_size": 14809,
       "max_tranches": 1
@@ -5175,7 +5175,7 @@
     },
     {
       "cargo_id": "C0740",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 49334,
       "min_parcel_size": 12469,
       "max_tranches": 1
@@ -5189,14 +5189,14 @@
     },
     {
       "cargo_id": "C0742",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 59557,
       "min_parcel_size": 14382,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0743",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 196107,
       "min_parcel_size": 18516,
       "max_tranches": 5
@@ -5245,14 +5245,14 @@
     },
     {
       "cargo_id": "C0750",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 99642,
       "min_parcel_size": 27036,
       "max_tranches": 2
     },
     {
       "cargo_id": "C0751",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 182078,
       "min_parcel_size": 20713,
       "max_tranches": 4
@@ -5301,7 +5301,7 @@
     },
     {
       "cargo_id": "C0758",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 147243,
       "min_parcel_size": 6939,
       "max_tranches": 2
@@ -5322,7 +5322,7 @@
     },
     {
       "cargo_id": "C0761",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 151170,
       "min_parcel_size": 22035,
       "max_tranches": 3
@@ -5364,7 +5364,7 @@
     },
     {
       "cargo_id": "C0767",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 79056,
       "min_parcel_size": 16065,
       "max_tranches": 3
@@ -5378,7 +5378,7 @@
     },
     {
       "cargo_id": "C0769",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 149909,
       "min_parcel_size": 20103,
       "max_tranches": 5
@@ -5434,7 +5434,7 @@
     },
     {
       "cargo_id": "C0777",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 98518,
       "min_parcel_size": 26164,
       "max_tranches": 3
@@ -5448,7 +5448,7 @@
     },
     {
       "cargo_id": "C0779",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 184349,
       "min_parcel_size": 18499,
       "max_tranches": 3
@@ -5462,7 +5462,7 @@
     },
     {
       "cargo_id": "C0781",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 31894,
       "min_parcel_size": 17928,
       "max_tranches": 5
@@ -5532,7 +5532,7 @@
     },
     {
       "cargo_id": "C0791",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 179408,
       "min_parcel_size": 12789,
       "max_tranches": 1
@@ -5588,7 +5588,7 @@
     },
     {
       "cargo_id": "C0799",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 85605,
       "min_parcel_size": 27809,
       "max_tranches": 2
@@ -5651,7 +5651,7 @@
     },
     {
       "cargo_id": "C0808",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 92604,
       "min_parcel_size": 12691,
       "max_tranches": 2
@@ -5665,14 +5665,14 @@
     },
     {
       "cargo_id": "C0810",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 187337,
       "min_parcel_size": 27603,
       "max_tranches": 4
     },
     {
       "cargo_id": "C0811",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 128075,
       "min_parcel_size": 9701,
       "max_tranches": 1
@@ -5735,7 +5735,7 @@
     },
     {
       "cargo_id": "C0820",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 183617,
       "min_parcel_size": 29529,
       "max_tranches": 4
@@ -5763,7 +5763,7 @@
     },
     {
       "cargo_id": "C0824",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 26561,
       "min_parcel_size": 29066,
       "max_tranches": 4
@@ -5777,7 +5777,7 @@
     },
     {
       "cargo_id": "C0826",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 27725,
       "min_parcel_size": 6430,
       "max_tranches": 1
@@ -5791,7 +5791,7 @@
     },
     {
       "cargo_id": "C0828",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 115410,
       "min_parcel_size": 27490,
       "max_tranches": 5
@@ -5882,7 +5882,7 @@
     },
     {
       "cargo_id": "C0841",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 63375,
       "min_parcel_size": 22031,
       "max_tranches": 5
@@ -5931,7 +5931,7 @@
     },
     {
       "cargo_id": "C0848",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 104693,
       "min_parcel_size": 11874,
       "max_tranches": 3
@@ -5952,7 +5952,7 @@
     },
     {
       "cargo_id": "C0851",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 165429,
       "min_parcel_size": 11211,
       "max_tranches": 1
@@ -5973,14 +5973,14 @@
     },
     {
       "cargo_id": "C0854",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 190907,
       "min_parcel_size": 7951,
       "max_tranches": 4
     },
     {
       "cargo_id": "C0855",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 29365,
       "min_parcel_size": 28580,
       "max_tranches": 1
@@ -6029,7 +6029,7 @@
     },
     {
       "cargo_id": "C0862",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 134632,
       "min_parcel_size": 13841,
       "max_tranches": 4
@@ -6064,7 +6064,7 @@
     },
     {
       "cargo_id": "C0867",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 190005,
       "min_parcel_size": 13492,
       "max_tranches": 2
@@ -6078,7 +6078,7 @@
     },
     {
       "cargo_id": "C0869",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 141110,
       "min_parcel_size": 23051,
       "max_tranches": 5
@@ -6092,7 +6092,7 @@
     },
     {
       "cargo_id": "C0871",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 147685,
       "min_parcel_size": 16946,
       "max_tranches": 3
@@ -6120,7 +6120,7 @@
     },
     {
       "cargo_id": "C0875",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 65737,
       "min_parcel_size": 25126,
       "max_tranches": 2
@@ -6148,7 +6148,7 @@
     },
     {
       "cargo_id": "C0879",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 128416,
       "min_parcel_size": 11556,
       "max_tranches": 2
@@ -6176,14 +6176,14 @@
     },
     {
       "cargo_id": "C0883",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 134038,
       "min_parcel_size": 17341,
       "max_tranches": 2
     },
     {
       "cargo_id": "C0884",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 88712,
       "min_parcel_size": 19006,
       "max_tranches": 3
@@ -6232,7 +6232,7 @@
     },
     {
       "cargo_id": "C0891",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 126897,
       "min_parcel_size": 29562,
       "max_tranches": 5
@@ -6302,7 +6302,7 @@
     },
     {
       "cargo_id": "C0901",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 73030,
       "min_parcel_size": 13289,
       "max_tranches": 5
@@ -6323,14 +6323,14 @@
     },
     {
       "cargo_id": "C0904",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 23242,
       "min_parcel_size": 9871,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0905",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 125626,
       "min_parcel_size": 7052,
       "max_tranches": 2
@@ -6358,7 +6358,7 @@
     },
     {
       "cargo_id": "C0909",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 150055,
       "min_parcel_size": 10524,
       "max_tranches": 5
@@ -6407,21 +6407,21 @@
     },
     {
       "cargo_id": "C0916",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 90609,
       "min_parcel_size": 18069,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0917",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 198378,
       "min_parcel_size": 23634,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0918",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 147967,
       "min_parcel_size": 20727,
       "max_tranches": 2
@@ -6435,7 +6435,7 @@
     },
     {
       "cargo_id": "C0920",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 30634,
       "min_parcel_size": 27379,
       "max_tranches": 1
@@ -6449,28 +6449,28 @@
     },
     {
       "cargo_id": "C0922",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 142510,
       "min_parcel_size": 17825,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0923",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 184612,
       "min_parcel_size": 15538,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0924",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 51306,
       "min_parcel_size": 16453,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0925",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 54812,
       "min_parcel_size": 13292,
       "max_tranches": 5
@@ -6505,7 +6505,7 @@
     },
     {
       "cargo_id": "C0930",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 78478,
       "min_parcel_size": 21043,
       "max_tranches": 2
@@ -6519,7 +6519,7 @@
     },
     {
       "cargo_id": "C0932",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 58177,
       "min_parcel_size": 27380,
       "max_tranches": 3
@@ -6568,7 +6568,7 @@
     },
     {
       "cargo_id": "C0939",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 74610,
       "min_parcel_size": 8829,
       "max_tranches": 1
@@ -6589,7 +6589,7 @@
     },
     {
       "cargo_id": "C0942",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 143573,
       "min_parcel_size": 20516,
       "max_tranches": 4
@@ -6610,7 +6610,7 @@
     },
     {
       "cargo_id": "C0945",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 190796,
       "min_parcel_size": 7743,
       "max_tranches": 4
@@ -6631,7 +6631,7 @@
     },
     {
       "cargo_id": "C0948",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 110046,
       "min_parcel_size": 25121,
       "max_tranches": 3
@@ -6645,7 +6645,7 @@
     },
     {
       "cargo_id": "C0950",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 173348,
       "min_parcel_size": 24169,
       "max_tranches": 1
@@ -6708,14 +6708,14 @@
     },
     {
       "cargo_id": "C0959",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 137451,
       "min_parcel_size": 7543,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0960",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 70096,
       "min_parcel_size": 10111,
       "max_tranches": 3
@@ -6736,7 +6736,7 @@
     },
     {
       "cargo_id": "C0963",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 110976,
       "min_parcel_size": 6583,
       "max_tranches": 5
@@ -6771,21 +6771,21 @@
     },
     {
       "cargo_id": "C0968",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 33884,
       "min_parcel_size": 24573,
       "max_tranches": 2
     },
     {
       "cargo_id": "C0969",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 46277,
       "min_parcel_size": 29025,
       "max_tranches": 1
     },
     {
       "cargo_id": "C0970",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 36214,
       "min_parcel_size": 24147,
       "max_tranches": 3
@@ -6813,7 +6813,7 @@
     },
     {
       "cargo_id": "C0974",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 178840,
       "min_parcel_size": 10946,
       "max_tranches": 3
@@ -6841,14 +6841,14 @@
     },
     {
       "cargo_id": "C0978",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 137996,
       "min_parcel_size": 16684,
       "max_tranches": 5
     },
     {
       "cargo_id": "C0979",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 57438,
       "min_parcel_size": 22088,
       "max_tranches": 3
@@ -6897,7 +6897,7 @@
     },
     {
       "cargo_id": "C0986",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 92290,
       "min_parcel_size": 29401,
       "max_tranches": 1
@@ -6946,14 +6946,14 @@
     },
     {
       "cargo_id": "C0993",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 164891,
       "min_parcel_size": 23899,
       "max_tranches": 3
     },
     {
       "cargo_id": "C0994",
-      "commodity": "Bauxite",
+      "commodity": "Coke",
       "demand_tonnes": 41269,
       "min_parcel_size": 7816,
       "max_tranches": 1
@@ -6995,7 +6995,7 @@
     },
     {
       "cargo_id": "C1000",
-      "commodity": "Fertilizer",
+      "commodity": "Limestone",
       "demand_tonnes": 63983,
       "min_parcel_size": 15944,
       "max_tranches": 3
