@@ -16,11 +16,9 @@ import { useNav } from "@/components/NavContext";
 
 const nav = [
   { label: "Dashboard", to: "/", icon: LayoutDashboard },
-  { label: "Forecast", to: "/forecast", icon: LineChart },
   { label: "Optimizer", to: "/optimize", icon: TrendingUp },
   { label: "Idle Vessel Management", to: "/idle-vessel", icon: Anchor },
   { label: "Copilot", to: "/copilot", icon: MessageCircle },
-  { label: "Coal Buyer", to: "/coal-buyer", icon: ShoppingCart },
   { label: "Cargo", to: "/cargo", icon: Package },
   { label: "Ports", to: "/ports", icon: Ship },
   { label: "Analytics", to: "/analytics", icon: BarChart2 },

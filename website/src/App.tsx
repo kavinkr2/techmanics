@@ -8,7 +8,6 @@ import CargoPage from "@/pages/Cargo";
 import PortsPage from "@/pages/Ports";
 import AnalyticsPage from "@/pages/Analytics";
 import SettingsPage from "@/pages/Settings";
-import CoalBuyerPage from "@/pages/CoalBuyer";
 import IdleVesselPage from "@/pages/IdleVessel";
 import NotFoundPage from "@/pages/NotFound";
 
@@ -22,7 +21,6 @@ export default function App() {
           <Route path="copilot" element={<CopilotPage />} />
           <Route path="cargo" element={<CargoPage />} />
           <Route path="ports" element={<PortsPage />} />
-          <Route path="coal-buyer" element={<CoalBuyerPage />} />
           <Route path="idle-vessel" element={<IdleVesselPage />} />
           <Route path="analytics" element={<AnalyticsPage />} />
           <Route path="settings" element={<SettingsPage />} />

@@ -1,14 +1,14 @@
 import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
 import { NavLink, Outlet } from "react-router-dom";
-import { BarChart2, LayoutDashboard, LineChart, MessageCircle, Package, Settings, Ship, TrendingUp, ShoppingCart, } from "lucide-react";
+import { BarChart2, LayoutDashboard, LineChart, MessageCircle, Package, Settings, Ship, Anchor, TrendingUp, ShoppingCart, } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useNav } from "@/components/NavContext";
 const nav = [
     { label: "Dashboard", to: "/", icon: LayoutDashboard },
     { label: "Forecast", to: "/forecast", icon: LineChart },
     { label: "Optimizer", to: "/optimize", icon: TrendingUp },
+    { label: "Idle Vessel Management", to: "/idle-vessel", icon: Anchor },
     { label: "Copilot", to: "/copilot", icon: MessageCircle },
-    { label: "Coal Buyer", to: "/coal-buyer", icon: ShoppingCart },
     { label: "Cargo", to: "/cargo", icon: Package },
     { label: "Ports", to: "/ports", icon: Ship },
     { label: "Analytics", to: "/analytics", icon: BarChart2 },

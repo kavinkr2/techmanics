@@ -55,12 +55,26 @@ export default function CopilotPage() {
             endRef.current?.scrollTo({ top: endRef.current.scrollHeight, behavior: "smooth" });
         }
     };
-    return (_jsxs("div", { className: "space-y-6", children: [_jsxs("div", { children: [_jsx("h2", { className: "text-2xl font-semibold text-text-primary", children: "Copilot" }), _jsx("p", { className: "text-sm text-text-secondary/60", children: "Ask about freight forecasts, port congestion, or vessel optimization." })] }), _jsxs(GlassCard, { className: "flex h-[520px] flex-col", children: [_jsxs("div", { ref: endRef, className: "flex-1 space-y-4 overflow-y-auto p-5 pb-2", children: [messages.map((m) => (_jsxs("div", { className: cn("flex gap-3 text-sm", m.role === "user" ? "justify-end" : "justify-start"), children: [m.role === "assistant" && (_jsx("div", { className: "mt-0.5 shrink-0 rounded-xl bg-accent/15 p-1.5 text-accent", children: _jsx(Bot, { className: "h-5 w-5" }) })), _jsx("div", { className: cn("max-w-[75%] rounded-2xl px-4 py-2.5", m.role === "user"
+    return (_jsxs("div", { className: "space-y-6", children: [_jsxs("div", { children: [_jsx("h2", { className: "text-2xl font-semibold text-text-primary", children: "Copilot" }), _jsx("p", { className: "text-sm text-text-secondary/60", children: "Ask about freight forecasts, port congestion, or vessel optimization." })] }), _jsx("div", { className: "flex justify-end", children: _jsx("button", { onClick: () => setMessages([
+                        {
+                            id: "welcome",
+                            role: "assistant",
+                            content: "Hello, I'm your maritime logistics copilot. I have access to freight forecasts and the vessel optimizer. How can I help you today?",
+                        },
+                    ]), className: "text-xs text-text-secondary hover:text-text-primary underline", children: "Clear conversation" }) }), _jsxs(GlassCard, { className: "flex h-[520px] flex-col", children: [_jsxs("div", { ref: endRef, className: "flex-1 space-y-4 overflow-y-auto p-5 pb-2", children: [messages.map((m) => (_jsxs("div", { className: cn("flex gap-3 text-sm", m.role === "user" ? "justify-end" : "justify-start"), children: [m.role === "assistant" && (_jsx("div", { className: "mt-0.5 shrink-0 rounded-xl bg-accent/15 p-1.5 text-accent", children: _jsx(Bot, { className: "h-5 w-5" }) })), _jsx("div", { className: cn("max-w-[75%] rounded-2xl px-4 py-2.5", m.role === "user"
                                             ? "rounded-br-md bg-accent/25 text-text-primary"
-                                            : "rounded-bl-md bg-surface/40 text-text-secondary"), children: m.content }), m.role === "user" && (_jsx("div", { className: "mt-0.5 shrink-0 rounded-xl bg-surface-2/40 p-1", children: _jsx(User, { className: "h-5 w-5 text-text-secondary/60" }) }))] }, m.id))), loading && (_jsxs("div", { className: "flex gap-3 justify-start", children: [_jsx("div", { className: "shrink-0 rounded-xl bg-accent/15 p-1.5 text-accent", children: _jsx(Bot, { className: "h-5 w-5 animate-pulse" }) }), _jsx("div", { className: "rounded-2xl rounded-bl-md bg-surface/40 px-4 py-2.5", children: _jsx("span", { className: "text-text-secondary/50", children: "Thinking\u2026" }) })] }))] }), _jsx("div", { className: "border-t border-border/40 p-4", children: _jsxs("form", { onSubmit: (e) => {
-                                e.preventDefault();
-                                handleSend();
-                            }, className: "flex gap-2", children: [_jsx(Input, { value: input, onChange: (e) => setInput(e.target.value), placeholder: "Ask the maritime copilot\u2026", disabled: loading, className: "flex-1" }), _jsx(Button, { type: "submit", variant: "primary", size: "md", icon: _jsx(Send, { className: "h-4 w-4" }), disabled: loading || !input.trim(), children: "Send" })] }) })] })] }));
+                                            : "rounded-bl-md bg-surface/40 text-text-secondary"), children: m.content }), m.role === "user" && (_jsx("div", { className: "mt-0.5 shrink-0 rounded-xl bg-surface-2/40 p-1", children: _jsx(User, { className: "h-5 w-5 text-text-secondary/60" }) }))] }, m.id))), loading && (_jsxs("div", { className: "flex gap-3 justify-start", children: [_jsx("div", { className: "shrink-0 rounded-xl bg-accent/15 p-1.5 text-accent", children: _jsx(Bot, { className: "h-5 w-5 animate-pulse" }) }), _jsx("div", { className: "rounded-2xl rounded-bl-md bg-surface/40 px-4 py-2.5", children: _jsx("span", { className: "text-text-secondary/50", children: "Thinking\u2026" }) })] }))] }), _jsxs("div", { className: "border-t border-border/40 p-4", children: [_jsx("div", { className: "mb-3 flex flex-wrap gap-2", children: [
+                                    "What's the current Baltic Dry Index?",
+                                    "Show me vessel positions near Paradip",
+                                    "Are there weather alerts in the Indian Ocean?",
+                                    "Predict freight rates for the next 30 days",
+                                    "How is port congestion affecting Paradip?",
+                                ].map((suggestion) => (_jsx("button", { onClick: () => {
+                                        setInput(suggestion);
+                                    }, className: "px-3 py-1.5 rounded-[8px] text-xs text-text-secondary hover:text-text-primary hover:bg-surface-2/50 transition-colors border border-border/30", children: suggestion }, suggestion))) }), _jsxs("form", { onSubmit: (e) => {
+                                    e.preventDefault();
+                                    handleSend();
+                                }, className: "flex gap-2", children: [_jsx(Input, { value: input, onChange: (e) => setInput(e.target.value), placeholder: "Ask the maritime copilot\u2026", disabled: loading, className: "flex-1" }), _jsx(Button, { type: "submit", variant: "primary", size: "md", icon: _jsx(Send, { className: "h-4 w-4" }), disabled: loading || !input.trim(), children: "Send" })] })] })] })] }));
 }
 function cn(...cls) {
     return cls.filter(Boolean).join(" ");

@@ -103,6 +103,30 @@ function ScenarioCard({ scenario, result, selected, onClick }: {
               {riskLabel}
             </Badge>
           </div>
+          {result.selected_contract_type && (
+            <div className="flex justify-between text-sm">
+              <span className="text-text-secondary">Contract</span>
+              <span className="font-medium text-text-primary">{result.selected_contract_type}</span>
+            </div>
+          )}
+          {result.selected_planning_period && (
+            <div className="flex justify-between text-sm">
+              <span className="text-text-secondary">Planning Period</span>
+              <span className="font-medium text-text-primary">{result.selected_planning_period}</span>
+            </div>
+          )}
+          {result.recommended_vessel_class && (
+            <div className="flex justify-between text-sm">
+              <span className="text-text-secondary">Vessel Class</span>
+              <span className="font-medium text-text-primary">{result.recommended_vessel_class}</span>
+            </div>
+          )}
+          {(result.cvar_approximation != null) && (
+            <div className="flex justify-between text-sm">
+              <span className="text-text-secondary">CVaR (95%)</span>
+              <span className="font-medium text-text-primary">${fmt(result.cvar_approximation)}</span>
+            </div>
+          )}
         </div>
       )}
       

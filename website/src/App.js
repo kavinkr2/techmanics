@@ -9,8 +9,8 @@ import CargoPage from "@/pages/Cargo";
 import PortsPage from "@/pages/Ports";
 import AnalyticsPage from "@/pages/Analytics";
 import SettingsPage from "@/pages/Settings";
-import CoalBuyerPage from "@/pages/CoalBuyer";
+import IdleVesselPage from "@/pages/IdleVessel";
 import NotFoundPage from "@/pages/NotFound";
 export default function App() {
-    return (_jsx(NavProvider, { children: _jsxs(Routes, { children: [_jsxs(Route, { path: "/", element: _jsx(Layout, {}), children: [_jsx(Route, { index: true, element: _jsx(DashboardPage, {}) }), _jsx(Route, { path: "optimize", element: _jsx(OptimizePage, {}) }), _jsx(Route, { path: "copilot", element: _jsx(CopilotPage, {}) }), _jsx(Route, { path: "cargo", element: _jsx(CargoPage, {}) }), _jsx(Route, { path: "ports", element: _jsx(PortsPage, {}) }), _jsx(Route, { path: "coal-buyer", element: _jsx(CoalBuyerPage, {}) }), _jsx(Route, { path: "analytics", element: _jsx(AnalyticsPage, {}) }), _jsx(Route, { path: "settings", element: _jsx(SettingsPage, {}) })] }), _jsx(Route, { path: "*", element: _jsx(NotFoundPage, {}) })] }) }));
+    return (_jsx(NavProvider, { children: _jsxs(Routes, { children: [_jsxs(Route, { path: "/", element: _jsx(Layout, {}), children: [_jsx(Route, { index: true, element: _jsx(DashboardPage, {}) }), _jsx(Route, { path: "optimize", element: _jsx(OptimizePage, {}) }), _jsx(Route, { path: "copilot", element: _jsx(CopilotPage, {}) }), _jsx(Route, { path: "cargo", element: _jsx(CargoPage, {}) }), _jsx(Route, { path: "ports", element: _jsx(PortsPage, {}) }), _jsx(Route, { path: "idle-vessel", element: _jsx(IdleVesselPage, {}) }), _jsx(Route, { path: "analytics", element: _jsx(AnalyticsPage, {}) }), _jsx(Route, { path: "settings", element: _jsx(SettingsPage, {}) })] }), _jsx(Route, { path: "*", element: _jsx(NotFoundPage, {}) })] }) }));
 }
