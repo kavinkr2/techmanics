@@ -65,7 +65,13 @@ export type OptimizeResult = {
     congestion_factor: number;
     total_cost: number;
   }>;
+  expected_cost: number;
+  cvar_approximation: number;
   expected_cost_per_tonne: number;
+  selected_planning_period: string;
+  recommended_vessel_class: string;
+  selected_contract_type: string;
+  contract_cost_multiplier: number;
   solver_status: string;
 };
 

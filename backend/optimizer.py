@@ -12,7 +12,9 @@ from typing import List, Dict, Any, Optional
 from ortools.sat.python import cp_model
 
 # Load freight forecasts from port_data.json
-with open("website/src/assets/port_data.json", "r", encoding="utf-8") as f:
+import os
+_port_data_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "port_data.json")
+with open(_port_data_path, "r", encoding="utf-8") as f:
     _pd_data = json.load(f)
 FREIGHT_FORECASTS = _pd_data.get("freight_forecasts", [])
 

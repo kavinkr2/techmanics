@@ -7003,6 +7003,133 @@
   ],
   "ports": [
     {
-      "port_id": "P0001",
-      "name": "Port 1",
-      "draft_limit": 
+      "port_id": "PAR",
+      "name": "Paradip",
+      "draft_limit": 16.5,
+      "loa_limit": 270,
+      "beam_limit": 45,
+      "berths": 8,
+      "port_cost_per_tonne": 4.5
+    },
+    {
+      "port_id": "VSK",
+      "name": "Visakhapatnam",
+      "draft_limit": 14.2,
+      "loa_limit": 250,
+      "beam_limit": 42,
+      "berths": 6,
+      "port_cost_per_tonne": 4.2
+    },
+    {
+      "port_id": "GAN",
+      "name": "Gangavaram",
+      "draft_limit": 18.0,
+      "loa_limit": 300,
+      "beam_limit": 48,
+      "berths": 5,
+      "port_cost_per_tonne": 4.0
+    },
+    {
+      "port_id": "DHM",
+      "name": "Dhamra",
+      "draft_limit": 17.5,
+      "loa_limit": 280,
+      "beam_limit": 46,
+      "berths": 4,
+      "port_cost_per_tonne": 3.9
+    },
+    {
+      "port_id": "HAL",
+      "name": "Haldia",
+      "draft_limit": 12.5,
+      "loa_limit": 230,
+      "beam_limit": 38,
+      "berths": 10,
+      "port_cost_per_tonne": 3.7
+    },
+    {
+      "port_id": "GOP",
+      "name": "Gopalpur",
+      "draft_limit": 13.0,
+      "loa_limit": 240,
+      "beam_limit": 40,
+      "berths": 3,
+      "port_cost_per_tonne": 3.8
+    }
+  ],
+  "vessels": [
+    {
+      "vessel_id": "V-HDY",
+      "class": "Handysize",
+      "capacity": 35000,
+      "draft": 10.5,
+      "loa": 180,
+      "beam": 28,
+      "charter_cost_per_tonne": 22.5
+    },
+    {
+      "vessel_id": "V-SUP",
+      "class": "Supramax",
+      "capacity": 58000,
+      "draft": 12.5,
+      "loa": 200,
+      "beam": 32,
+      "charter_cost_per_tonne": 18.0
+    },
+    {
+      "vessel_id": "V-PAN",
+      "class": "Panamax",
+      "capacity": 82000,
+      "draft": 14.5,
+      "loa": 228,
+      "beam": 36,
+      "charter_cost_per_tonne": 14.5
+    },
+    {
+      "vessel_id": "V-CAP",
+      "class": "Capesize",
+      "capacity": 175000,
+      "draft": 18.0,
+      "loa": 290,
+      "beam": 50,
+      "charter_cost_per_tonne": 11.0
+    }
+  ],
+  "scenarios": [
+    {
+      "scenario_id": "S1",
+      "probability": 0.25,
+      "freight_rate": 16.5,
+      "fuel_cost": 620,
+      "weather_delay_days": 2
+    },
+    {
+      "scenario_id": "S2",
+      "probability": 0.2,
+      "freight_rate": 14.0,
+      "fuel_cost": 580,
+      "weather_delay_days": 3
+    },
+    {
+      "scenario_id": "S3",
+      "probability": 0.15,
+      "freight_rate": 12.5,
+      "fuel_cost": 540,
+      "weather_delay_days": 5
+    },
+    {
+      "scenario_id": "S4",
+      "probability": 0.25,
+      "freight_rate": 18.0,
+      "fuel_cost": 660,
+      "weather_delay_days": 1
+    },
+    {
+      "scenario_id": "S5",
+      "probability": 0.15,
+      "freight_rate": 10.8,
+      "fuel_cost": 500,
+      "weather_delay_days": 6
+    }
+  ]
+}
