@@ -162,7 +162,6 @@ techmanics/
 ├── forecast_engine.py
 ├── copilot_tools.py
 ├── llm_copilot.py
-├── coal_buyer.py
 ├── risk.py
 ├── stopping.py
 ├── port_simulation.py
