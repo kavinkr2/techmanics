@@ -1,0 +1,7008 @@
+{
+  "cargo": [
+    {
+      "cargo_id": "C0001",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 163700,
+      "min_parcel_size": 28089,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0002",
+      "commodity": "Cement",
+      "demand_tonnes": 47410,
+      "min_parcel_size": 27285,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0003",
+      "commodity": "Bauxite",
+      "demand_tonnes": 195882,
+      "min_parcel_size": 16846,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0004",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 112409,
+      "min_parcel_size": 10776,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0005",
+      "commodity": "Coal",
+      "demand_tonnes": 57651,
+      "min_parcel_size": 11618,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0006",
+      "commodity": "Coal",
+      "demand_tonnes": 177522,
+      "min_parcel_size": 6171,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0007",
+      "commodity": "Steel",
+      "demand_tonnes": 126444,
+      "min_parcel_size": 13384,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0008",
+      "commodity": "Grain",
+      "demand_tonnes": 192626,
+      "min_parcel_size": 19044,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0009",
+      "commodity": "Bauxite",
+      "demand_tonnes": 184835,
+      "min_parcel_size": 6880,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0010",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 38797,
+      "min_parcel_size": 21543,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0011",
+      "commodity": "Bauxite",
+      "demand_tonnes": 151709,
+      "min_parcel_size": 13472,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0012",
+      "commodity": "Coal",
+      "demand_tonnes": 61838,
+      "min_parcel_size": 9258,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0013",
+      "commodity": "Steel",
+      "demand_tonnes": 32205,
+      "min_parcel_size": 16756,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0014",
+      "commodity": "Grain",
+      "demand_tonnes": 150984,
+      "min_parcel_size": 7101,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0015",
+      "commodity": "Limestone",
+      "demand_tonnes": 145931,
+      "min_parcel_size": 9072,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0016",
+      "commodity": "Grain",
+      "demand_tonnes": 179766,
+      "min_parcel_size": 5098,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0017",
+      "commodity": "Grain",
+      "demand_tonnes": 91893,
+      "min_parcel_size": 15419,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0018",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 38582,
+      "min_parcel_size": 7570,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0019",
+      "commodity": "Coal",
+      "demand_tonnes": 65617,
+      "min_parcel_size": 23544,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0020",
+      "commodity": "Steel",
+      "demand_tonnes": 97400,
+      "min_parcel_size": 27541,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0021",
+      "commodity": "Cement",
+      "demand_tonnes": 190907,
+      "min_parcel_size": 13222,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0022",
+      "commodity": "Coal",
+      "demand_tonnes": 41885,
+      "min_parcel_size": 12859,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0023",
+      "commodity": "Cement",
+      "demand_tonnes": 104807,
+      "min_parcel_size": 28378,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0024",
+      "commodity": "Steel",
+      "demand_tonnes": 54402,
+      "min_parcel_size": 24763,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0025",
+      "commodity": "Steel",
+      "demand_tonnes": 122549,
+      "min_parcel_size": 21538,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0026",
+      "commodity": "Grain",
+      "demand_tonnes": 112480,
+      "min_parcel_size": 27273,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0027",
+      "commodity": "Coal",
+      "demand_tonnes": 153725,
+      "min_parcel_size": 8743,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0028",
+      "commodity": "Cement",
+      "demand_tonnes": 184000,
+      "min_parcel_size": 13615,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0029",
+      "commodity": "Coal",
+      "demand_tonnes": 152406,
+      "min_parcel_size": 6607,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0030",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 33518,
+      "min_parcel_size": 27422,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0031",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 164213,
+      "min_parcel_size": 12531,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0032",
+      "commodity": "Bauxite",
+      "demand_tonnes": 144195,
+      "min_parcel_size": 28435,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0033",
+      "commodity": "Cement",
+      "demand_tonnes": 77911,
+      "min_parcel_size": 26786,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0034",
+      "commodity": "Limestone",
+      "demand_tonnes": 199961,
+      "min_parcel_size": 18051,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0035",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 82578,
+      "min_parcel_size": 5852,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0036",
+      "commodity": "Limestone",
+      "demand_tonnes": 184106,
+      "min_parcel_size": 10278,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0037",
+      "commodity": "Bauxite",
+      "demand_tonnes": 105789,
+      "min_parcel_size": 25800,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0038",
+      "commodity": "Steel",
+      "demand_tonnes": 113118,
+      "min_parcel_size": 28730,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0039",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 133533,
+      "min_parcel_size": 5490,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0040",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 111288,
+      "min_parcel_size": 6875,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0041",
+      "commodity": "Grain",
+      "demand_tonnes": 184698,
+      "min_parcel_size": 16860,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0042",
+      "commodity": "Cement",
+      "demand_tonnes": 179169,
+      "min_parcel_size": 11942,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0043",
+      "commodity": "Grain",
+      "demand_tonnes": 56338,
+      "min_parcel_size": 6661,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0044",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 101833,
+      "min_parcel_size": 27082,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0045",
+      "commodity": "Cement",
+      "demand_tonnes": 141562,
+      "min_parcel_size": 29720,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0046",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 64468,
+      "min_parcel_size": 27719,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0047",
+      "commodity": "Coal",
+      "demand_tonnes": 55869,
+      "min_parcel_size": 10160,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0048",
+      "commodity": "Steel",
+      "demand_tonnes": 150586,
+      "min_parcel_size": 16021,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0049",
+      "commodity": "Steel",
+      "demand_tonnes": 28343,
+      "min_parcel_size": 29942,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0050",
+      "commodity": "Cement",
+      "demand_tonnes": 44159,
+      "min_parcel_size": 14563,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0051",
+      "commodity": "Steel",
+      "demand_tonnes": 194792,
+      "min_parcel_size": 20533,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0052",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 88809,
+      "min_parcel_size": 25907,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0053",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 182932,
+      "min_parcel_size": 6988,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0054",
+      "commodity": "Steel",
+      "demand_tonnes": 109122,
+      "min_parcel_size": 16224,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0055",
+      "commodity": "Grain",
+      "demand_tonnes": 92891,
+      "min_parcel_size": 18028,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0056",
+      "commodity": "Grain",
+      "demand_tonnes": 144192,
+      "min_parcel_size": 19438,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0057",
+      "commodity": "Steel",
+      "demand_tonnes": 166837,
+      "min_parcel_size": 20708,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0058",
+      "commodity": "Grain",
+      "demand_tonnes": 122141,
+      "min_parcel_size": 27708,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0059",
+      "commodity": "Limestone",
+      "demand_tonnes": 31934,
+      "min_parcel_size": 26499,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0060",
+      "commodity": "Bauxite",
+      "demand_tonnes": 89036,
+      "min_parcel_size": 9681,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0061",
+      "commodity": "Cement",
+      "demand_tonnes": 123864,
+      "min_parcel_size": 6622,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0062",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 64471,
+      "min_parcel_size": 15218,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0063",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 39367,
+      "min_parcel_size": 13662,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0064",
+      "commodity": "Steel",
+      "demand_tonnes": 159393,
+      "min_parcel_size": 24899,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0065",
+      "commodity": "Cement",
+      "demand_tonnes": 161305,
+      "min_parcel_size": 6824,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0066",
+      "commodity": "Grain",
+      "demand_tonnes": 64036,
+      "min_parcel_size": 13011,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0067",
+      "commodity": "Cement",
+      "demand_tonnes": 128841,
+      "min_parcel_size": 14557,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0068",
+      "commodity": "Grain",
+      "demand_tonnes": 149758,
+      "min_parcel_size": 29002,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0069",
+      "commodity": "Limestone",
+      "demand_tonnes": 149767,
+      "min_parcel_size": 12083,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0070",
+      "commodity": "Cement",
+      "demand_tonnes": 44496,
+      "min_parcel_size": 26320,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0071",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 74666,
+      "min_parcel_size": 22383,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0072",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 90291,
+      "min_parcel_size": 24659,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0073",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 173481,
+      "min_parcel_size": 5380,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0074",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 51114,
+      "min_parcel_size": 12452,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0075",
+      "commodity": "Coal",
+      "demand_tonnes": 39783,
+      "min_parcel_size": 7803,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0076",
+      "commodity": "Steel",
+      "demand_tonnes": 139356,
+      "min_parcel_size": 9687,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0077",
+      "commodity": "Limestone",
+      "demand_tonnes": 123679,
+      "min_parcel_size": 22593,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0078",
+      "commodity": "Bauxite",
+      "demand_tonnes": 61363,
+      "min_parcel_size": 26383,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0079",
+      "commodity": "Bauxite",
+      "demand_tonnes": 121298,
+      "min_parcel_size": 18669,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0080",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 141605,
+      "min_parcel_size": 22358,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0081",
+      "commodity": "Coal",
+      "demand_tonnes": 110811,
+      "min_parcel_size": 27702,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0082",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 62786,
+      "min_parcel_size": 14545,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0083",
+      "commodity": "Cement",
+      "demand_tonnes": 126809,
+      "min_parcel_size": 16555,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0084",
+      "commodity": "Cement",
+      "demand_tonnes": 113374,
+      "min_parcel_size": 16465,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0085",
+      "commodity": "Bauxite",
+      "demand_tonnes": 88682,
+      "min_parcel_size": 6937,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0086",
+      "commodity": "Bauxite",
+      "demand_tonnes": 41477,
+      "min_parcel_size": 28004,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0087",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 193445,
+      "min_parcel_size": 14841,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0088",
+      "commodity": "Bauxite",
+      "demand_tonnes": 39174,
+      "min_parcel_size": 11625,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0089",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 130174,
+      "min_parcel_size": 20070,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0090",
+      "commodity": "Bauxite",
+      "demand_tonnes": 145125,
+      "min_parcel_size": 7970,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0091",
+      "commodity": "Limestone",
+      "demand_tonnes": 38673,
+      "min_parcel_size": 12878,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0092",
+      "commodity": "Bauxite",
+      "demand_tonnes": 69711,
+      "min_parcel_size": 13196,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0093",
+      "commodity": "Bauxite",
+      "demand_tonnes": 138142,
+      "min_parcel_size": 8727,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0094",
+      "commodity": "Coal",
+      "demand_tonnes": 74237,
+      "min_parcel_size": 13183,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0095",
+      "commodity": "Cement",
+      "demand_tonnes": 49679,
+      "min_parcel_size": 5934,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0096",
+      "commodity": "Limestone",
+      "demand_tonnes": 104654,
+      "min_parcel_size": 16522,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0097",
+      "commodity": "Limestone",
+      "demand_tonnes": 197425,
+      "min_parcel_size": 20531,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0098",
+      "commodity": "Cement",
+      "demand_tonnes": 66307,
+      "min_parcel_size": 26069,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0099",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 70412,
+      "min_parcel_size": 15778,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0100",
+      "commodity": "Coal",
+      "demand_tonnes": 59811,
+      "min_parcel_size": 8631,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0101",
+      "commodity": "Steel",
+      "demand_tonnes": 185226,
+      "min_parcel_size": 16845,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0102",
+      "commodity": "Cement",
+      "demand_tonnes": 41859,
+      "min_parcel_size": 23916,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0103",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 199167,
+      "min_parcel_size": 24629,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0104",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 181642,
+      "min_parcel_size": 9470,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0105",
+      "commodity": "Coal",
+      "demand_tonnes": 148494,
+      "min_parcel_size": 23647,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0106",
+      "commodity": "Bauxite",
+      "demand_tonnes": 61513,
+      "min_parcel_size": 25888,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0107",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 93118,
+      "min_parcel_size": 19083,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0108",
+      "commodity": "Limestone",
+      "demand_tonnes": 175159,
+      "min_parcel_size": 25789,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0109",
+      "commodity": "Limestone",
+      "demand_tonnes": 158531,
+      "min_parcel_size": 23284,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0110",
+      "commodity": "Cement",
+      "demand_tonnes": 124672,
+      "min_parcel_size": 13143,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0111",
+      "commodity": "Steel",
+      "demand_tonnes": 44025,
+      "min_parcel_size": 25925,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0112",
+      "commodity": "Steel",
+      "demand_tonnes": 82243,
+      "min_parcel_size": 14680,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0113",
+      "commodity": "Coal",
+      "demand_tonnes": 101438,
+      "min_parcel_size": 15965,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0114",
+      "commodity": "Coal",
+      "demand_tonnes": 45206,
+      "min_parcel_size": 16840,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0115",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 20839,
+      "min_parcel_size": 12803,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0116",
+      "commodity": "Steel",
+      "demand_tonnes": 192619,
+      "min_parcel_size": 15900,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0117",
+      "commodity": "Limestone",
+      "demand_tonnes": 188803,
+      "min_parcel_size": 18707,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0118",
+      "commodity": "Limestone",
+      "demand_tonnes": 32375,
+      "min_parcel_size": 5043,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0119",
+      "commodity": "Steel",
+      "demand_tonnes": 170764,
+      "min_parcel_size": 20364,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0120",
+      "commodity": "Limestone",
+      "demand_tonnes": 111657,
+      "min_parcel_size": 28957,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0121",
+      "commodity": "Bauxite",
+      "demand_tonnes": 161907,
+      "min_parcel_size": 8375,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0122",
+      "commodity": "Bauxite",
+      "demand_tonnes": 70826,
+      "min_parcel_size": 16547,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0123",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 195945,
+      "min_parcel_size": 7348,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0124",
+      "commodity": "Coal",
+      "demand_tonnes": 91744,
+      "min_parcel_size": 18490,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0125",
+      "commodity": "Grain",
+      "demand_tonnes": 157513,
+      "min_parcel_size": 21893,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0126",
+      "commodity": "Cement",
+      "demand_tonnes": 65015,
+      "min_parcel_size": 21806,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0127",
+      "commodity": "Coal",
+      "demand_tonnes": 73678,
+      "min_parcel_size": 29069,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0128",
+      "commodity": "Grain",
+      "demand_tonnes": 105788,
+      "min_parcel_size": 14327,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0129",
+      "commodity": "Bauxite",
+      "demand_tonnes": 99762,
+      "min_parcel_size": 17944,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0130",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 131845,
+      "min_parcel_size": 11703,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0131",
+      "commodity": "Cement",
+      "demand_tonnes": 39047,
+      "min_parcel_size": 26328,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0132",
+      "commodity": "Bauxite",
+      "demand_tonnes": 132726,
+      "min_parcel_size": 6075,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0133",
+      "commodity": "Limestone",
+      "demand_tonnes": 172271,
+      "min_parcel_size": 23425,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0134",
+      "commodity": "Limestone",
+      "demand_tonnes": 87392,
+      "min_parcel_size": 26782,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0135",
+      "commodity": "Coal",
+      "demand_tonnes": 192734,
+      "min_parcel_size": 10991,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0136",
+      "commodity": "Grain",
+      "demand_tonnes": 168694,
+      "min_parcel_size": 13544,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0137",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 54426,
+      "min_parcel_size": 12776,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0138",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 157484,
+      "min_parcel_size": 13992,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0139",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 55224,
+      "min_parcel_size": 13366,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0140",
+      "commodity": "Grain",
+      "demand_tonnes": 115972,
+      "min_parcel_size": 22010,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0141",
+      "commodity": "Bauxite",
+      "demand_tonnes": 152570,
+      "min_parcel_size": 19615,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0142",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 194257,
+      "min_parcel_size": 21119,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0143",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 69920,
+      "min_parcel_size": 26433,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0144",
+      "commodity": "Cement",
+      "demand_tonnes": 165083,
+      "min_parcel_size": 10838,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0145",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 120197,
+      "min_parcel_size": 26611,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0146",
+      "commodity": "Coal",
+      "demand_tonnes": 83819,
+      "min_parcel_size": 24664,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0147",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 190265,
+      "min_parcel_size": 15551,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0148",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 175028,
+      "min_parcel_size": 27064,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0149",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 161226,
+      "min_parcel_size": 28521,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0150",
+      "commodity": "Bauxite",
+      "demand_tonnes": 56638,
+      "min_parcel_size": 17710,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0151",
+      "commodity": "Cement",
+      "demand_tonnes": 91909,
+      "min_parcel_size": 10022,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0152",
+      "commodity": "Grain",
+      "demand_tonnes": 84100,
+      "min_parcel_size": 26287,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0153",
+      "commodity": "Coal",
+      "demand_tonnes": 41620,
+      "min_parcel_size": 6488,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0154",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 30400,
+      "min_parcel_size": 5451,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0155",
+      "commodity": "Bauxite",
+      "demand_tonnes": 28672,
+      "min_parcel_size": 17806,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0156",
+      "commodity": "Coal",
+      "demand_tonnes": 154508,
+      "min_parcel_size": 16686,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0157",
+      "commodity": "Coal",
+      "demand_tonnes": 102999,
+      "min_parcel_size": 23978,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0158",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 47762,
+      "min_parcel_size": 9811,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0159",
+      "commodity": "Coal",
+      "demand_tonnes": 134970,
+      "min_parcel_size": 12686,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0160",
+      "commodity": "Steel",
+      "demand_tonnes": 125466,
+      "min_parcel_size": 16668,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0161",
+      "commodity": "Bauxite",
+      "demand_tonnes": 27031,
+      "min_parcel_size": 6708,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0162",
+      "commodity": "Limestone",
+      "demand_tonnes": 56121,
+      "min_parcel_size": 12052,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0163",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 101413,
+      "min_parcel_size": 7266,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0164",
+      "commodity": "Steel",
+      "demand_tonnes": 189316,
+      "min_parcel_size": 13981,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0165",
+      "commodity": "Cement",
+      "demand_tonnes": 28896,
+      "min_parcel_size": 14944,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0166",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 199771,
+      "min_parcel_size": 10999,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0167",
+      "commodity": "Cement",
+      "demand_tonnes": 178416,
+      "min_parcel_size": 25409,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0168",
+      "commodity": "Bauxite",
+      "demand_tonnes": 94196,
+      "min_parcel_size": 17974,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0169",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 145180,
+      "min_parcel_size": 26645,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0170",
+      "commodity": "Steel",
+      "demand_tonnes": 82379,
+      "min_parcel_size": 8889,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0171",
+      "commodity": "Coal",
+      "demand_tonnes": 33400,
+      "min_parcel_size": 14941,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0172",
+      "commodity": "Steel",
+      "demand_tonnes": 103002,
+      "min_parcel_size": 11261,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0173",
+      "commodity": "Cement",
+      "demand_tonnes": 54408,
+      "min_parcel_size": 12510,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0174",
+      "commodity": "Grain",
+      "demand_tonnes": 156060,
+      "min_parcel_size": 26943,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0175",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 29069,
+      "min_parcel_size": 18631,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0176",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 149852,
+      "min_parcel_size": 9761,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0177",
+      "commodity": "Bauxite",
+      "demand_tonnes": 95830,
+      "min_parcel_size": 13708,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0178",
+      "commodity": "Bauxite",
+      "demand_tonnes": 100417,
+      "min_parcel_size": 6850,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0179",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 41364,
+      "min_parcel_size": 5848,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0180",
+      "commodity": "Limestone",
+      "demand_tonnes": 166284,
+      "min_parcel_size": 27575,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0181",
+      "commodity": "Coal",
+      "demand_tonnes": 93797,
+      "min_parcel_size": 29915,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0182",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 92329,
+      "min_parcel_size": 6717,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0183",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 158186,
+      "min_parcel_size": 11271,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0184",
+      "commodity": "Grain",
+      "demand_tonnes": 75989,
+      "min_parcel_size": 15797,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0185",
+      "commodity": "Cement",
+      "demand_tonnes": 103282,
+      "min_parcel_size": 18968,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0186",
+      "commodity": "Cement",
+      "demand_tonnes": 84443,
+      "min_parcel_size": 25959,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0187",
+      "commodity": "Coal",
+      "demand_tonnes": 20220,
+      "min_parcel_size": 29754,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0188",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 72892,
+      "min_parcel_size": 11428,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0189",
+      "commodity": "Cement",
+      "demand_tonnes": 171060,
+      "min_parcel_size": 21408,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0190",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 106577,
+      "min_parcel_size": 11386,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0191",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 21119,
+      "min_parcel_size": 26286,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0192",
+      "commodity": "Cement",
+      "demand_tonnes": 153069,
+      "min_parcel_size": 11541,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0193",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 166507,
+      "min_parcel_size": 19172,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0194",
+      "commodity": "Coal",
+      "demand_tonnes": 103942,
+      "min_parcel_size": 13873,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0195",
+      "commodity": "Cement",
+      "demand_tonnes": 49647,
+      "min_parcel_size": 20346,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0196",
+      "commodity": "Coal",
+      "demand_tonnes": 132982,
+      "min_parcel_size": 11369,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0197",
+      "commodity": "Grain",
+      "demand_tonnes": 85736,
+      "min_parcel_size": 8838,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0198",
+      "commodity": "Steel",
+      "demand_tonnes": 199695,
+      "min_parcel_size": 16768,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0199",
+      "commodity": "Grain",
+      "demand_tonnes": 30327,
+      "min_parcel_size": 5483,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0200",
+      "commodity": "Steel",
+      "demand_tonnes": 129458,
+      "min_parcel_size": 10007,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0201",
+      "commodity": "Limestone",
+      "demand_tonnes": 122212,
+      "min_parcel_size": 25277,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0202",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 187469,
+      "min_parcel_size": 7809,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0203",
+      "commodity": "Steel",
+      "demand_tonnes": 178962,
+      "min_parcel_size": 27688,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0204",
+      "commodity": "Limestone",
+      "demand_tonnes": 153000,
+      "min_parcel_size": 16688,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0205",
+      "commodity": "Coal",
+      "demand_tonnes": 128486,
+      "min_parcel_size": 5092,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0206",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 191759,
+      "min_parcel_size": 21121,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0207",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 65365,
+      "min_parcel_size": 25969,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0208",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 132414,
+      "min_parcel_size": 22435,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0209",
+      "commodity": "Steel",
+      "demand_tonnes": 148523,
+      "min_parcel_size": 22415,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0210",
+      "commodity": "Bauxite",
+      "demand_tonnes": 172258,
+      "min_parcel_size": 24140,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0211",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 180538,
+      "min_parcel_size": 13437,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0212",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 135116,
+      "min_parcel_size": 7205,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0213",
+      "commodity": "Grain",
+      "demand_tonnes": 152010,
+      "min_parcel_size": 23684,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0214",
+      "commodity": "Coal",
+      "demand_tonnes": 155775,
+      "min_parcel_size": 10541,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0215",
+      "commodity": "Limestone",
+      "demand_tonnes": 53542,
+      "min_parcel_size": 20575,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0216",
+      "commodity": "Grain",
+      "demand_tonnes": 188151,
+      "min_parcel_size": 26280,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0217",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 35744,
+      "min_parcel_size": 21738,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0218",
+      "commodity": "Steel",
+      "demand_tonnes": 39438,
+      "min_parcel_size": 13562,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0219",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 172901,
+      "min_parcel_size": 12664,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0220",
+      "commodity": "Coal",
+      "demand_tonnes": 154027,
+      "min_parcel_size": 29402,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0221",
+      "commodity": "Bauxite",
+      "demand_tonnes": 153694,
+      "min_parcel_size": 8260,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0222",
+      "commodity": "Limestone",
+      "demand_tonnes": 23500,
+      "min_parcel_size": 28725,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0223",
+      "commodity": "Steel",
+      "demand_tonnes": 98503,
+      "min_parcel_size": 23742,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0224",
+      "commodity": "Cement",
+      "demand_tonnes": 51276,
+      "min_parcel_size": 17829,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0225",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 194678,
+      "min_parcel_size": 14348,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0226",
+      "commodity": "Steel",
+      "demand_tonnes": 161193,
+      "min_parcel_size": 28992,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0227",
+      "commodity": "Grain",
+      "demand_tonnes": 147281,
+      "min_parcel_size": 17100,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0228",
+      "commodity": "Coal",
+      "demand_tonnes": 141046,
+      "min_parcel_size": 29819,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0229",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 196648,
+      "min_parcel_size": 9443,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0230",
+      "commodity": "Cement",
+      "demand_tonnes": 83245,
+      "min_parcel_size": 14226,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0231",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 186533,
+      "min_parcel_size": 7581,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0232",
+      "commodity": "Grain",
+      "demand_tonnes": 67665,
+      "min_parcel_size": 20467,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0233",
+      "commodity": "Grain",
+      "demand_tonnes": 61514,
+      "min_parcel_size": 25354,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0234",
+      "commodity": "Grain",
+      "demand_tonnes": 140225,
+      "min_parcel_size": 25832,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0235",
+      "commodity": "Grain",
+      "demand_tonnes": 105692,
+      "min_parcel_size": 10921,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0236",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 84365,
+      "min_parcel_size": 22225,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0237",
+      "commodity": "Steel",
+      "demand_tonnes": 88801,
+      "min_parcel_size": 26784,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0238",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 150136,
+      "min_parcel_size": 10192,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0239",
+      "commodity": "Grain",
+      "demand_tonnes": 153408,
+      "min_parcel_size": 27688,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0240",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 40567,
+      "min_parcel_size": 9494,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0241",
+      "commodity": "Cement",
+      "demand_tonnes": 48679,
+      "min_parcel_size": 16570,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0242",
+      "commodity": "Limestone",
+      "demand_tonnes": 139383,
+      "min_parcel_size": 17108,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0243",
+      "commodity": "Coal",
+      "demand_tonnes": 145490,
+      "min_parcel_size": 12294,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0244",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 73772,
+      "min_parcel_size": 15181,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0245",
+      "commodity": "Coal",
+      "demand_tonnes": 160790,
+      "min_parcel_size": 22657,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0246",
+      "commodity": "Coal",
+      "demand_tonnes": 84549,
+      "min_parcel_size": 24713,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0247",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 56580,
+      "min_parcel_size": 12478,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0248",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 98093,
+      "min_parcel_size": 7983,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0249",
+      "commodity": "Steel",
+      "demand_tonnes": 179141,
+      "min_parcel_size": 5800,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0250",
+      "commodity": "Bauxite",
+      "demand_tonnes": 20996,
+      "min_parcel_size": 17959,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0251",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 51689,
+      "min_parcel_size": 24102,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0252",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 55513,
+      "min_parcel_size": 26260,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0253",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 118649,
+      "min_parcel_size": 21833,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0254",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 98798,
+      "min_parcel_size": 20549,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0255",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 94625,
+      "min_parcel_size": 16849,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0256",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 75649,
+      "min_parcel_size": 13720,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0257",
+      "commodity": "Limestone",
+      "demand_tonnes": 193124,
+      "min_parcel_size": 16346,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0258",
+      "commodity": "Bauxite",
+      "demand_tonnes": 169111,
+      "min_parcel_size": 25436,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0259",
+      "commodity": "Cement",
+      "demand_tonnes": 161737,
+      "min_parcel_size": 7091,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0260",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 73575,
+      "min_parcel_size": 17306,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0261",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 120114,
+      "min_parcel_size": 26476,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0262",
+      "commodity": "Cement",
+      "demand_tonnes": 189352,
+      "min_parcel_size": 25449,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0263",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 160807,
+      "min_parcel_size": 15104,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0264",
+      "commodity": "Grain",
+      "demand_tonnes": 55493,
+      "min_parcel_size": 24785,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0265",
+      "commodity": "Steel",
+      "demand_tonnes": 159549,
+      "min_parcel_size": 9344,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0266",
+      "commodity": "Grain",
+      "demand_tonnes": 41581,
+      "min_parcel_size": 12696,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0267",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 82593,
+      "min_parcel_size": 9929,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0268",
+      "commodity": "Cement",
+      "demand_tonnes": 43527,
+      "min_parcel_size": 27800,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0269",
+      "commodity": "Coal",
+      "demand_tonnes": 174643,
+      "min_parcel_size": 19196,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0270",
+      "commodity": "Steel",
+      "demand_tonnes": 171976,
+      "min_parcel_size": 25305,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0271",
+      "commodity": "Grain",
+      "demand_tonnes": 108988,
+      "min_parcel_size": 22656,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0272",
+      "commodity": "Limestone",
+      "demand_tonnes": 100253,
+      "min_parcel_size": 26317,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0273",
+      "commodity": "Grain",
+      "demand_tonnes": 64262,
+      "min_parcel_size": 10748,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0274",
+      "commodity": "Bauxite",
+      "demand_tonnes": 57905,
+      "min_parcel_size": 18679,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0275",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 171400,
+      "min_parcel_size": 14940,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0276",
+      "commodity": "Steel",
+      "demand_tonnes": 158924,
+      "min_parcel_size": 6937,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0277",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 64007,
+      "min_parcel_size": 11852,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0278",
+      "commodity": "Coal",
+      "demand_tonnes": 121208,
+      "min_parcel_size": 28522,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0279",
+      "commodity": "Limestone",
+      "demand_tonnes": 148406,
+      "min_parcel_size": 26904,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0280",
+      "commodity": "Bauxite",
+      "demand_tonnes": 176097,
+      "min_parcel_size": 7071,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0281",
+      "commodity": "Coal",
+      "demand_tonnes": 71903,
+      "min_parcel_size": 7445,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0282",
+      "commodity": "Bauxite",
+      "demand_tonnes": 191069,
+      "min_parcel_size": 23894,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0283",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 198323,
+      "min_parcel_size": 28644,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0284",
+      "commodity": "Bauxite",
+      "demand_tonnes": 156644,
+      "min_parcel_size": 7408,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0285",
+      "commodity": "Cement",
+      "demand_tonnes": 93046,
+      "min_parcel_size": 24757,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0286",
+      "commodity": "Coal",
+      "demand_tonnes": 157681,
+      "min_parcel_size": 25222,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0287",
+      "commodity": "Coal",
+      "demand_tonnes": 129444,
+      "min_parcel_size": 11418,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0288",
+      "commodity": "Cement",
+      "demand_tonnes": 191201,
+      "min_parcel_size": 22268,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0289",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 190393,
+      "min_parcel_size": 12839,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0290",
+      "commodity": "Bauxite",
+      "demand_tonnes": 31685,
+      "min_parcel_size": 14718,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0291",
+      "commodity": "Steel",
+      "demand_tonnes": 108888,
+      "min_parcel_size": 22777,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0292",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 66175,
+      "min_parcel_size": 18145,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0293",
+      "commodity": "Coal",
+      "demand_tonnes": 122227,
+      "min_parcel_size": 26693,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0294",
+      "commodity": "Grain",
+      "demand_tonnes": 162355,
+      "min_parcel_size": 5601,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0295",
+      "commodity": "Cement",
+      "demand_tonnes": 61412,
+      "min_parcel_size": 18433,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0296",
+      "commodity": "Coal",
+      "demand_tonnes": 30690,
+      "min_parcel_size": 26067,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0297",
+      "commodity": "Cement",
+      "demand_tonnes": 163927,
+      "min_parcel_size": 27854,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0298",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 98713,
+      "min_parcel_size": 15877,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0299",
+      "commodity": "Bauxite",
+      "demand_tonnes": 195097,
+      "min_parcel_size": 12849,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0300",
+      "commodity": "Coal",
+      "demand_tonnes": 54949,
+      "min_parcel_size": 24776,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0301",
+      "commodity": "Limestone",
+      "demand_tonnes": 99531,
+      "min_parcel_size": 22155,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0302",
+      "commodity": "Bauxite",
+      "demand_tonnes": 162915,
+      "min_parcel_size": 28591,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0303",
+      "commodity": "Limestone",
+      "demand_tonnes": 151277,
+      "min_parcel_size": 27796,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0304",
+      "commodity": "Grain",
+      "demand_tonnes": 189699,
+      "min_parcel_size": 10972,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0305",
+      "commodity": "Limestone",
+      "demand_tonnes": 75056,
+      "min_parcel_size": 12593,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0306",
+      "commodity": "Limestone",
+      "demand_tonnes": 142892,
+      "min_parcel_size": 12335,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0307",
+      "commodity": "Bauxite",
+      "demand_tonnes": 180546,
+      "min_parcel_size": 25089,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0308",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 46928,
+      "min_parcel_size": 12871,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0309",
+      "commodity": "Limestone",
+      "demand_tonnes": 67026,
+      "min_parcel_size": 16438,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0310",
+      "commodity": "Bauxite",
+      "demand_tonnes": 55371,
+      "min_parcel_size": 25413,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0311",
+      "commodity": "Steel",
+      "demand_tonnes": 184040,
+      "min_parcel_size": 28208,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0312",
+      "commodity": "Bauxite",
+      "demand_tonnes": 47154,
+      "min_parcel_size": 8914,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0313",
+      "commodity": "Cement",
+      "demand_tonnes": 168400,
+      "min_parcel_size": 27041,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0314",
+      "commodity": "Steel",
+      "demand_tonnes": 193885,
+      "min_parcel_size": 18962,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0315",
+      "commodity": "Bauxite",
+      "demand_tonnes": 161714,
+      "min_parcel_size": 20267,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0316",
+      "commodity": "Steel",
+      "demand_tonnes": 192206,
+      "min_parcel_size": 22969,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0317",
+      "commodity": "Steel",
+      "demand_tonnes": 109606,
+      "min_parcel_size": 25794,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0318",
+      "commodity": "Bauxite",
+      "demand_tonnes": 91583,
+      "min_parcel_size": 20764,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0319",
+      "commodity": "Coal",
+      "demand_tonnes": 67844,
+      "min_parcel_size": 20781,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0320",
+      "commodity": "Bauxite",
+      "demand_tonnes": 21564,
+      "min_parcel_size": 16430,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0321",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 117807,
+      "min_parcel_size": 12839,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0322",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 65222,
+      "min_parcel_size": 21505,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0323",
+      "commodity": "Cement",
+      "demand_tonnes": 39002,
+      "min_parcel_size": 22853,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0324",
+      "commodity": "Steel",
+      "demand_tonnes": 129225,
+      "min_parcel_size": 23360,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0325",
+      "commodity": "Grain",
+      "demand_tonnes": 142695,
+      "min_parcel_size": 17150,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0326",
+      "commodity": "Steel",
+      "demand_tonnes": 46212,
+      "min_parcel_size": 12697,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0327",
+      "commodity": "Limestone",
+      "demand_tonnes": 22467,
+      "min_parcel_size": 9054,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0328",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 36465,
+      "min_parcel_size": 19051,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0329",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 60513,
+      "min_parcel_size": 16629,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0330",
+      "commodity": "Bauxite",
+      "demand_tonnes": 151155,
+      "min_parcel_size": 11978,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0331",
+      "commodity": "Cement",
+      "demand_tonnes": 174385,
+      "min_parcel_size": 11073,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0332",
+      "commodity": "Bauxite",
+      "demand_tonnes": 163942,
+      "min_parcel_size": 9706,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0333",
+      "commodity": "Cement",
+      "demand_tonnes": 127311,
+      "min_parcel_size": 27323,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0334",
+      "commodity": "Cement",
+      "demand_tonnes": 28083,
+      "min_parcel_size": 29615,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0335",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 70462,
+      "min_parcel_size": 19258,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0336",
+      "commodity": "Bauxite",
+      "demand_tonnes": 193019,
+      "min_parcel_size": 12420,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0337",
+      "commodity": "Limestone",
+      "demand_tonnes": 88489,
+      "min_parcel_size": 5267,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0338",
+      "commodity": "Bauxite",
+      "demand_tonnes": 79004,
+      "min_parcel_size": 24929,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0339",
+      "commodity": "Bauxite",
+      "demand_tonnes": 182640,
+      "min_parcel_size": 25408,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0340",
+      "commodity": "Steel",
+      "demand_tonnes": 93271,
+      "min_parcel_size": 20376,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0341",
+      "commodity": "Steel",
+      "demand_tonnes": 23980,
+      "min_parcel_size": 11876,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0342",
+      "commodity": "Coal",
+      "demand_tonnes": 192889,
+      "min_parcel_size": 22932,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0343",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 65721,
+      "min_parcel_size": 28872,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0344",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 97061,
+      "min_parcel_size": 27263,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0345",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 34934,
+      "min_parcel_size": 13499,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0346",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 199754,
+      "min_parcel_size": 12423,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0347",
+      "commodity": "Cement",
+      "demand_tonnes": 87757,
+      "min_parcel_size": 12978,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0348",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 75836,
+      "min_parcel_size": 18333,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0349",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 159778,
+      "min_parcel_size": 23919,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0350",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 70448,
+      "min_parcel_size": 18981,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0351",
+      "commodity": "Cement",
+      "demand_tonnes": 62916,
+      "min_parcel_size": 14755,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0352",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 178823,
+      "min_parcel_size": 14711,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0353",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 70421,
+      "min_parcel_size": 21551,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0354",
+      "commodity": "Bauxite",
+      "demand_tonnes": 127402,
+      "min_parcel_size": 20273,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0355",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 162188,
+      "min_parcel_size": 26801,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0356",
+      "commodity": "Coal",
+      "demand_tonnes": 59039,
+      "min_parcel_size": 8161,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0357",
+      "commodity": "Bauxite",
+      "demand_tonnes": 114554,
+      "min_parcel_size": 15430,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0358",
+      "commodity": "Grain",
+      "demand_tonnes": 198714,
+      "min_parcel_size": 24519,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0359",
+      "commodity": "Coal",
+      "demand_tonnes": 59607,
+      "min_parcel_size": 27856,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0360",
+      "commodity": "Limestone",
+      "demand_tonnes": 54819,
+      "min_parcel_size": 6339,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0361",
+      "commodity": "Cement",
+      "demand_tonnes": 107947,
+      "min_parcel_size": 29746,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0362",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 131598,
+      "min_parcel_size": 27017,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0363",
+      "commodity": "Cement",
+      "demand_tonnes": 26850,
+      "min_parcel_size": 18495,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0364",
+      "commodity": "Coal",
+      "demand_tonnes": 191392,
+      "min_parcel_size": 9728,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0365",
+      "commodity": "Limestone",
+      "demand_tonnes": 152564,
+      "min_parcel_size": 8085,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0366",
+      "commodity": "Coal",
+      "demand_tonnes": 52588,
+      "min_parcel_size": 6911,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0367",
+      "commodity": "Limestone",
+      "demand_tonnes": 183941,
+      "min_parcel_size": 18140,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0368",
+      "commodity": "Cement",
+      "demand_tonnes": 168285,
+      "min_parcel_size": 19652,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0369",
+      "commodity": "Limestone",
+      "demand_tonnes": 165938,
+      "min_parcel_size": 20606,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0370",
+      "commodity": "Coal",
+      "demand_tonnes": 108016,
+      "min_parcel_size": 29840,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0371",
+      "commodity": "Grain",
+      "demand_tonnes": 35158,
+      "min_parcel_size": 19223,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0372",
+      "commodity": "Coal",
+      "demand_tonnes": 181141,
+      "min_parcel_size": 20955,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0373",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 190743,
+      "min_parcel_size": 9237,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0374",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 62385,
+      "min_parcel_size": 8177,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0375",
+      "commodity": "Coal",
+      "demand_tonnes": 134764,
+      "min_parcel_size": 27225,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0376",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 79968,
+      "min_parcel_size": 15535,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0377",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 118578,
+      "min_parcel_size": 14104,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0378",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 139916,
+      "min_parcel_size": 15096,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0379",
+      "commodity": "Limestone",
+      "demand_tonnes": 197716,
+      "min_parcel_size": 17233,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0380",
+      "commodity": "Cement",
+      "demand_tonnes": 151181,
+      "min_parcel_size": 15320,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0381",
+      "commodity": "Grain",
+      "demand_tonnes": 91083,
+      "min_parcel_size": 27761,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0382",
+      "commodity": "Limestone",
+      "demand_tonnes": 122071,
+      "min_parcel_size": 25153,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0383",
+      "commodity": "Bauxite",
+      "demand_tonnes": 68559,
+      "min_parcel_size": 14632,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0384",
+      "commodity": "Steel",
+      "demand_tonnes": 147360,
+      "min_parcel_size": 28822,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0385",
+      "commodity": "Steel",
+      "demand_tonnes": 100297,
+      "min_parcel_size": 10145,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0386",
+      "commodity": "Grain",
+      "demand_tonnes": 121440,
+      "min_parcel_size": 15993,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0387",
+      "commodity": "Cement",
+      "demand_tonnes": 33195,
+      "min_parcel_size": 20028,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0388",
+      "commodity": "Cement",
+      "demand_tonnes": 168282,
+      "min_parcel_size": 29840,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0389",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 99122,
+      "min_parcel_size": 20019,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0390",
+      "commodity": "Grain",
+      "demand_tonnes": 91574,
+      "min_parcel_size": 20682,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0391",
+      "commodity": "Steel",
+      "demand_tonnes": 109466,
+      "min_parcel_size": 26573,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0392",
+      "commodity": "Coal",
+      "demand_tonnes": 196297,
+      "min_parcel_size": 19143,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0393",
+      "commodity": "Grain",
+      "demand_tonnes": 158055,
+      "min_parcel_size": 7080,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0394",
+      "commodity": "Cement",
+      "demand_tonnes": 170209,
+      "min_parcel_size": 17459,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0395",
+      "commodity": "Steel",
+      "demand_tonnes": 159765,
+      "min_parcel_size": 17004,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0396",
+      "commodity": "Steel",
+      "demand_tonnes": 56674,
+      "min_parcel_size": 29820,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0397",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 108140,
+      "min_parcel_size": 15365,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0398",
+      "commodity": "Limestone",
+      "demand_tonnes": 99809,
+      "min_parcel_size": 8832,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0399",
+      "commodity": "Cement",
+      "demand_tonnes": 56313,
+      "min_parcel_size": 19881,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0400",
+      "commodity": "Grain",
+      "demand_tonnes": 87381,
+      "min_parcel_size": 24705,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0401",
+      "commodity": "Cement",
+      "demand_tonnes": 79111,
+      "min_parcel_size": 16530,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0402",
+      "commodity": "Limestone",
+      "demand_tonnes": 196205,
+      "min_parcel_size": 24199,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0403",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 184371,
+      "min_parcel_size": 14925,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0404",
+      "commodity": "Bauxite",
+      "demand_tonnes": 116486,
+      "min_parcel_size": 22588,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0405",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 47901,
+      "min_parcel_size": 8598,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0406",
+      "commodity": "Coal",
+      "demand_tonnes": 134592,
+      "min_parcel_size": 6010,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0407",
+      "commodity": "Grain",
+      "demand_tonnes": 20882,
+      "min_parcel_size": 25571,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0408",
+      "commodity": "Steel",
+      "demand_tonnes": 157563,
+      "min_parcel_size": 27722,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0409",
+      "commodity": "Cement",
+      "demand_tonnes": 33141,
+      "min_parcel_size": 15736,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0410",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 120658,
+      "min_parcel_size": 21878,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0411",
+      "commodity": "Grain",
+      "demand_tonnes": 65418,
+      "min_parcel_size": 7812,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0412",
+      "commodity": "Coal",
+      "demand_tonnes": 139707,
+      "min_parcel_size": 5796,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0413",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 185441,
+      "min_parcel_size": 11375,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0414",
+      "commodity": "Limestone",
+      "demand_tonnes": 48894,
+      "min_parcel_size": 8520,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0415",
+      "commodity": "Coal",
+      "demand_tonnes": 81900,
+      "min_parcel_size": 14271,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0416",
+      "commodity": "Limestone",
+      "demand_tonnes": 196076,
+      "min_parcel_size": 8460,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0417",
+      "commodity": "Bauxite",
+      "demand_tonnes": 91940,
+      "min_parcel_size": 22452,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0418",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 98174,
+      "min_parcel_size": 21608,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0419",
+      "commodity": "Steel",
+      "demand_tonnes": 126729,
+      "min_parcel_size": 15906,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0420",
+      "commodity": "Grain",
+      "demand_tonnes": 38866,
+      "min_parcel_size": 5354,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0421",
+      "commodity": "Cement",
+      "demand_tonnes": 49304,
+      "min_parcel_size": 25411,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0422",
+      "commodity": "Grain",
+      "demand_tonnes": 107610,
+      "min_parcel_size": 20694,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0423",
+      "commodity": "Coal",
+      "demand_tonnes": 61669,
+      "min_parcel_size": 12966,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0424",
+      "commodity": "Bauxite",
+      "demand_tonnes": 155676,
+      "min_parcel_size": 20890,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0425",
+      "commodity": "Cement",
+      "demand_tonnes": 181869,
+      "min_parcel_size": 12506,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0426",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 140589,
+      "min_parcel_size": 24763,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0427",
+      "commodity": "Bauxite",
+      "demand_tonnes": 157749,
+      "min_parcel_size": 6900,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0428",
+      "commodity": "Steel",
+      "demand_tonnes": 185989,
+      "min_parcel_size": 10284,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0429",
+      "commodity": "Steel",
+      "demand_tonnes": 116931,
+      "min_parcel_size": 28155,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0430",
+      "commodity": "Bauxite",
+      "demand_tonnes": 134597,
+      "min_parcel_size": 8962,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0431",
+      "commodity": "Limestone",
+      "demand_tonnes": 177156,
+      "min_parcel_size": 17513,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0432",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 64780,
+      "min_parcel_size": 22323,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0433",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 86995,
+      "min_parcel_size": 10430,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0434",
+      "commodity": "Coal",
+      "demand_tonnes": 60816,
+      "min_parcel_size": 18568,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0435",
+      "commodity": "Bauxite",
+      "demand_tonnes": 115537,
+      "min_parcel_size": 6988,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0436",
+      "commodity": "Grain",
+      "demand_tonnes": 131262,
+      "min_parcel_size": 17337,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0437",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 152636,
+      "min_parcel_size": 11232,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0438",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 24960,
+      "min_parcel_size": 21979,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0439",
+      "commodity": "Steel",
+      "demand_tonnes": 188811,
+      "min_parcel_size": 19123,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0440",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 143846,
+      "min_parcel_size": 9270,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0441",
+      "commodity": "Grain",
+      "demand_tonnes": 123336,
+      "min_parcel_size": 22206,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0442",
+      "commodity": "Cement",
+      "demand_tonnes": 78710,
+      "min_parcel_size": 7718,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0443",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 39566,
+      "min_parcel_size": 6584,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0444",
+      "commodity": "Grain",
+      "demand_tonnes": 181682,
+      "min_parcel_size": 14828,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0445",
+      "commodity": "Cement",
+      "demand_tonnes": 89858,
+      "min_parcel_size": 26189,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0446",
+      "commodity": "Bauxite",
+      "demand_tonnes": 34798,
+      "min_parcel_size": 26116,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0447",
+      "commodity": "Cement",
+      "demand_tonnes": 48038,
+      "min_parcel_size": 17276,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0448",
+      "commodity": "Grain",
+      "demand_tonnes": 60071,
+      "min_parcel_size": 9628,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0449",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 145671,
+      "min_parcel_size": 17517,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0450",
+      "commodity": "Cement",
+      "demand_tonnes": 35880,
+      "min_parcel_size": 17261,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0451",
+      "commodity": "Limestone",
+      "demand_tonnes": 115189,
+      "min_parcel_size": 7362,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0452",
+      "commodity": "Bauxite",
+      "demand_tonnes": 121265,
+      "min_parcel_size": 26885,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0453",
+      "commodity": "Limestone",
+      "demand_tonnes": 110960,
+      "min_parcel_size": 8323,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0454",
+      "commodity": "Coal",
+      "demand_tonnes": 94742,
+      "min_parcel_size": 5334,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0455",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 113824,
+      "min_parcel_size": 10816,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0456",
+      "commodity": "Bauxite",
+      "demand_tonnes": 173760,
+      "min_parcel_size": 25558,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0457",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 153468,
+      "min_parcel_size": 7186,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0458",
+      "commodity": "Grain",
+      "demand_tonnes": 95797,
+      "min_parcel_size": 11697,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0459",
+      "commodity": "Cement",
+      "demand_tonnes": 55493,
+      "min_parcel_size": 12078,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0460",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 90439,
+      "min_parcel_size": 25420,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0461",
+      "commodity": "Coal",
+      "demand_tonnes": 30401,
+      "min_parcel_size": 23122,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0462",
+      "commodity": "Cement",
+      "demand_tonnes": 25980,
+      "min_parcel_size": 27855,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0463",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 33340,
+      "min_parcel_size": 29965,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0464",
+      "commodity": "Steel",
+      "demand_tonnes": 89106,
+      "min_parcel_size": 15193,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0465",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 141679,
+      "min_parcel_size": 26920,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0466",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 93741,
+      "min_parcel_size": 18010,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0467",
+      "commodity": "Coal",
+      "demand_tonnes": 110501,
+      "min_parcel_size": 18364,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0468",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 172078,
+      "min_parcel_size": 8119,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0469",
+      "commodity": "Limestone",
+      "demand_tonnes": 134257,
+      "min_parcel_size": 10870,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0470",
+      "commodity": "Limestone",
+      "demand_tonnes": 161810,
+      "min_parcel_size": 10387,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0471",
+      "commodity": "Steel",
+      "demand_tonnes": 94024,
+      "min_parcel_size": 29402,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0472",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 65536,
+      "min_parcel_size": 8308,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0473",
+      "commodity": "Coal",
+      "demand_tonnes": 71004,
+      "min_parcel_size": 10080,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0474",
+      "commodity": "Cement",
+      "demand_tonnes": 109565,
+      "min_parcel_size": 29494,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0475",
+      "commodity": "Steel",
+      "demand_tonnes": 22699,
+      "min_parcel_size": 8293,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0476",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 156370,
+      "min_parcel_size": 14164,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0477",
+      "commodity": "Bauxite",
+      "demand_tonnes": 97991,
+      "min_parcel_size": 6727,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0478",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 195922,
+      "min_parcel_size": 29519,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0479",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 133730,
+      "min_parcel_size": 5105,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0480",
+      "commodity": "Cement",
+      "demand_tonnes": 127258,
+      "min_parcel_size": 22547,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0481",
+      "commodity": "Cement",
+      "demand_tonnes": 40688,
+      "min_parcel_size": 23951,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0482",
+      "commodity": "Steel",
+      "demand_tonnes": 115068,
+      "min_parcel_size": 8211,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0483",
+      "commodity": "Grain",
+      "demand_tonnes": 163988,
+      "min_parcel_size": 9043,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0484",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 135636,
+      "min_parcel_size": 8743,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0485",
+      "commodity": "Grain",
+      "demand_tonnes": 188188,
+      "min_parcel_size": 15587,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0486",
+      "commodity": "Cement",
+      "demand_tonnes": 195710,
+      "min_parcel_size": 23650,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0487",
+      "commodity": "Bauxite",
+      "demand_tonnes": 71957,
+      "min_parcel_size": 17325,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0488",
+      "commodity": "Steel",
+      "demand_tonnes": 20564,
+      "min_parcel_size": 8371,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0489",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 195713,
+      "min_parcel_size": 29410,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0490",
+      "commodity": "Coal",
+      "demand_tonnes": 47993,
+      "min_parcel_size": 25110,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0491",
+      "commodity": "Cement",
+      "demand_tonnes": 66247,
+      "min_parcel_size": 12906,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0492",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 198859,
+      "min_parcel_size": 22361,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0493",
+      "commodity": "Coal",
+      "demand_tonnes": 194690,
+      "min_parcel_size": 7456,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0494",
+      "commodity": "Steel",
+      "demand_tonnes": 112223,
+      "min_parcel_size": 11470,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0495",
+      "commodity": "Grain",
+      "demand_tonnes": 181972,
+      "min_parcel_size": 13827,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0496",
+      "commodity": "Coal",
+      "demand_tonnes": 36246,
+      "min_parcel_size": 9190,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0497",
+      "commodity": "Grain",
+      "demand_tonnes": 26456,
+      "min_parcel_size": 16752,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0498",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 153884,
+      "min_parcel_size": 18983,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0499",
+      "commodity": "Cement",
+      "demand_tonnes": 150150,
+      "min_parcel_size": 28427,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0500",
+      "commodity": "Bauxite",
+      "demand_tonnes": 164341,
+      "min_parcel_size": 10225,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0501",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 39305,
+      "min_parcel_size": 19188,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0502",
+      "commodity": "Grain",
+      "demand_tonnes": 35569,
+      "min_parcel_size": 13615,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0503",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 196891,
+      "min_parcel_size": 5246,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0504",
+      "commodity": "Coal",
+      "demand_tonnes": 156559,
+      "min_parcel_size": 10495,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0505",
+      "commodity": "Steel",
+      "demand_tonnes": 27693,
+      "min_parcel_size": 26600,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0506",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 107499,
+      "min_parcel_size": 18896,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0507",
+      "commodity": "Cement",
+      "demand_tonnes": 93756,
+      "min_parcel_size": 27142,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0508",
+      "commodity": "Grain",
+      "demand_tonnes": 193872,
+      "min_parcel_size": 11461,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0509",
+      "commodity": "Bauxite",
+      "demand_tonnes": 101689,
+      "min_parcel_size": 12042,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0510",
+      "commodity": "Cement",
+      "demand_tonnes": 95955,
+      "min_parcel_size": 18914,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0511",
+      "commodity": "Grain",
+      "demand_tonnes": 136200,
+      "min_parcel_size": 23437,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0512",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 183086,
+      "min_parcel_size": 18810,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0513",
+      "commodity": "Coal",
+      "demand_tonnes": 127497,
+      "min_parcel_size": 8984,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0514",
+      "commodity": "Coal",
+      "demand_tonnes": 186365,
+      "min_parcel_size": 9227,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0515",
+      "commodity": "Coal",
+      "demand_tonnes": 133713,
+      "min_parcel_size": 15995,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0516",
+      "commodity": "Coal",
+      "demand_tonnes": 53892,
+      "min_parcel_size": 27264,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0517",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 68205,
+      "min_parcel_size": 9860,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0518",
+      "commodity": "Limestone",
+      "demand_tonnes": 49660,
+      "min_parcel_size": 28970,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0519",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 121656,
+      "min_parcel_size": 26197,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0520",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 157231,
+      "min_parcel_size": 6493,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0521",
+      "commodity": "Cement",
+      "demand_tonnes": 87661,
+      "min_parcel_size": 21725,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0522",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 111800,
+      "min_parcel_size": 14394,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0523",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 90087,
+      "min_parcel_size": 5787,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0524",
+      "commodity": "Steel",
+      "demand_tonnes": 90840,
+      "min_parcel_size": 11832,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0525",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 37109,
+      "min_parcel_size": 25120,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0526",
+      "commodity": "Bauxite",
+      "demand_tonnes": 176385,
+      "min_parcel_size": 6383,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0527",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 116508,
+      "min_parcel_size": 26427,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0528",
+      "commodity": "Grain",
+      "demand_tonnes": 162117,
+      "min_parcel_size": 22716,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0529",
+      "commodity": "Bauxite",
+      "demand_tonnes": 114378,
+      "min_parcel_size": 28971,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0530",
+      "commodity": "Cement",
+      "demand_tonnes": 149500,
+      "min_parcel_size": 13250,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0531",
+      "commodity": "Limestone",
+      "demand_tonnes": 193373,
+      "min_parcel_size": 17258,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0532",
+      "commodity": "Steel",
+      "demand_tonnes": 159149,
+      "min_parcel_size": 9498,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0533",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 109740,
+      "min_parcel_size": 22354,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0534",
+      "commodity": "Bauxite",
+      "demand_tonnes": 83898,
+      "min_parcel_size": 6713,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0535",
+      "commodity": "Coal",
+      "demand_tonnes": 71895,
+      "min_parcel_size": 18352,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0536",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 150736,
+      "min_parcel_size": 7718,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0537",
+      "commodity": "Cement",
+      "demand_tonnes": 132032,
+      "min_parcel_size": 16927,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0538",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 149324,
+      "min_parcel_size": 13827,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0539",
+      "commodity": "Limestone",
+      "demand_tonnes": 138109,
+      "min_parcel_size": 24265,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0540",
+      "commodity": "Cement",
+      "demand_tonnes": 34978,
+      "min_parcel_size": 24628,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0541",
+      "commodity": "Limestone",
+      "demand_tonnes": 197955,
+      "min_parcel_size": 6159,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0542",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 42550,
+      "min_parcel_size": 28654,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0543",
+      "commodity": "Cement",
+      "demand_tonnes": 55709,
+      "min_parcel_size": 11531,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0544",
+      "commodity": "Grain",
+      "demand_tonnes": 86903,
+      "min_parcel_size": 15028,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0545",
+      "commodity": "Grain",
+      "demand_tonnes": 156868,
+      "min_parcel_size": 10535,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0546",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 107986,
+      "min_parcel_size": 22081,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0547",
+      "commodity": "Steel",
+      "demand_tonnes": 144062,
+      "min_parcel_size": 17305,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0548",
+      "commodity": "Grain",
+      "demand_tonnes": 22040,
+      "min_parcel_size": 27576,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0549",
+      "commodity": "Cement",
+      "demand_tonnes": 81011,
+      "min_parcel_size": 28944,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0550",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 160461,
+      "min_parcel_size": 13184,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0551",
+      "commodity": "Cement",
+      "demand_tonnes": 107511,
+      "min_parcel_size": 6474,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0552",
+      "commodity": "Limestone",
+      "demand_tonnes": 179457,
+      "min_parcel_size": 29897,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0553",
+      "commodity": "Cement",
+      "demand_tonnes": 93929,
+      "min_parcel_size": 20430,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0554",
+      "commodity": "Limestone",
+      "demand_tonnes": 37999,
+      "min_parcel_size": 14544,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0555",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 149549,
+      "min_parcel_size": 15367,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0556",
+      "commodity": "Steel",
+      "demand_tonnes": 164260,
+      "min_parcel_size": 12956,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0557",
+      "commodity": "Steel",
+      "demand_tonnes": 153571,
+      "min_parcel_size": 5196,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0558",
+      "commodity": "Bauxite",
+      "demand_tonnes": 86104,
+      "min_parcel_size": 14930,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0559",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 36012,
+      "min_parcel_size": 10218,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0560",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 69498,
+      "min_parcel_size": 8197,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0561",
+      "commodity": "Limestone",
+      "demand_tonnes": 156311,
+      "min_parcel_size": 6831,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0562",
+      "commodity": "Bauxite",
+      "demand_tonnes": 160320,
+      "min_parcel_size": 13049,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0563",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 28314,
+      "min_parcel_size": 23183,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0564",
+      "commodity": "Limestone",
+      "demand_tonnes": 47136,
+      "min_parcel_size": 9644,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0565",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 181871,
+      "min_parcel_size": 20707,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0566",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 190450,
+      "min_parcel_size": 6089,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0567",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 76311,
+      "min_parcel_size": 28172,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0568",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 77282,
+      "min_parcel_size": 26252,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0569",
+      "commodity": "Limestone",
+      "demand_tonnes": 47921,
+      "min_parcel_size": 29938,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0570",
+      "commodity": "Grain",
+      "demand_tonnes": 190112,
+      "min_parcel_size": 6710,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0571",
+      "commodity": "Coal",
+      "demand_tonnes": 189279,
+      "min_parcel_size": 11527,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0572",
+      "commodity": "Coal",
+      "demand_tonnes": 199571,
+      "min_parcel_size": 5841,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0573",
+      "commodity": "Grain",
+      "demand_tonnes": 41280,
+      "min_parcel_size": 23886,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0574",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 188243,
+      "min_parcel_size": 20892,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0575",
+      "commodity": "Steel",
+      "demand_tonnes": 193825,
+      "min_parcel_size": 27511,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0576",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 185311,
+      "min_parcel_size": 14963,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0577",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 180782,
+      "min_parcel_size": 13868,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0578",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 143089,
+      "min_parcel_size": 9761,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0579",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 66642,
+      "min_parcel_size": 19645,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0580",
+      "commodity": "Coal",
+      "demand_tonnes": 95942,
+      "min_parcel_size": 12331,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0581",
+      "commodity": "Steel",
+      "demand_tonnes": 190757,
+      "min_parcel_size": 17760,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0582",
+      "commodity": "Bauxite",
+      "demand_tonnes": 60177,
+      "min_parcel_size": 6426,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0583",
+      "commodity": "Coal",
+      "demand_tonnes": 44031,
+      "min_parcel_size": 13414,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0584",
+      "commodity": "Coal",
+      "demand_tonnes": 109452,
+      "min_parcel_size": 14355,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0585",
+      "commodity": "Grain",
+      "demand_tonnes": 36238,
+      "min_parcel_size": 26684,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0586",
+      "commodity": "Steel",
+      "demand_tonnes": 154655,
+      "min_parcel_size": 7034,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0587",
+      "commodity": "Limestone",
+      "demand_tonnes": 177360,
+      "min_parcel_size": 14108,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0588",
+      "commodity": "Grain",
+      "demand_tonnes": 146845,
+      "min_parcel_size": 5255,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0589",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 87806,
+      "min_parcel_size": 8435,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0590",
+      "commodity": "Bauxite",
+      "demand_tonnes": 199657,
+      "min_parcel_size": 11358,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0591",
+      "commodity": "Coal",
+      "demand_tonnes": 104528,
+      "min_parcel_size": 20218,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0592",
+      "commodity": "Grain",
+      "demand_tonnes": 51205,
+      "min_parcel_size": 18091,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0593",
+      "commodity": "Cement",
+      "demand_tonnes": 70404,
+      "min_parcel_size": 8981,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0594",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 190446,
+      "min_parcel_size": 25225,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0595",
+      "commodity": "Steel",
+      "demand_tonnes": 94066,
+      "min_parcel_size": 23477,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0596",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 101835,
+      "min_parcel_size": 6946,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0597",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 140414,
+      "min_parcel_size": 10862,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0598",
+      "commodity": "Coal",
+      "demand_tonnes": 110116,
+      "min_parcel_size": 9505,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0599",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 142071,
+      "min_parcel_size": 7194,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0600",
+      "commodity": "Grain",
+      "demand_tonnes": 83002,
+      "min_parcel_size": 15496,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0601",
+      "commodity": "Coal",
+      "demand_tonnes": 179651,
+      "min_parcel_size": 14213,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0602",
+      "commodity": "Grain",
+      "demand_tonnes": 127804,
+      "min_parcel_size": 24240,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0603",
+      "commodity": "Cement",
+      "demand_tonnes": 197907,
+      "min_parcel_size": 18378,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0604",
+      "commodity": "Steel",
+      "demand_tonnes": 91082,
+      "min_parcel_size": 18528,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0605",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 198798,
+      "min_parcel_size": 6419,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0606",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 170962,
+      "min_parcel_size": 18298,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0607",
+      "commodity": "Coal",
+      "demand_tonnes": 48103,
+      "min_parcel_size": 11687,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0608",
+      "commodity": "Cement",
+      "demand_tonnes": 65280,
+      "min_parcel_size": 7901,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0609",
+      "commodity": "Steel",
+      "demand_tonnes": 118192,
+      "min_parcel_size": 7387,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0610",
+      "commodity": "Bauxite",
+      "demand_tonnes": 173006,
+      "min_parcel_size": 16251,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0611",
+      "commodity": "Grain",
+      "demand_tonnes": 173917,
+      "min_parcel_size": 24974,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0612",
+      "commodity": "Bauxite",
+      "demand_tonnes": 74713,
+      "min_parcel_size": 26710,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0613",
+      "commodity": "Limestone",
+      "demand_tonnes": 116795,
+      "min_parcel_size": 28676,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0614",
+      "commodity": "Bauxite",
+      "demand_tonnes": 26021,
+      "min_parcel_size": 6574,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0615",
+      "commodity": "Cement",
+      "demand_tonnes": 52926,
+      "min_parcel_size": 23809,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0616",
+      "commodity": "Bauxite",
+      "demand_tonnes": 127499,
+      "min_parcel_size": 24338,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0617",
+      "commodity": "Coal",
+      "demand_tonnes": 165234,
+      "min_parcel_size": 25529,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0618",
+      "commodity": "Steel",
+      "demand_tonnes": 111638,
+      "min_parcel_size": 18466,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0619",
+      "commodity": "Grain",
+      "demand_tonnes": 131376,
+      "min_parcel_size": 7345,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0620",
+      "commodity": "Coal",
+      "demand_tonnes": 191583,
+      "min_parcel_size": 15767,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0621",
+      "commodity": "Cement",
+      "demand_tonnes": 96548,
+      "min_parcel_size": 17628,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0622",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 30955,
+      "min_parcel_size": 13041,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0623",
+      "commodity": "Steel",
+      "demand_tonnes": 196007,
+      "min_parcel_size": 15816,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0624",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 62946,
+      "min_parcel_size": 18292,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0625",
+      "commodity": "Bauxite",
+      "demand_tonnes": 132274,
+      "min_parcel_size": 5363,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0626",
+      "commodity": "Cement",
+      "demand_tonnes": 73289,
+      "min_parcel_size": 11367,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0627",
+      "commodity": "Cement",
+      "demand_tonnes": 64268,
+      "min_parcel_size": 26854,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0628",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 155565,
+      "min_parcel_size": 18241,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0629",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 162954,
+      "min_parcel_size": 7999,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0630",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 148793,
+      "min_parcel_size": 16909,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0631",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 110708,
+      "min_parcel_size": 28637,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0632",
+      "commodity": "Limestone",
+      "demand_tonnes": 88702,
+      "min_parcel_size": 5911,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0633",
+      "commodity": "Coal",
+      "demand_tonnes": 149353,
+      "min_parcel_size": 17829,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0634",
+      "commodity": "Cement",
+      "demand_tonnes": 35688,
+      "min_parcel_size": 6848,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0635",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 41622,
+      "min_parcel_size": 25737,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0636",
+      "commodity": "Cement",
+      "demand_tonnes": 106079,
+      "min_parcel_size": 7843,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0637",
+      "commodity": "Bauxite",
+      "demand_tonnes": 66309,
+      "min_parcel_size": 22733,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0638",
+      "commodity": "Bauxite",
+      "demand_tonnes": 190742,
+      "min_parcel_size": 14533,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0639",
+      "commodity": "Cement",
+      "demand_tonnes": 98715,
+      "min_parcel_size": 7519,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0640",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 161634,
+      "min_parcel_size": 24529,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0641",
+      "commodity": "Bauxite",
+      "demand_tonnes": 112435,
+      "min_parcel_size": 12892,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0642",
+      "commodity": "Cement",
+      "demand_tonnes": 56009,
+      "min_parcel_size": 23990,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0643",
+      "commodity": "Bauxite",
+      "demand_tonnes": 149324,
+      "min_parcel_size": 7202,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0644",
+      "commodity": "Cement",
+      "demand_tonnes": 115713,
+      "min_parcel_size": 18508,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0645",
+      "commodity": "Coal",
+      "demand_tonnes": 93736,
+      "min_parcel_size": 21234,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0646",
+      "commodity": "Bauxite",
+      "demand_tonnes": 165796,
+      "min_parcel_size": 27439,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0647",
+      "commodity": "Coal",
+      "demand_tonnes": 89052,
+      "min_parcel_size": 7419,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0648",
+      "commodity": "Limestone",
+      "demand_tonnes": 70321,
+      "min_parcel_size": 6451,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0649",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 188665,
+      "min_parcel_size": 7033,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0650",
+      "commodity": "Coal",
+      "demand_tonnes": 155759,
+      "min_parcel_size": 11314,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0651",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 46427,
+      "min_parcel_size": 28524,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0652",
+      "commodity": "Grain",
+      "demand_tonnes": 30176,
+      "min_parcel_size": 29111,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0653",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 182028,
+      "min_parcel_size": 15498,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0654",
+      "commodity": "Limestone",
+      "demand_tonnes": 105040,
+      "min_parcel_size": 19862,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0655",
+      "commodity": "Limestone",
+      "demand_tonnes": 186262,
+      "min_parcel_size": 8070,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0656",
+      "commodity": "Limestone",
+      "demand_tonnes": 123262,
+      "min_parcel_size": 16286,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0657",
+      "commodity": "Limestone",
+      "demand_tonnes": 62656,
+      "min_parcel_size": 12186,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0658",
+      "commodity": "Grain",
+      "demand_tonnes": 138150,
+      "min_parcel_size": 19679,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0659",
+      "commodity": "Limestone",
+      "demand_tonnes": 183647,
+      "min_parcel_size": 6125,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0660",
+      "commodity": "Bauxite",
+      "demand_tonnes": 139855,
+      "min_parcel_size": 15037,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0661",
+      "commodity": "Coal",
+      "demand_tonnes": 191203,
+      "min_parcel_size": 23433,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0662",
+      "commodity": "Cement",
+      "demand_tonnes": 51463,
+      "min_parcel_size": 12864,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0663",
+      "commodity": "Limestone",
+      "demand_tonnes": 140133,
+      "min_parcel_size": 17682,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0664",
+      "commodity": "Steel",
+      "demand_tonnes": 90316,
+      "min_parcel_size": 6631,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0665",
+      "commodity": "Grain",
+      "demand_tonnes": 85964,
+      "min_parcel_size": 24138,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0666",
+      "commodity": "Cement",
+      "demand_tonnes": 112635,
+      "min_parcel_size": 27250,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0667",
+      "commodity": "Grain",
+      "demand_tonnes": 24630,
+      "min_parcel_size": 28980,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0668",
+      "commodity": "Steel",
+      "demand_tonnes": 84046,
+      "min_parcel_size": 27322,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0669",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 38402,
+      "min_parcel_size": 23690,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0670",
+      "commodity": "Limestone",
+      "demand_tonnes": 72775,
+      "min_parcel_size": 27046,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0671",
+      "commodity": "Grain",
+      "demand_tonnes": 174928,
+      "min_parcel_size": 6559,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0672",
+      "commodity": "Grain",
+      "demand_tonnes": 24431,
+      "min_parcel_size": 7267,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0673",
+      "commodity": "Grain",
+      "demand_tonnes": 20285,
+      "min_parcel_size": 22072,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0674",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 177920,
+      "min_parcel_size": 22128,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0675",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 162804,
+      "min_parcel_size": 21398,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0676",
+      "commodity": "Steel",
+      "demand_tonnes": 22616,
+      "min_parcel_size": 16124,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0677",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 76908,
+      "min_parcel_size": 12523,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0678",
+      "commodity": "Coal",
+      "demand_tonnes": 148078,
+      "min_parcel_size": 19673,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0679",
+      "commodity": "Steel",
+      "demand_tonnes": 86873,
+      "min_parcel_size": 21981,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0680",
+      "commodity": "Cement",
+      "demand_tonnes": 79319,
+      "min_parcel_size": 23118,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0681",
+      "commodity": "Limestone",
+      "demand_tonnes": 50104,
+      "min_parcel_size": 13454,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0682",
+      "commodity": "Limestone",
+      "demand_tonnes": 107913,
+      "min_parcel_size": 10624,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0683",
+      "commodity": "Steel",
+      "demand_tonnes": 158453,
+      "min_parcel_size": 8801,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0684",
+      "commodity": "Coal",
+      "demand_tonnes": 70357,
+      "min_parcel_size": 8357,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0685",
+      "commodity": "Bauxite",
+      "demand_tonnes": 153427,
+      "min_parcel_size": 13100,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0686",
+      "commodity": "Limestone",
+      "demand_tonnes": 179266,
+      "min_parcel_size": 7657,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0687",
+      "commodity": "Bauxite",
+      "demand_tonnes": 132300,
+      "min_parcel_size": 20437,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0688",
+      "commodity": "Bauxite",
+      "demand_tonnes": 186315,
+      "min_parcel_size": 16520,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0689",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 95594,
+      "min_parcel_size": 7974,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0690",
+      "commodity": "Cement",
+      "demand_tonnes": 185792,
+      "min_parcel_size": 6618,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0691",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 106465,
+      "min_parcel_size": 17094,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0692",
+      "commodity": "Grain",
+      "demand_tonnes": 95092,
+      "min_parcel_size": 11957,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0693",
+      "commodity": "Cement",
+      "demand_tonnes": 84896,
+      "min_parcel_size": 20255,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0694",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 152200,
+      "min_parcel_size": 7331,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0695",
+      "commodity": "Cement",
+      "demand_tonnes": 83759,
+      "min_parcel_size": 11767,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0696",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 139727,
+      "min_parcel_size": 15428,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0697",
+      "commodity": "Limestone",
+      "demand_tonnes": 30776,
+      "min_parcel_size": 27724,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0698",
+      "commodity": "Bauxite",
+      "demand_tonnes": 120119,
+      "min_parcel_size": 27493,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0699",
+      "commodity": "Steel",
+      "demand_tonnes": 59980,
+      "min_parcel_size": 26660,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0700",
+      "commodity": "Steel",
+      "demand_tonnes": 174374,
+      "min_parcel_size": 5182,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0701",
+      "commodity": "Limestone",
+      "demand_tonnes": 106915,
+      "min_parcel_size": 21240,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0702",
+      "commodity": "Limestone",
+      "demand_tonnes": 74990,
+      "min_parcel_size": 28260,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0703",
+      "commodity": "Coal",
+      "demand_tonnes": 176044,
+      "min_parcel_size": 6506,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0704",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 81733,
+      "min_parcel_size": 26908,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0705",
+      "commodity": "Bauxite",
+      "demand_tonnes": 78573,
+      "min_parcel_size": 25091,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0706",
+      "commodity": "Steel",
+      "demand_tonnes": 44379,
+      "min_parcel_size": 20233,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0707",
+      "commodity": "Steel",
+      "demand_tonnes": 145171,
+      "min_parcel_size": 10947,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0708",
+      "commodity": "Steel",
+      "demand_tonnes": 25915,
+      "min_parcel_size": 13752,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0709",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 148459,
+      "min_parcel_size": 19745,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0710",
+      "commodity": "Coal",
+      "demand_tonnes": 124153,
+      "min_parcel_size": 29586,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0711",
+      "commodity": "Bauxite",
+      "demand_tonnes": 84182,
+      "min_parcel_size": 27709,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0712",
+      "commodity": "Bauxite",
+      "demand_tonnes": 72599,
+      "min_parcel_size": 29018,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0713",
+      "commodity": "Cement",
+      "demand_tonnes": 143484,
+      "min_parcel_size": 8765,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0714",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 44981,
+      "min_parcel_size": 14733,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0715",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 174051,
+      "min_parcel_size": 21185,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0716",
+      "commodity": "Coal",
+      "demand_tonnes": 45193,
+      "min_parcel_size": 29900,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0717",
+      "commodity": "Limestone",
+      "demand_tonnes": 39362,
+      "min_parcel_size": 26140,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0718",
+      "commodity": "Steel",
+      "demand_tonnes": 180854,
+      "min_parcel_size": 18441,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0719",
+      "commodity": "Grain",
+      "demand_tonnes": 99433,
+      "min_parcel_size": 9471,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0720",
+      "commodity": "Cement",
+      "demand_tonnes": 140349,
+      "min_parcel_size": 5546,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0721",
+      "commodity": "Grain",
+      "demand_tonnes": 188974,
+      "min_parcel_size": 10920,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0722",
+      "commodity": "Steel",
+      "demand_tonnes": 185401,
+      "min_parcel_size": 20489,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0723",
+      "commodity": "Bauxite",
+      "demand_tonnes": 166656,
+      "min_parcel_size": 21973,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0724",
+      "commodity": "Limestone",
+      "demand_tonnes": 68124,
+      "min_parcel_size": 24094,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0725",
+      "commodity": "Coal",
+      "demand_tonnes": 22396,
+      "min_parcel_size": 28779,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0726",
+      "commodity": "Steel",
+      "demand_tonnes": 107392,
+      "min_parcel_size": 6290,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0727",
+      "commodity": "Steel",
+      "demand_tonnes": 96155,
+      "min_parcel_size": 7629,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0728",
+      "commodity": "Grain",
+      "demand_tonnes": 196792,
+      "min_parcel_size": 25941,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0729",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 58987,
+      "min_parcel_size": 21149,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0730",
+      "commodity": "Grain",
+      "demand_tonnes": 165882,
+      "min_parcel_size": 27910,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0731",
+      "commodity": "Cement",
+      "demand_tonnes": 155139,
+      "min_parcel_size": 5939,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0732",
+      "commodity": "Steel",
+      "demand_tonnes": 20303,
+      "min_parcel_size": 22618,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0733",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 136777,
+      "min_parcel_size": 19840,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0734",
+      "commodity": "Cement",
+      "demand_tonnes": 36631,
+      "min_parcel_size": 18018,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0735",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 82149,
+      "min_parcel_size": 7091,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0736",
+      "commodity": "Bauxite",
+      "demand_tonnes": 35385,
+      "min_parcel_size": 21568,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0737",
+      "commodity": "Cement",
+      "demand_tonnes": 71983,
+      "min_parcel_size": 17350,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0738",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 87627,
+      "min_parcel_size": 14809,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0739",
+      "commodity": "Steel",
+      "demand_tonnes": 71560,
+      "min_parcel_size": 21371,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0740",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 49334,
+      "min_parcel_size": 12469,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0741",
+      "commodity": "Limestone",
+      "demand_tonnes": 183025,
+      "min_parcel_size": 9918,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0742",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 59557,
+      "min_parcel_size": 14382,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0743",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 196107,
+      "min_parcel_size": 18516,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0744",
+      "commodity": "Grain",
+      "demand_tonnes": 147566,
+      "min_parcel_size": 20500,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0745",
+      "commodity": "Cement",
+      "demand_tonnes": 184418,
+      "min_parcel_size": 19525,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0746",
+      "commodity": "Steel",
+      "demand_tonnes": 35522,
+      "min_parcel_size": 18967,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0747",
+      "commodity": "Limestone",
+      "demand_tonnes": 144758,
+      "min_parcel_size": 21781,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0748",
+      "commodity": "Coal",
+      "demand_tonnes": 150797,
+      "min_parcel_size": 26908,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0749",
+      "commodity": "Cement",
+      "demand_tonnes": 89123,
+      "min_parcel_size": 27555,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0750",
+      "commodity": "Bauxite",
+      "demand_tonnes": 99642,
+      "min_parcel_size": 27036,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0751",
+      "commodity": "Bauxite",
+      "demand_tonnes": 182078,
+      "min_parcel_size": 20713,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0752",
+      "commodity": "Grain",
+      "demand_tonnes": 123831,
+      "min_parcel_size": 16309,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0753",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 182237,
+      "min_parcel_size": 22646,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0754",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 129248,
+      "min_parcel_size": 24541,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0755",
+      "commodity": "Grain",
+      "demand_tonnes": 105363,
+      "min_parcel_size": 5489,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0756",
+      "commodity": "Grain",
+      "demand_tonnes": 195855,
+      "min_parcel_size": 10488,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0757",
+      "commodity": "Grain",
+      "demand_tonnes": 22988,
+      "min_parcel_size": 28679,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0758",
+      "commodity": "Bauxite",
+      "demand_tonnes": 147243,
+      "min_parcel_size": 6939,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0759",
+      "commodity": "Steel",
+      "demand_tonnes": 146789,
+      "min_parcel_size": 15397,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0760",
+      "commodity": "Coal",
+      "demand_tonnes": 108435,
+      "min_parcel_size": 21065,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0761",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 151170,
+      "min_parcel_size": 22035,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0762",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 29655,
+      "min_parcel_size": 18169,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0763",
+      "commodity": "Coal",
+      "demand_tonnes": 157477,
+      "min_parcel_size": 5897,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0764",
+      "commodity": "Steel",
+      "demand_tonnes": 113433,
+      "min_parcel_size": 29570,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0765",
+      "commodity": "Cement",
+      "demand_tonnes": 157763,
+      "min_parcel_size": 8310,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0766",
+      "commodity": "Cement",
+      "demand_tonnes": 71083,
+      "min_parcel_size": 6802,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0767",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 79056,
+      "min_parcel_size": 16065,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0768",
+      "commodity": "Limestone",
+      "demand_tonnes": 55394,
+      "min_parcel_size": 13492,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0769",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 149909,
+      "min_parcel_size": 20103,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0770",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 174881,
+      "min_parcel_size": 16285,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0771",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 135310,
+      "min_parcel_size": 11234,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0772",
+      "commodity": "Coal",
+      "demand_tonnes": 82445,
+      "min_parcel_size": 8531,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0773",
+      "commodity": "Steel",
+      "demand_tonnes": 190215,
+      "min_parcel_size": 20334,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0774",
+      "commodity": "Grain",
+      "demand_tonnes": 34378,
+      "min_parcel_size": 27722,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0775",
+      "commodity": "Steel",
+      "demand_tonnes": 96382,
+      "min_parcel_size": 21847,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0776",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 131292,
+      "min_parcel_size": 8840,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0777",
+      "commodity": "Bauxite",
+      "demand_tonnes": 98518,
+      "min_parcel_size": 26164,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0778",
+      "commodity": "Limestone",
+      "demand_tonnes": 164341,
+      "min_parcel_size": 15851,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0779",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 184349,
+      "min_parcel_size": 18499,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0780",
+      "commodity": "Grain",
+      "demand_tonnes": 108023,
+      "min_parcel_size": 10443,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0781",
+      "commodity": "Bauxite",
+      "demand_tonnes": 31894,
+      "min_parcel_size": 17928,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0782",
+      "commodity": "Coal",
+      "demand_tonnes": 199661,
+      "min_parcel_size": 6473,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0783",
+      "commodity": "Coal",
+      "demand_tonnes": 172434,
+      "min_parcel_size": 11923,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0784",
+      "commodity": "Grain",
+      "demand_tonnes": 43150,
+      "min_parcel_size": 28901,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0785",
+      "commodity": "Steel",
+      "demand_tonnes": 116173,
+      "min_parcel_size": 18129,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0786",
+      "commodity": "Cement",
+      "demand_tonnes": 51880,
+      "min_parcel_size": 24691,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0787",
+      "commodity": "Coal",
+      "demand_tonnes": 191656,
+      "min_parcel_size": 17252,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0788",
+      "commodity": "Coal",
+      "demand_tonnes": 179054,
+      "min_parcel_size": 20549,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0789",
+      "commodity": "Coal",
+      "demand_tonnes": 29646,
+      "min_parcel_size": 27602,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0790",
+      "commodity": "Coal",
+      "demand_tonnes": 180092,
+      "min_parcel_size": 27540,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0791",
+      "commodity": "Bauxite",
+      "demand_tonnes": 179408,
+      "min_parcel_size": 12789,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0792",
+      "commodity": "Steel",
+      "demand_tonnes": 86411,
+      "min_parcel_size": 25646,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0793",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 150478,
+      "min_parcel_size": 6350,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0794",
+      "commodity": "Coal",
+      "demand_tonnes": 31879,
+      "min_parcel_size": 10424,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0795",
+      "commodity": "Limestone",
+      "demand_tonnes": 59133,
+      "min_parcel_size": 14891,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0796",
+      "commodity": "Cement",
+      "demand_tonnes": 139953,
+      "min_parcel_size": 5102,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0797",
+      "commodity": "Limestone",
+      "demand_tonnes": 33459,
+      "min_parcel_size": 13112,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0798",
+      "commodity": "Grain",
+      "demand_tonnes": 135899,
+      "min_parcel_size": 26616,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0799",
+      "commodity": "Bauxite",
+      "demand_tonnes": 85605,
+      "min_parcel_size": 27809,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0800",
+      "commodity": "Limestone",
+      "demand_tonnes": 190391,
+      "min_parcel_size": 23446,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0801",
+      "commodity": "Limestone",
+      "demand_tonnes": 29347,
+      "min_parcel_size": 21361,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0802",
+      "commodity": "Cement",
+      "demand_tonnes": 98387,
+      "min_parcel_size": 22404,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0803",
+      "commodity": "Coal",
+      "demand_tonnes": 32303,
+      "min_parcel_size": 7175,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0804",
+      "commodity": "Limestone",
+      "demand_tonnes": 172516,
+      "min_parcel_size": 9660,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0805",
+      "commodity": "Cement",
+      "demand_tonnes": 192043,
+      "min_parcel_size": 22060,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0806",
+      "commodity": "Coal",
+      "demand_tonnes": 104681,
+      "min_parcel_size": 15780,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0807",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 179809,
+      "min_parcel_size": 11674,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0808",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 92604,
+      "min_parcel_size": 12691,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0809",
+      "commodity": "Steel",
+      "demand_tonnes": 173675,
+      "min_parcel_size": 14774,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0810",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 187337,
+      "min_parcel_size": 27603,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0811",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 128075,
+      "min_parcel_size": 9701,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0812",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 23768,
+      "min_parcel_size": 21766,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0813",
+      "commodity": "Grain",
+      "demand_tonnes": 151061,
+      "min_parcel_size": 20493,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0814",
+      "commodity": "Cement",
+      "demand_tonnes": 130227,
+      "min_parcel_size": 26781,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0815",
+      "commodity": "Grain",
+      "demand_tonnes": 87619,
+      "min_parcel_size": 24210,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0816",
+      "commodity": "Coal",
+      "demand_tonnes": 146618,
+      "min_parcel_size": 18528,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0817",
+      "commodity": "Coal",
+      "demand_tonnes": 170896,
+      "min_parcel_size": 19891,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0818",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 153617,
+      "min_parcel_size": 20657,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0819",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 52171,
+      "min_parcel_size": 23241,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0820",
+      "commodity": "Bauxite",
+      "demand_tonnes": 183617,
+      "min_parcel_size": 29529,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0821",
+      "commodity": "Grain",
+      "demand_tonnes": 174376,
+      "min_parcel_size": 18960,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0822",
+      "commodity": "Steel",
+      "demand_tonnes": 36406,
+      "min_parcel_size": 28006,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0823",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 74070,
+      "min_parcel_size": 9936,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0824",
+      "commodity": "Bauxite",
+      "demand_tonnes": 26561,
+      "min_parcel_size": 29066,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0825",
+      "commodity": "Grain",
+      "demand_tonnes": 135273,
+      "min_parcel_size": 14023,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0826",
+      "commodity": "Bauxite",
+      "demand_tonnes": 27725,
+      "min_parcel_size": 6430,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0827",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 112482,
+      "min_parcel_size": 5482,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0828",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 115410,
+      "min_parcel_size": 27490,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0829",
+      "commodity": "Steel",
+      "demand_tonnes": 22254,
+      "min_parcel_size": 29422,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0830",
+      "commodity": "Steel",
+      "demand_tonnes": 63845,
+      "min_parcel_size": 6833,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0831",
+      "commodity": "Cement",
+      "demand_tonnes": 188958,
+      "min_parcel_size": 21184,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0832",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 151342,
+      "min_parcel_size": 10883,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0833",
+      "commodity": "Coal",
+      "demand_tonnes": 78324,
+      "min_parcel_size": 7563,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0834",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 184174,
+      "min_parcel_size": 27143,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0835",
+      "commodity": "Coal",
+      "demand_tonnes": 115941,
+      "min_parcel_size": 11305,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0836",
+      "commodity": "Limestone",
+      "demand_tonnes": 195411,
+      "min_parcel_size": 12009,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0837",
+      "commodity": "Limestone",
+      "demand_tonnes": 77407,
+      "min_parcel_size": 6492,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0838",
+      "commodity": "Grain",
+      "demand_tonnes": 28664,
+      "min_parcel_size": 23690,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0839",
+      "commodity": "Cement",
+      "demand_tonnes": 185637,
+      "min_parcel_size": 18492,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0840",
+      "commodity": "Steel",
+      "demand_tonnes": 40170,
+      "min_parcel_size": 16331,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0841",
+      "commodity": "Bauxite",
+      "demand_tonnes": 63375,
+      "min_parcel_size": 22031,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0842",
+      "commodity": "Limestone",
+      "demand_tonnes": 189050,
+      "min_parcel_size": 27381,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0843",
+      "commodity": "Steel",
+      "demand_tonnes": 198356,
+      "min_parcel_size": 12527,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0844",
+      "commodity": "Coal",
+      "demand_tonnes": 23738,
+      "min_parcel_size": 14457,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0845",
+      "commodity": "Cement",
+      "demand_tonnes": 196344,
+      "min_parcel_size": 22105,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0846",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 45220,
+      "min_parcel_size": 28489,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0847",
+      "commodity": "Cement",
+      "demand_tonnes": 66201,
+      "min_parcel_size": 7981,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0848",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 104693,
+      "min_parcel_size": 11874,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0849",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 172910,
+      "min_parcel_size": 18199,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0850",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 176842,
+      "min_parcel_size": 9091,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0851",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 165429,
+      "min_parcel_size": 11211,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0852",
+      "commodity": "Coal",
+      "demand_tonnes": 142993,
+      "min_parcel_size": 23040,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0853",
+      "commodity": "Coal",
+      "demand_tonnes": 87823,
+      "min_parcel_size": 20983,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0854",
+      "commodity": "Bauxite",
+      "demand_tonnes": 190907,
+      "min_parcel_size": 7951,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0855",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 29365,
+      "min_parcel_size": 28580,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0856",
+      "commodity": "Steel",
+      "demand_tonnes": 35602,
+      "min_parcel_size": 17157,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0857",
+      "commodity": "Coal",
+      "demand_tonnes": 159882,
+      "min_parcel_size": 5655,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0858",
+      "commodity": "Limestone",
+      "demand_tonnes": 128406,
+      "min_parcel_size": 25189,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0859",
+      "commodity": "Grain",
+      "demand_tonnes": 165977,
+      "min_parcel_size": 14650,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0860",
+      "commodity": "Coal",
+      "demand_tonnes": 91841,
+      "min_parcel_size": 9579,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0861",
+      "commodity": "Limestone",
+      "demand_tonnes": 32171,
+      "min_parcel_size": 12881,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0862",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 134632,
+      "min_parcel_size": 13841,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0863",
+      "commodity": "Coal",
+      "demand_tonnes": 84980,
+      "min_parcel_size": 7491,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0864",
+      "commodity": "Steel",
+      "demand_tonnes": 196643,
+      "min_parcel_size": 7740,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0865",
+      "commodity": "Cement",
+      "demand_tonnes": 103552,
+      "min_parcel_size": 12253,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0866",
+      "commodity": "Grain",
+      "demand_tonnes": 34898,
+      "min_parcel_size": 14661,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0867",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 190005,
+      "min_parcel_size": 13492,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0868",
+      "commodity": "Steel",
+      "demand_tonnes": 110528,
+      "min_parcel_size": 20464,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0869",
+      "commodity": "Bauxite",
+      "demand_tonnes": 141110,
+      "min_parcel_size": 23051,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0870",
+      "commodity": "Steel",
+      "demand_tonnes": 192314,
+      "min_parcel_size": 6159,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0871",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 147685,
+      "min_parcel_size": 16946,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0872",
+      "commodity": "Limestone",
+      "demand_tonnes": 49065,
+      "min_parcel_size": 17658,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0873",
+      "commodity": "Limestone",
+      "demand_tonnes": 70182,
+      "min_parcel_size": 8296,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0874",
+      "commodity": "Cement",
+      "demand_tonnes": 160005,
+      "min_parcel_size": 16411,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0875",
+      "commodity": "Bauxite",
+      "demand_tonnes": 65737,
+      "min_parcel_size": 25126,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0876",
+      "commodity": "Grain",
+      "demand_tonnes": 113751,
+      "min_parcel_size": 23138,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0877",
+      "commodity": "Grain",
+      "demand_tonnes": 60170,
+      "min_parcel_size": 7743,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0878",
+      "commodity": "Steel",
+      "demand_tonnes": 21296,
+      "min_parcel_size": 22431,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0879",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 128416,
+      "min_parcel_size": 11556,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0880",
+      "commodity": "Grain",
+      "demand_tonnes": 97520,
+      "min_parcel_size": 13140,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0881",
+      "commodity": "Limestone",
+      "demand_tonnes": 43021,
+      "min_parcel_size": 8641,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0882",
+      "commodity": "Cement",
+      "demand_tonnes": 69729,
+      "min_parcel_size": 8796,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0883",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 134038,
+      "min_parcel_size": 17341,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0884",
+      "commodity": "Bauxite",
+      "demand_tonnes": 88712,
+      "min_parcel_size": 19006,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0885",
+      "commodity": "Limestone",
+      "demand_tonnes": 66232,
+      "min_parcel_size": 21971,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0886",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 157829,
+      "min_parcel_size": 9741,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0887",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 91886,
+      "min_parcel_size": 20654,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0888",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 62664,
+      "min_parcel_size": 15391,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0889",
+      "commodity": "Steel",
+      "demand_tonnes": 99107,
+      "min_parcel_size": 23894,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0890",
+      "commodity": "Cement",
+      "demand_tonnes": 155850,
+      "min_parcel_size": 17221,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0891",
+      "commodity": "Bauxite",
+      "demand_tonnes": 126897,
+      "min_parcel_size": 29562,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0892",
+      "commodity": "Coal",
+      "demand_tonnes": 61873,
+      "min_parcel_size": 6632,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0893",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 156158,
+      "min_parcel_size": 14956,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0894",
+      "commodity": "Grain",
+      "demand_tonnes": 49903,
+      "min_parcel_size": 28181,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0895",
+      "commodity": "Limestone",
+      "demand_tonnes": 100071,
+      "min_parcel_size": 26360,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0896",
+      "commodity": "Cement",
+      "demand_tonnes": 160642,
+      "min_parcel_size": 28992,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0897",
+      "commodity": "Limestone",
+      "demand_tonnes": 145697,
+      "min_parcel_size": 26636,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0898",
+      "commodity": "Limestone",
+      "demand_tonnes": 41182,
+      "min_parcel_size": 11136,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0899",
+      "commodity": "Grain",
+      "demand_tonnes": 118735,
+      "min_parcel_size": 17661,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0900",
+      "commodity": "Cement",
+      "demand_tonnes": 144986,
+      "min_parcel_size": 8522,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0901",
+      "commodity": "Bauxite",
+      "demand_tonnes": 73030,
+      "min_parcel_size": 13289,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0902",
+      "commodity": "Limestone",
+      "demand_tonnes": 39450,
+      "min_parcel_size": 20833,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0903",
+      "commodity": "Coal",
+      "demand_tonnes": 157092,
+      "min_parcel_size": 11356,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0904",
+      "commodity": "Bauxite",
+      "demand_tonnes": 23242,
+      "min_parcel_size": 9871,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0905",
+      "commodity": "Bauxite",
+      "demand_tonnes": 125626,
+      "min_parcel_size": 7052,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0906",
+      "commodity": "Cement",
+      "demand_tonnes": 57450,
+      "min_parcel_size": 24979,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0907",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 106483,
+      "min_parcel_size": 6119,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0908",
+      "commodity": "Cement",
+      "demand_tonnes": 147925,
+      "min_parcel_size": 5631,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0909",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 150055,
+      "min_parcel_size": 10524,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0910",
+      "commodity": "Steel",
+      "demand_tonnes": 195192,
+      "min_parcel_size": 24241,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0911",
+      "commodity": "Grain",
+      "demand_tonnes": 40395,
+      "min_parcel_size": 23495,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0912",
+      "commodity": "Limestone",
+      "demand_tonnes": 66024,
+      "min_parcel_size": 5464,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0913",
+      "commodity": "Cement",
+      "demand_tonnes": 147163,
+      "min_parcel_size": 24106,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0914",
+      "commodity": "Cement",
+      "demand_tonnes": 99926,
+      "min_parcel_size": 20709,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0915",
+      "commodity": "Steel",
+      "demand_tonnes": 182927,
+      "min_parcel_size": 29618,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0916",
+      "commodity": "Bauxite",
+      "demand_tonnes": 90609,
+      "min_parcel_size": 18069,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0917",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 198378,
+      "min_parcel_size": 23634,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0918",
+      "commodity": "Bauxite",
+      "demand_tonnes": 147967,
+      "min_parcel_size": 20727,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0919",
+      "commodity": "Grain",
+      "demand_tonnes": 145643,
+      "min_parcel_size": 14908,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0920",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 30634,
+      "min_parcel_size": 27379,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0921",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 35263,
+      "min_parcel_size": 23286,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0922",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 142510,
+      "min_parcel_size": 17825,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0923",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 184612,
+      "min_parcel_size": 15538,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0924",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 51306,
+      "min_parcel_size": 16453,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0925",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 54812,
+      "min_parcel_size": 13292,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0926",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 131386,
+      "min_parcel_size": 27708,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0927",
+      "commodity": "Limestone",
+      "demand_tonnes": 108089,
+      "min_parcel_size": 13190,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0928",
+      "commodity": "Grain",
+      "demand_tonnes": 40111,
+      "min_parcel_size": 28522,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0929",
+      "commodity": "Steel",
+      "demand_tonnes": 166321,
+      "min_parcel_size": 22525,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0930",
+      "commodity": "Bauxite",
+      "demand_tonnes": 78478,
+      "min_parcel_size": 21043,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0931",
+      "commodity": "Limestone",
+      "demand_tonnes": 117957,
+      "min_parcel_size": 9294,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0932",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 58177,
+      "min_parcel_size": 27380,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0933",
+      "commodity": "Steel",
+      "demand_tonnes": 80614,
+      "min_parcel_size": 10823,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0934",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 62692,
+      "min_parcel_size": 29985,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0935",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 151747,
+      "min_parcel_size": 28802,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0936",
+      "commodity": "Coal",
+      "demand_tonnes": 119397,
+      "min_parcel_size": 24607,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0937",
+      "commodity": "Grain",
+      "demand_tonnes": 117631,
+      "min_parcel_size": 5271,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0938",
+      "commodity": "Grain",
+      "demand_tonnes": 96437,
+      "min_parcel_size": 27256,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0939",
+      "commodity": "Bauxite",
+      "demand_tonnes": 74610,
+      "min_parcel_size": 8829,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0940",
+      "commodity": "Coal",
+      "demand_tonnes": 196538,
+      "min_parcel_size": 15659,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0941",
+      "commodity": "Grain",
+      "demand_tonnes": 101208,
+      "min_parcel_size": 25668,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0942",
+      "commodity": "Bauxite",
+      "demand_tonnes": 143573,
+      "min_parcel_size": 20516,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0943",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 136917,
+      "min_parcel_size": 7898,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0944",
+      "commodity": "Coal",
+      "demand_tonnes": 177266,
+      "min_parcel_size": 27121,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0945",
+      "commodity": "Bauxite",
+      "demand_tonnes": 190796,
+      "min_parcel_size": 7743,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0946",
+      "commodity": "Coal",
+      "demand_tonnes": 168380,
+      "min_parcel_size": 26796,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0947",
+      "commodity": "Coal",
+      "demand_tonnes": 137878,
+      "min_parcel_size": 16168,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0948",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 110046,
+      "min_parcel_size": 25121,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0949",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 76727,
+      "min_parcel_size": 19991,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0950",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 173348,
+      "min_parcel_size": 24169,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0951",
+      "commodity": "Cement",
+      "demand_tonnes": 159911,
+      "min_parcel_size": 22617,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0952",
+      "commodity": "Steel",
+      "demand_tonnes": 110449,
+      "min_parcel_size": 14682,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0953",
+      "commodity": "Coal",
+      "demand_tonnes": 118162,
+      "min_parcel_size": 25308,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0954",
+      "commodity": "Cement",
+      "demand_tonnes": 59988,
+      "min_parcel_size": 6001,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0955",
+      "commodity": "Limestone",
+      "demand_tonnes": 57512,
+      "min_parcel_size": 24573,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0956",
+      "commodity": "Cement",
+      "demand_tonnes": 85637,
+      "min_parcel_size": 21872,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0957",
+      "commodity": "Coal",
+      "demand_tonnes": 178545,
+      "min_parcel_size": 10276,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0958",
+      "commodity": "Limestone",
+      "demand_tonnes": 175413,
+      "min_parcel_size": 23927,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0959",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 137451,
+      "min_parcel_size": 7543,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0960",
+      "commodity": "Bauxite",
+      "demand_tonnes": 70096,
+      "min_parcel_size": 10111,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0961",
+      "commodity": "Coal",
+      "demand_tonnes": 73030,
+      "min_parcel_size": 17093,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0962",
+      "commodity": "Cement",
+      "demand_tonnes": 77258,
+      "min_parcel_size": 26665,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0963",
+      "commodity": "Bauxite",
+      "demand_tonnes": 110976,
+      "min_parcel_size": 6583,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0964",
+      "commodity": "Coal",
+      "demand_tonnes": 117332,
+      "min_parcel_size": 25762,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0965",
+      "commodity": "Cement",
+      "demand_tonnes": 27030,
+      "min_parcel_size": 23590,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0966",
+      "commodity": "Cement",
+      "demand_tonnes": 170437,
+      "min_parcel_size": 19693,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0967",
+      "commodity": "Cement",
+      "demand_tonnes": 74975,
+      "min_parcel_size": 16818,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0968",
+      "commodity": "Bauxite",
+      "demand_tonnes": 33884,
+      "min_parcel_size": 24573,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0969",
+      "commodity": "Bauxite",
+      "demand_tonnes": 46277,
+      "min_parcel_size": 29025,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0970",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 36214,
+      "min_parcel_size": 24147,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0971",
+      "commodity": "Grain",
+      "demand_tonnes": 26782,
+      "min_parcel_size": 20190,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0972",
+      "commodity": "Steel",
+      "demand_tonnes": 25375,
+      "min_parcel_size": 15343,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0973",
+      "commodity": "Limestone",
+      "demand_tonnes": 111536,
+      "min_parcel_size": 20203,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0974",
+      "commodity": "Bauxite",
+      "demand_tonnes": 178840,
+      "min_parcel_size": 10946,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0975",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 140919,
+      "min_parcel_size": 12799,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0976",
+      "commodity": "Grain",
+      "demand_tonnes": 147745,
+      "min_parcel_size": 18002,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0977",
+      "commodity": "Grain",
+      "demand_tonnes": 175636,
+      "min_parcel_size": 29138,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0978",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 137996,
+      "min_parcel_size": 16684,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0979",
+      "commodity": "Bauxite",
+      "demand_tonnes": 57438,
+      "min_parcel_size": 22088,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0980",
+      "commodity": "Limestone",
+      "demand_tonnes": 151912,
+      "min_parcel_size": 11732,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0981",
+      "commodity": "Steel",
+      "demand_tonnes": 166940,
+      "min_parcel_size": 6598,
+      "max_tranches": 2
+    },
+    {
+      "cargo_id": "C0982",
+      "commodity": "Limestone",
+      "demand_tonnes": 100446,
+      "min_parcel_size": 12547,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0983",
+      "commodity": "Grain",
+      "demand_tonnes": 56831,
+      "min_parcel_size": 18081,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0984",
+      "commodity": "Limestone",
+      "demand_tonnes": 51605,
+      "min_parcel_size": 11127,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0985",
+      "commodity": "Cement",
+      "demand_tonnes": 51698,
+      "min_parcel_size": 24479,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0986",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 92290,
+      "min_parcel_size": 29401,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0987",
+      "commodity": "Limestone",
+      "demand_tonnes": 68433,
+      "min_parcel_size": 8224,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0988",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 90307,
+      "min_parcel_size": 28090,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0989",
+      "commodity": "Steel",
+      "demand_tonnes": 77692,
+      "min_parcel_size": 11182,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0990",
+      "commodity": "Coal",
+      "demand_tonnes": 191659,
+      "min_parcel_size": 9491,
+      "max_tranches": 4
+    },
+    {
+      "cargo_id": "C0991",
+      "commodity": "Limestone",
+      "demand_tonnes": 121013,
+      "min_parcel_size": 12684,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0992",
+      "commodity": "Cement",
+      "demand_tonnes": 179987,
+      "min_parcel_size": 6383,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0993",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 164891,
+      "min_parcel_size": 23899,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0994",
+      "commodity": "Bauxite",
+      "demand_tonnes": 41269,
+      "min_parcel_size": 7816,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0995",
+      "commodity": "Steel",
+      "demand_tonnes": 98824,
+      "min_parcel_size": 13647,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0996",
+      "commodity": "Iron Ore",
+      "demand_tonnes": 114434,
+      "min_parcel_size": 27663,
+      "max_tranches": 5
+    },
+    {
+      "cargo_id": "C0997",
+      "commodity": "Limestone",
+      "demand_tonnes": 72329,
+      "min_parcel_size": 22841,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C0998",
+      "commodity": "Coal",
+      "demand_tonnes": 100295,
+      "min_parcel_size": 23527,
+      "max_tranches": 1
+    },
+    {
+      "cargo_id": "C0999",
+      "commodity": "Grain",
+      "demand_tonnes": 34044,
+      "min_parcel_size": 5978,
+      "max_tranches": 3
+    },
+    {
+      "cargo_id": "C1000",
+      "commodity": "Fertilizer",
+      "demand_tonnes": 63983,
+      "min_parcel_size": 15944,
+      "max_tranches": 3
+    }
+  ],
+  "ports": [
+    {
+      "port_id": "P0001",
+      "name": "Port 1",
+      "draft_limit": 

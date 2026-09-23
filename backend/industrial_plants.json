@@ -1,0 +1,122 @@
+[
+  {
+    "plant_id": "NTPC_TALCHER",
+    "name": "NTPC Talcher Super Thermal Power Station",
+    "location": "Kaniha, Angul, Odisha",
+    "capacity_mw": 3000,
+    "primary_port": "IN_PRT",
+    "secondary_port": "IN_DHM",
+    "cargo_required": "Thermal Coal",
+    "monthly_demand_mt": 320000,
+    "current_stock_mt": 180000,
+    "daily_burn_rate_mt": 10600,
+    "stock_days_remaining": 17.0,
+    "critical_stock_days_threshold": 12.0,
+    "preferred_origin": "ID_SAM",
+    "coal_spec": {
+      "gcv_kcal": 4800,
+      "ash_max_pct": 28.0,
+      "sulfur_max_pct": 0.6
+    }
+  },
+  {
+    "plant_id": "SAIL_ROURKELA",
+    "name": "SAIL Rourkela Steel Plant (RSP)",
+    "location": "Rourkela, Sundargarh, Odisha",
+    "capacity_tpa_crude_steel": 4500000,
+    "primary_port": "IN_PRT",
+    "secondary_port": "IN_DHM",
+    "cargo_required": "Coking Coal",
+    "monthly_demand_mt": 210000,
+    "current_stock_mt": 95000,
+    "daily_burn_rate_mt": 7000,
+    "stock_days_remaining": 13.5,
+    "critical_stock_days_threshold": 10.0,
+    "preferred_origin": "AU_GLA",
+    "coal_spec": {
+      "coking_index": 72,
+      "ash_max_pct": 9.5,
+      "csr": 65
+    }
+  },
+  {
+    "plant_id": "RINL_VIZAG",
+    "name": "Rashtriya Ispat Nigam Ltd (Vizag Steel)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "capacity_tpa_crude_steel": 7300000,
+    "primary_port": "IN_VTZ",
+    "secondary_port": "IN_KRP",
+    "cargo_required": "Coking Coal",
+    "monthly_demand_mt": 290000,
+    "current_stock_mt": 140000,
+    "daily_burn_rate_mt": 9600,
+    "stock_days_remaining": 14.6,
+    "critical_stock_days_threshold": 10.0,
+    "preferred_origin": "AU_GLA",
+    "coal_spec": {
+      "coking_index": 75,
+      "ash_max_pct": 9.2,
+      "csr": 68
+    }
+  },
+  {
+    "plant_id": "TATA_KALINGANAGAR",
+    "name": "Tata Steel Kalinganagar Plant",
+    "location": "Jajpur, Odisha",
+    "capacity_tpa_crude_steel": 8000000,
+    "primary_port": "IN_DHM",
+    "secondary_port": "IN_PRT",
+    "cargo_required": "Coking Coal",
+    "monthly_demand_mt": 350000,
+    "current_stock_mt": 220000,
+    "daily_burn_rate_mt": 11600,
+    "stock_days_remaining": 19.0,
+    "critical_stock_days_threshold": 12.0,
+    "preferred_origin": "AU_GLA",
+    "coal_spec": {
+      "coking_index": 74,
+      "ash_max_pct": 9.0,
+      "csr": 67
+    }
+  },
+  {
+    "plant_id": "TANGEDCO_NCTPS",
+    "name": "TANGEDCO North Chennai Thermal Power Station",
+    "location": "Ennore, Chennai, Tamil Nadu",
+    "capacity_mw": 1830,
+    "primary_port": "IN_ENR",
+    "secondary_port": "IN_KRP",
+    "cargo_required": "Thermal Coal",
+    "monthly_demand_mt": 190000,
+    "current_stock_mt": 72000,
+    "daily_burn_rate_mt": 6300,
+    "stock_days_remaining": 11.4,
+    "critical_stock_days_threshold": 10.0,
+    "preferred_origin": "ID_SAM",
+    "coal_spec": {
+      "gcv_kcal": 4500,
+      "ash_max_pct": 32.0,
+      "sulfur_max_pct": 0.5
+    }
+  },
+  {
+    "plant_id": "SAIL_DURGAPUR",
+    "name": "SAIL Durgapur Steel Plant",
+    "location": "Durgapur, West Bengal",
+    "capacity_tpa_crude_steel": 2200000,
+    "primary_port": "IN_HAL",
+    "secondary_port": "IN_DHM",
+    "cargo_required": "Coking Coal",
+    "monthly_demand_mt": 120000,
+    "current_stock_mt": 48000,
+    "daily_burn_rate_mt": 4000,
+    "stock_days_remaining": 12.0,
+    "critical_stock_days_threshold": 8.0,
+    "preferred_origin": "ZA_RCB",
+    "coal_spec": {
+      "coking_index": 70,
+      "ash_max_pct": 10.0,
+      "csr": 62
+    }
+  }
+]
