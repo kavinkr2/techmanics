@@ -333,7 +333,6 @@ TechManics uses environment variables for configuration and API credentials.
 
 Create or configure your environment file locally as required by the application.
 
-**Do not commit API keys, passwords, or other sensitive credentials to GitHub.**
 
 The following files should remain local:
 
